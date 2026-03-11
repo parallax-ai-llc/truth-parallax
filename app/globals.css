@@ -1,0 +1,428 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* WCAG AAA 색상 대비 (7:1 이상) */
+    --background: 0 0% 100%;
+    --foreground: 0 0% 0%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 0%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 0%;
+    --primary: 0 0% 0%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 0 0% 95%;
+    --secondary-foreground: 0 0% 0%;
+    --muted: 0 0% 95%;
+    --muted-foreground: 0 0% 30%;
+    --accent: 0 0% 95%;
+    --accent-foreground: 0 0% 0%;
+    --destructive: 0 70% 40%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 0 0% 75%;
+    --input: 0 0% 75%;
+    --ring: 210 100% 35%;
+    --radius: 0.5rem;
+    --link: 210 100% 30%;
+
+    /* 포커스 링 색상 */
+    --focus-ring: 210 100% 40%;
+    --focus-ring-offset: 0 0% 100%;
+  }
+
+  .dark {
+    /* WCAG AAA 다크 모드 색상 대비 (7:1 이상) */
+    --background: 0 0% 7%;
+    --foreground: 0 0% 100%;
+    --card: 0 0% 7%;
+    --card-foreground: 0 0% 100%;
+    --popover: 0 0% 7%;
+    --popover-foreground: 0 0% 100%;
+    --primary: 0 0% 100%;
+    --primary-foreground: 0 0% 0%;
+    --secondary: 0 0% 15%;
+    --secondary-foreground: 0 0% 100%;
+    --muted: 0 0% 15%;
+    --muted-foreground: 0 0% 75%;
+    --accent: 0 0% 15%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 70% 55%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 0 0% 30%;
+    --input: 0 0% 30%;
+    --ring: 210 100% 70%;
+    --link: 210 100% 75%;
+
+    /* 다크 모드 포커스 링 */
+    --focus-ring: 210 100% 70%;
+    --focus-ring-offset: 0 0% 7%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  /* 스킵 네비게이션 링크 */
+  .skip-link {
+    position: absolute;
+    top: -100%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 1rem 1.5rem;
+    background: hsl(var(--background));
+    color: hsl(var(--foreground));
+    border: 3px solid hsl(var(--focus-ring));
+    border-radius: var(--radius);
+    font-weight: 600;
+    font-size: 1rem;
+    z-index: 9999;
+    transition: top 0.2s ease;
+    text-decoration: none;
+  }
+
+  .skip-link:focus {
+    top: 0.5rem;
+    outline: none;
+  }
+
+  /* WCAG AAA 포커스 스타일 - 명확한 가시성 */
+  :focus-visible {
+    outline: 3px solid hsl(var(--focus-ring));
+    outline-offset: 2px;
+  }
+
+  /* 버튼 및 인터랙티브 요소 포커스 */
+  button:focus-visible,
+  a:focus-visible,
+  [role="button"]:focus-visible,
+  [tabindex]:focus-visible {
+    outline: 3px solid hsl(var(--focus-ring));
+    outline-offset: 2px;
+    border-radius: var(--radius);
+  }
+
+  /* Motion Reduce 지원 */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+  /* 고대비 모드 지원 */
+  @media (prefers-contrast: high) {
+    :root {
+      --border: 0 0% 0%;
+      --muted-foreground: 0 0% 20%;
+    }
+
+    .dark {
+      --border: 0 0% 100%;
+      --muted-foreground: 0 0% 90%;
+    }
+  }
+}
+
+/* ========================================
+   Article Prose Styles
+   ======================================== */
+
+.article-content {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: hsl(var(--foreground));
+}
+
+/* Headings */
+.article-content h1,
+.article-content h2 {
+  font-family: var(--font-serif), serif;
+}
+
+.article-content h3,
+.article-content h4 {
+  font-family: inherit;
+}
+
+/* h2는 아코디언 버튼에서 별도로 렌더링되므로 스타일 최소화 */
+.article-content h2 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: hsl(var(--foreground));
+}
+
+.article-content h3 {
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid hsl(var(--border) / 0.5);
+  color: hsl(var(--foreground));
+}
+
+.article-content h4 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  color: hsl(var(--muted-foreground));
+}
+
+/* Paragraphs */
+.article-content p {
+  margin-bottom: 1.25rem;
+  line-height: 1.85;
+}
+
+/* Links - Light Blue */
+.article-content a {
+  color: hsl(var(--link));
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.article-content a:hover {
+  text-decoration: underline;
+  color: hsl(210 100% 25%);
+}
+
+.dark .article-content a:hover {
+  color: hsl(210 100% 80%);
+}
+
+/* 링크 포커스 표시 */
+.article-content a:focus-visible {
+  outline: 3px solid hsl(var(--focus-ring));
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Lists */
+.article-content ul,
+.article-content ol {
+  margin: 1.25rem 0;
+  padding-left: 1.75rem;
+}
+
+.article-content ul {
+  list-style-type: disc;
+}
+
+.article-content ol {
+  list-style-type: decimal;
+}
+
+.article-content li {
+  margin-bottom: 0.5rem;
+  line-height: 1.7;
+}
+
+.article-content li::marker {
+  color: hsl(var(--muted-foreground));
+}
+
+/* Strong / Bold */
+.article-content strong {
+  font-weight: 600;
+  color: hsl(var(--foreground));
+}
+
+/* Tables */
+.article-content table {
+  width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+  font-size: 0.925rem;
+}
+
+.article-content th,
+.article-content td {
+  padding: 0.75rem 1rem;
+  border: 1px solid hsl(var(--border));
+  text-align: left;
+}
+
+.article-content th {
+  background: hsl(var(--muted));
+  font-weight: 600;
+}
+
+.article-content tr:hover {
+  background: hsl(var(--muted) / 0.5);
+}
+
+/* Blockquotes */
+.article-content blockquote {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid hsl(var(--link));
+  background: hsl(var(--muted) / 0.3);
+  font-style: italic;
+  color: hsl(var(--muted-foreground));
+}
+
+/* Code */
+.article-content code {
+  background: hsl(var(--muted));
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+}
+
+/* Horizontal Rule */
+.article-content hr {
+  margin: 2.5rem 0;
+  border: none;
+  border-top: 1px solid hsl(var(--border));
+}
+
+/* ========================================
+   References Section - Special Styling
+   ======================================== */
+
+/* Footnote references in text */
+.article-content sup {
+  font-size: 0.75rem;
+  margin-left: 0.125rem;
+}
+
+.article-content sup a {
+  color: hsl(var(--link));
+  font-weight: 500;
+}
+
+.article-content sup a::before {
+  content: "[";
+}
+
+.article-content sup a::after {
+  content: "]";
+}
+
+/* References section container - remove all borders inside */
+.references-section {
+  background: hsl(var(--muted) / 0.3);
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+}
+
+.references-section h2 {
+  margin-top: 0 !important;
+  padding-bottom: 0 !important;
+  border-bottom: none !important;
+  font-size: 1.5rem;
+}
+
+.references-section h3,
+.references-section h4 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
+
+.references-section p {
+  font-size: 0.875rem;
+  line-height: 1.6;
+  margin-bottom: 0.5rem;
+  color: hsl(var(--muted-foreground));
+}
+
+.references-section a {
+  word-break: break-all;
+}
+
+/* Command dialog focus fix */
+[cmdk-input]:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* Image styling */
+.article-content img {
+  border-radius: 0.5rem;
+  margin: 1.5rem 0;
+}
+
+/* ========================================
+   Prose Styles (Terms, Privacy pages)
+   ======================================== */
+
+.prose {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: hsl(var(--foreground));
+}
+
+.prose h1 {
+  font-family: var(--font-serif), serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: hsl(var(--foreground));
+}
+
+.prose h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid hsl(var(--border));
+  color: hsl(var(--foreground));
+}
+
+.prose p {
+  margin-bottom: 1.25rem;
+  line-height: 1.85;
+}
+
+.prose .lead {
+  font-size: 1.125rem;
+  color: hsl(var(--muted-foreground));
+  margin-bottom: 2rem;
+}
+
+.prose ul,
+.prose ol {
+  margin: 1.25rem 0;
+  padding-left: 1.75rem;
+}
+
+.prose ul {
+  list-style-type: disc;
+}
+
+.prose ol {
+  list-style-type: decimal;
+}
+
+.prose li {
+  margin-bottom: 0.5rem;
+  line-height: 1.7;
+}
+
+.prose li::marker {
+  color: hsl(var(--muted-foreground));
+}
+
+.prose a {
+  color: hsl(var(--link));
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.prose a:hover {
+  text-decoration: underline;
+}

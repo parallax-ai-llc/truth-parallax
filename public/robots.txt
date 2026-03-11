@@ -1,0 +1,220 @@
+# As a condition of accessing this website, you agree to abide by the following
+# content signals:
+
+# (a)  If a content-signal = yes, you may collect content for the corresponding
+#      use.
+# (b)  If a content-signal = no, you may not collect content for the
+#      corresponding use.
+# (c)  If the website operator does not include a content signal for a
+#      corresponding use, the website operator neither grants nor restricts
+#      permission via content signal with respect to the corresponding use.
+
+# The content signals and their meanings are:
+
+# search:   building a search index and providing search results (e.g., returning
+#           hyperlinks and short excerpts from your website's contents). Search does not
+#           include providing AI-generated search summaries.
+# ai-input: inputting content into one or more AI models (e.g., retrieval
+#           augmented generation, grounding, or other real-time taking of content for
+#           generative AI search answers).
+# ai-train: training or fine-tuning AI models.
+
+# ANY RESTRICTIONS EXPRESSED VIA CONTENT SIGNALS ARE EXPRESS RESERVATIONS OF
+# RIGHTS UNDER ARTICLE 4 OF THE EUROPEAN UNION DIRECTIVE 2019/790 ON COPYRIGHT
+# AND RELATED RIGHTS IN THE DIGITAL SINGLE MARKET.
+
+# BEGIN Cloudflare Managed content
+# Content-signal: search=yes,ai-train=no
+
+User-Agent: *
+Allow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+# END Cloudflare Managed Content
+
+User-Agent: Googlebot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+
+User-Agent: Bingbot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+
+User-Agent: DuckDuckBot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+
+User-Agent: Slurp
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+
+User-Agent: Baiduspider
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+
+User-Agent: YandexBot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+
+User-Agent: AhrefsBot
+Disallow: /
+
+User-Agent: SemrushBot
+Disallow: /
+
+User-Agent: MJ12bot
+Disallow: /
+
+User-Agent: DotBot
+Disallow: /
+
+User-Agent: BLEXBot
+Disallow: /
+
+User-Agent: SearchmetricsBot
+Disallow: /
+
+User-Agent: MegaIndex
+Disallow: /
+
+User-Agent: ltx71
+Disallow: /
+
+User-Agent: Sogou
+Disallow: /
+
+User-Agent: Exabot
+Disallow: /
+
+User-Agent: BomboraBot
+Disallow: /
+
+User-Agent: Bytespider
+Disallow: /
+
+User-Agent: DataForSeoBot
+Disallow: /
+
+User-Agent: PetalBot
+Disallow: /
+
+User-Agent: ZoominfoBot
+Disallow: /
+
+User-Agent: GPTBot
+Disallow: /
+
+User-Agent: ChatGPT-User
+Disallow: /
+
+User-Agent: CCBot
+Disallow: /
+
+User-Agent: anthropic-ai
+Disallow: /
+
+User-Agent: Claude-Web
+Disallow: /
+
+User-Agent: FacebookBot
+Disallow: /
+
+User-Agent: Amazonbot
+Disallow: /
+
+User-Agent: ClaudeBot
+Disallow: /
+
+User-Agent: cohere-ai
+Disallow: /
+
+User-Agent: PerplexityBot
+Disallow: /
+
+User-Agent: Applebot-Extended
+Disallow: /
+
+User-Agent: Scrapy
+Disallow: /
+
+User-Agent: Go-http-client
+Disallow: /
+
+User-Agent: python-requests
+Disallow: /
+
+User-Agent: curl
+Disallow: /
+
+User-Agent: wget
+Disallow: /
+
+User-Agent: libwww-perl
+Disallow: /
+
+User-Agent: Java
+Disallow: /
+
+User-Agent: HttpClient
+Disallow: /
+
+User-Agent: axios
+Disallow: /
+
+User-Agent: node-fetch
+Disallow: /
+
+User-Agent: HeadlessChrome
+Disallow: /
+
+User-Agent: PhantomJS
+Disallow: /
+
+User-Agent: Selenium
+Disallow: /
+
+User-Agent: Puppeteer
+Disallow: /
+
+User-Agent: Playwright
+Disallow: /
+
+User-Agent: *
+Allow: /
+Allow: /a/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /contribute
+Crawl-delay: 10
+
+Host: https://historical.parallax.kr
+Sitemap: https://historical.parallax.kr/sitemap.xml
