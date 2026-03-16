@@ -2,21 +2,40 @@
 title: "Comparative Interpretation of the I Ching"
 scripture: "i-ching"
 tradition: "comparative"
-traditionDisplayName: "Comparative"
-religion: "comparative"
-keyThemes: ['binary systems', 'divination across cultures', 'cosmological ordering', 'wisdom literature', 'change philosophies']
-lastUpdated: "2026-03-16"
+traditionDisplayName: "Comparative Interpretation"
+religion: "chinese-philosophy"
+keyThemes: ["cross-cultural divination", "binary systems", "change philosophies", "universal patterns"]
+lastUpdated: "2026-03-12"
 ---
 
 ## Overview
 
-Comparative study of the I Ching examines it alongside other divination systems, cosmological texts, and wisdom traditions from around the world. The binary logic of the hexagram system has invited comparison with binary systems from Leibniz's mathematical notation to West African Ifá divination, raising questions about whether binary classification represents a universal cognitive pattern or a cultural coincidence.
+Comparative interpretation of the I Ching places the text alongside divination systems, cosmological models, and philosophies of change from other cultures. This approach reveals both the distinctive features of the Chinese tradition and the universal human impulse to discern patterns of meaning in the structure of reality.
 
-## Theological Emphases
+## Key Interpretive Approaches
 
-As a wisdom text, the I Ching belongs to a global genre that includes the biblical Book of Proverbs, the Egyptian Instruction literature, the Greek gnomic tradition, and the Sanskrit Nītiśāstra. All of these traditions offer practical guidance for navigating life's complexities, though the I Ching is distinctive in grounding its wisdom in a comprehensive cosmological system rather than in divine command, social convention, or accumulated experience alone.
+### Divination Systems Compared
 
-## Interpretive Context
+The I Ching's hexagram oracle is compared with other divination traditions: Greek augury and the Delphic oracle, West African Ifa divination (which uses a remarkably similar binary system), Mesopotamian hepatoscopy, and European tarot. These comparisons illuminate different cultural assumptions about fate, free will, and the accessibility of hidden knowledge.
 
-The I Ching's philosophy of change invites comparison with other traditions that place transformation at the center of their worldview: Heraclitus's flux philosophy, the Buddhist doctrine of impermanence, and process theology in the Western tradition. The I Ching's distinctive contribution is its insistence that change follows intelligible patterns — that transformation is not chaotic but ordered, and that this order can be discerned and responded to with wisdom.
+### Binary and Mathematical Systems
 
+Leibniz's famous observation that the I Ching's solid and broken lines correspond to binary mathematics has inspired comparative studies connecting the hexagram system with binary computing, Boolean algebra, and information theory. While these connections should not be overdrawn, they illuminate the mathematical structure underlying the I Ching's apparent simplicity.
+
+### Philosophies of Change
+
+The I Ching's philosophy of change invites comparison with Heraclitus' doctrine of flux, Buddhist impermanence (*anicca*), process philosophy, dialectical materialism, and systems theory. Each tradition offers a different account of why and how things change, and comparison reveals the distinctive features of the Chinese approach.
+
+## Comparative Framework
+
+| Feature | I Ching | Parallel Tradition |
+|---------|---------|-------------------|
+| Binary system | Yin-yang lines | Ifa (odd-even), binary code |
+| Cyclic change | Hexagram sequences | Hindu yugas, Mayan calendar |
+| Divination | Yarrow/coin oracle | Ifa, tarot, runes |
+| Complementary polarity | Yin-yang | Zoroastrian dualism, dialectics |
+
+## References
+
+- Fung Yu-lan. *A Short History of Chinese Philosophy*. Free Press, 1966.
+- Smith, Richard J. *The I Ching: A Biography*. Princeton University Press, 2012.

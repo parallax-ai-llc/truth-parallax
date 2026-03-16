@@ -4,7 +4,7 @@ scripture: "tattvartha-sutra"
 tradition: "comparative"
 traditionDisplayName: "Comparative Interpretation"
 religion: "jainism"
-keyThemes: ['karma across traditions', 'non-violence ethics', 'soul theories', 'liberation concepts']
+keyThemes: ["karma across traditions", "non-violence ethics", "soul theories", "liberation concepts"]
 lastUpdated: "2026-03-12"
 ---
 

@@ -4,7 +4,7 @@ scripture: "kojiki"
 tradition: "religious"
 traditionDisplayName: "Shinto Religious Interpretation"
 religion: "shinto"
-keyThemes: ['liturgical use', 'kami worship', 'shrine tradition', 'ritual purity']
+keyThemes: ["liturgical use", "kami worship", "shrine tradition", "ritual purity"]
 lastUpdated: "2026-03-12"
 ---
 

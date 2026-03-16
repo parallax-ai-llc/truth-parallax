@@ -4,7 +4,7 @@ scripture: "tattvartha-sutra"
 tradition: "shvetambara"
 traditionDisplayName: "Shvetambara Interpretation"
 religion: "jainism"
-keyThemes: ['white-clad monasticism', 'canonical literature', 'Haribhadra tradition', 'inclusive soteriology']
+keyThemes: ["white-clad monasticism", "canonical literature", "Haribhadra tradition", "inclusive soteriology"]
 lastUpdated: "2026-03-12"
 ---
 

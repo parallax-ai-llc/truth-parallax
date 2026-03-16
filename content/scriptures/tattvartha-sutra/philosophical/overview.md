@@ -4,7 +4,7 @@ scripture: "tattvartha-sutra"
 tradition: "philosophical"
 traditionDisplayName: "Philosophical Interpretation"
 religion: "jainism"
-keyThemes: ['substance metaphysics', 'epistemology', 'logic', 'ethical theory']
+keyThemes: ["substance metaphysics", "epistemology", "logic", "ethical theory"]
 lastUpdated: "2026-03-12"
 ---
 

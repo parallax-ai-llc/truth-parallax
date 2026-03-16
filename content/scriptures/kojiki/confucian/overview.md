@@ -4,7 +4,7 @@ scripture: "kojiki"
 tradition: "confucian"
 traditionDisplayName: "Confucian Interpretation"
 religion: "shinto"
-keyThemes: ['moral governance', 'filial piety', 'ritual propriety', 'benevolent rule']
+keyThemes: ["moral governance", "filial piety", "ritual propriety", "benevolent rule"]
 lastUpdated: "2026-03-12"
 ---
 

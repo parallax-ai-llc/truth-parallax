@@ -4,7 +4,7 @@ scripture: "tattvartha-sutra"
 tradition: "academic"
 traditionDisplayName: "Academic Interpretation"
 religion: "jainism"
-keyThemes: ['textual criticism', 'philosophical analysis', 'historical context', 'comparative Indian philosophy']
+keyThemes: ["textual criticism", "philosophical analysis", "historical context", "comparative Indian philosophy"]
 lastUpdated: "2026-03-12"
 ---
 

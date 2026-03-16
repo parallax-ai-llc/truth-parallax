@@ -4,7 +4,7 @@ scripture: "kojiki"
 tradition: "zen"
 traditionDisplayName: "Zen Buddhist Interpretation"
 religion: "shinto"
-keyThemes: ['emptiness and form', 'non-dual awareness', 'buddha-nature in kami', 'honji suijaku']
+keyThemes: ["emptiness and form", "non-dual awareness", "buddha-nature in kami", "honji suijaku"]
 lastUpdated: "2026-03-12"
 ---
 

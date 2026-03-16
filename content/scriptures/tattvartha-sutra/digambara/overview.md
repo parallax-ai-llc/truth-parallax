@@ -4,7 +4,7 @@ scripture: "tattvartha-sutra"
 tradition: "digambara"
 traditionDisplayName: "Digambara Interpretation"
 religion: "jainism"
-keyThemes: ['sky-clad asceticism', 'complete renunciation', 'Kundakunda tradition', 'strict karma theory']
+keyThemes: ["sky-clad asceticism", "complete renunciation", "Kundakunda tradition", "strict karma theory"]
 lastUpdated: "2026-03-12"
 ---
 

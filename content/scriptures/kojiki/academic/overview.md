@@ -4,7 +4,7 @@ scripture: "kojiki"
 tradition: "academic"
 traditionDisplayName: "Academic Interpretation"
 religion: "shinto"
-keyThemes: ['textual criticism', 'comparative mythology', 'historical linguistics', 'source analysis']
+keyThemes: ["textual criticism", "comparative mythology", "historical linguistics", "source analysis"]
 lastUpdated: "2026-03-12"
 ---
 

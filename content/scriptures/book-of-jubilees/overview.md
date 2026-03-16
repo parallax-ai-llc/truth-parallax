@@ -2,54 +2,51 @@
 title: "Book of Jubilees"
 slug: "book-of-jubilees"
 religion: "christianity"
-aliases: ["Little Genesis", "희년기"]
+aliases: ["Little Genesis", "희년서"]
 totalChapters: 50
-traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
-tags: ["jubilees", "calendar", "angels", "covenant", "retelling", "pseudepigrapha"]
-lastUpdated: "2026-03-12"
+traditions: ["ethiopian-orthodox", "protestantism", "catholicism", "judaism", "academic", "essene"]
+tags: ["calendar", "covenant", "angels", "patriarchs", "sabbath", "jubilee cycles"]
+lastUpdated: "2026-03-16"
 ---
 
 ## Overview
 
-The Book of Jubilees, also known as "Little Genesis" (*Leptogenesis*), is a Jewish pseudepigraphical work dating to the mid-2nd century BCE. It retells the narrative of Genesis and the early chapters of Exodus, presenting this material as a secret revelation given to Moses by the Angel of the Presence during his forty days on Mount Sinai.
+The Book of Jubilees is a retelling of the biblical narrative from creation through the Exodus, organized around a chronological framework of jubilee cycles (periods of 49 years). Presented as a revelation dictated by an angel to Moses on Mount Sinai, the text rewrites and supplements the narratives of Genesis and the first part of Exodus, embedding them within a strict 364-day solar calendar and emphasizing the eternal validity of the covenant, the sabbath, and the festivals. Preserved in its entirety only in Ge'ez, the book is canonical in the Ethiopian Orthodox Tewahedo Church, and fragments in Hebrew were discovered among the Dead Sea Scrolls.
 
 ## Structure
 
-Jubilees divides sacred history into periods of 49 years (jubilees), subdivided into seven-year cycles:
+The Book of Jubilees covers the same narrative ground as Genesis 1 through Exodus 14, reorganized into jubilee periods:
 
-1. **Prologue** (Chapter 1): The Sinai revelation framework
-2. **Creation to the Flood** (Chapters 2–10): Retelling of Genesis 1–9 with angelic and calendrical expansions
-3. **Abraham Cycle** (Chapters 11–23): Expanded patriarchal narratives with halakhic material
-4. **Jacob and His Sons** (Chapters 24–45): The tribal narratives with legal and moral instruction
-5. **Moses and the Law** (Chapters 46–50): The exodus and jubilee legislation
+1. **Prologue and Creation (Jubilees 1–4)**: The heavenly revelation to Moses, creation, Adam and Eve, Cain and Abel, the line of Seth
+2. **Noah and the Flood (Jubilees 5–10)**: The Watchers, the Flood, Noah's covenant, the division of the earth, the tower of Babel
+3. **Abraham and the Covenant (Jubilees 11–23)**: Abraham's call, the covenant of circumcision, the binding of Isaac, Sarah's death
+4. **Jacob and His Sons (Jubilees 24–45)**: Jacob and Esau, the twelve tribes, Joseph in Egypt
+5. **Moses and the Exodus (Jubilees 46–50)**: Israel in Egypt, the Exodus, the Passover, the sabbath laws
 
 ## Cross-Traditional Significance
 
-The Book of Jubilees occupies different positions across religious traditions:
+The Book of Jubilees is significant across multiple traditions:
 
-- **Ethiopian Orthodoxy**: Canonical scripture, preserved in Ge'ez translation
-- **Judaism**: Not canonical but valued as Second Temple literature; fragments found at Qumran
-- **Catholicism/Protestantism**: Classified as pseudepigrapha; studied for historical and theological insights
-- **Islam**: Engaged through the *Isra'iliyyat* tradition for prophetic narrative parallels
-- **Gnosticism**: Valued for its proto-Gnostic themes of angelic mediation and hidden knowledge
+- **Ethiopian Orthodox**: Canonical scripture integral to the church's biblical tradition and calendrical practice
+- **Protestantism**: Studied as an important intertestamental text illuminating Second Temple Judaism
+- **Catholicism**: Examined for its witness to Jewish biblical interpretation and the development of halakhic traditions
+- **Judaism**: A major source for understanding the diversity of Jewish legal and theological thought in the Second Temple period
+- **Academic**: Essential for studying the history of biblical interpretation, Jewish law, and the Qumran community
+- **Essene**: Closely linked to the Dead Sea Scrolls community, sharing its calendar, legal interpretations, and angelology
 
 ## Key Themes
 
 | Theme | Description |
 |-------|-------------|
-| Solar Calendar | A 364-day calendar dividing the year into four seasons of 13 weeks |
-| Angelic Mediation | The Angel of the Presence as revealer and heavenly tablets as source |
-| Covenant Continuity | Unbroken chain of covenant from creation to Sinai |
-| Separation | Strict boundaries between Israel and the nations |
-| Mastema | A prince of evil spirits who tests and accuses the righteous |
-
-## Manuscript Tradition
-
-The complete text survives only in Ge'ez (Ethiopic). Fragments in Hebrew were found among the Dead Sea Scrolls (4Q216-228), and fragments in Latin and Syriac also exist.
+| Jubilee Calendar | A 364-day solar calendar organizing all history into jubilee cycles of 49 years |
+| Covenant | The eternal covenant between God and Israel, observed by the patriarchs before Sinai |
+| Angels | Angels who reveal divine law, guard Israel, and govern the nations |
+| Sabbath and Festivals | The patriarchs observed sabbath, Passover, and Weeks before the Torah was given |
+| Purity | Strict separation from Gentiles and maintenance of ritual and moral purity |
+| Predestination | A deterministic framework in which God foreknows and ordains the course of history |
 
 ## References
 
-- VanderKam, James C. *The Book of Jubilees*. Sheffield Academic Press, 2001.
-- Kugel, James L. *A Walk Through Jubilees*. Brill, 2012.
-- Segal, Michael. *The Book of Jubilees: Rewritten Bible, Redaction, Ideology and Theology*. Brill, 2007.
-- Charles, R. H. *The Book of Jubilees, or the Little Genesis*. Adam and Charles Black, 1902.
+- VanderKam, James C. *The Book of Jubilees*. 2 vols. CSCO. Peeters, 1989.
+- Wintermute, O.S. "Jubilees." In *The Old Testament Pseudepigrapha*, vol. 2, edited by J.H. Charlesworth. Doubleday, 1985.
+- Kugel, James L. *A Walk Through Jubilees: Studies in the Book of Jubilees and the World of Its Creation*. Brill, 2012.

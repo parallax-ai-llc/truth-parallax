@@ -4,7 +4,7 @@ scripture: "kojiki"
 tradition: "philosophical"
 traditionDisplayName: "Philosophical Interpretation"
 religion: "shinto"
-keyThemes: ['ontology of kami', 'musubi as creative principle', 'nature philosophy', 'Japanese aesthetics']
+keyThemes: ["ontology of kami", "musubi as creative principle", "nature philosophy", "Japanese aesthetics"]
 lastUpdated: "2026-03-12"
 ---
 

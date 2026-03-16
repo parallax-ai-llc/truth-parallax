@@ -2,21 +2,40 @@
 title: "Confucian Interpretation of the I Ching"
 scripture: "i-ching"
 tradition: "confucian"
-traditionDisplayName: "Confucian"
-religion: "confucianism"
-keyThemes: ['moral cultivation', 'the junzi', 'cosmic order', 'li (principle)', 'sage wisdom']
-lastUpdated: "2026-03-16"
+traditionDisplayName: "Confucian Interpretation"
+religion: "chinese-philosophy"
+keyThemes: ["moral cultivation", "social harmony", "the superior person', "Heaven's mandate"]
+lastUpdated: "2026-03-12"
 ---
 
 ## Overview
 
-The Confucian tradition regards the I Ching as the first and most profound of the Five Classics (Wujing), a text that reveals the moral structure of the cosmos and provides guidance for the cultivation of the exemplary person (junzi). Confucius himself is traditionally said to have studied the I Ching so intensively that the leather straps binding his copy broke three times, and the Ten Wings commentaries are attributed to his philosophical insight.
+Confucian interpretation of the I Ching reads the text primarily as a guide to moral cultivation, social harmony, and the practice of virtue. Since the I Ching is one of the Five Classics (*Wujing*) of Confucian learning, its interpretation has been central to the Confucian intellectual tradition from the Han dynasty through the present.
 
-## Theological Emphases
+## Key Interpretive Approaches
 
-Confucian interpretation, particularly as developed by the Song dynasty Neo-Confucians such as Cheng Yi and Zhu Xi, reads the hexagrams as expressions of li (principle) — the rational, moral patterns inherent in the universe. Each hexagram reveals a specific configuration of cosmic principle, and the judgments and line statements guide the junzi in aligning personal conduct with the moral order of heaven and earth.
+### The Superior Person (Junzi)
 
-## Interpretive Context
+Confucian interpreters focus on the I Ching's image of the *junzi* (superior person or exemplary individual) who appears in the Image commentary of each hexagram. This figure embodies the Confucian ideal of moral self-cultivation, learning from the patterns of nature how to conduct oneself with propriety, benevolence, and wisdom.
 
-The I Ching thus functions in Confucian tradition not primarily as a divination manual but as a text of moral philosophy and cosmological reflection. The practice of consulting the oracle, while not rejected, is understood as secondary to the deeper purpose of understanding the patterns of change and cultivating the wisdom to respond appropriately to every situation.
+### Moral Cosmology
 
+The Confucian reading of the I Ching connects cosmic patterns with moral principles. The regularity of natural change -- the alternation of seasons, the movements of celestial bodies -- reflects a moral order (*tianli*, heavenly principle) that humans are called to embody through ethical conduct.
+
+### The Great Commentary (Dazhuan)
+
+The Great Commentary (Xi Ci Zhuan), one of the Ten Wings, has been the primary vehicle for Confucian philosophical interpretation. It presents the I Ching as a comprehensive system encompassing the patterns of Heaven and Earth, the principles of human society, and the foundations of moral action.
+
+## Major Confucian Interpreters
+
+| Scholar | Period | Contribution |
+|---------|--------|-------------|
+| Confucius (traditional) | Spring and Autumn | Moral reading of the Changes |
+| Kong Yingda | Tang dynasty | Orthodox commentary |
+| Cheng Yi | Song dynasty | Moral-philosophical commentary |
+| Zhu Xi | Song dynasty | Systematic Neo-Confucian reading |
+
+## References
+
+- Zhu Xi. *The Original Meaning of the Yijing*. Trans. Joseph Adler. Columbia University Press, 2020.
+- Smith, Kidder. *Fathoming the Cosmos and Ordering the World*. University of Virginia Press, 2008.

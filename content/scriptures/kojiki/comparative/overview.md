@@ -4,7 +4,7 @@ scripture: "kojiki"
 tradition: "comparative"
 traditionDisplayName: "Comparative Interpretation"
 religion: "shinto"
-keyThemes: ['cross-cultural mythology', 'creation narratives', 'divine kingship', 'cosmogonic patterns']
+keyThemes: ["cross-cultural mythology", "creation narratives", "divine kingship", "cosmogonic patterns"]
 lastUpdated: "2026-03-12"
 ---
 

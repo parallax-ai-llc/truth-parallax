@@ -4,7 +4,7 @@ scripture: "tattvartha-sutra"
 tradition: "interfaith"
 traditionDisplayName: "Interfaith Interpretation"
 religion: "jainism"
-keyThemes: ['dialogue and understanding', 'shared ethics', 'pluralistic theology', 'non-violence as bridge']
+keyThemes: ["dialogue and understanding", "shared ethics", "pluralistic theology", "non-violence as bridge"]
 lastUpdated: "2026-03-12"
 ---
 

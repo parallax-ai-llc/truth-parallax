@@ -2,21 +2,40 @@
 title: "Academic Interpretation of the I Ching"
 scripture: "i-ching"
 tradition: "academic"
-traditionDisplayName: "Academic"
-religion: "academic"
-keyThemes: ['textual archaeology', 'oracle bone connections', 'layered composition', 'Western reception', 'philological analysis']
-lastUpdated: "2026-03-16"
+traditionDisplayName: "Academic Interpretation"
+religion: "chinese-philosophy"
+keyThemes: ["textual history", "archaeological evidence", "comparative studies", "hermeneutical methods"]
+lastUpdated: "2026-03-12"
 ---
 
 ## Overview
 
-Academic scholarship on the I Ching has been transformed in recent decades by archaeological discoveries, particularly the Mawangdui silk manuscript (c. 168 BCE) and the Shanghai Museum bamboo strips (c. 300 BCE), which provide early versions of the text that differ in significant ways from the received edition. These discoveries have demonstrated that the I Ching underwent substantial editorial development over centuries, challenging traditional attributions and chronologies.
+Academic interpretation of the I Ching applies the methods of historical criticism, textual analysis, archaeology, and comparative studies to understand the text in its original context and trace its development through Chinese intellectual history. Modern scholarship has significantly revised traditional understandings of the text's origins, authorship, and original function.
 
-## Theological Emphases
+## Key Interpretive Approaches
 
-Critical analysis identifies multiple strata within the text: an early divination manual consisting of hexagram names, judgments, and line statements, likely dating to the Western Zhou period (c. 9th century BCE); the Ten Wings commentaries, composed over several centuries and falsely attributed to Confucius; and later editorial interventions that shaped the text into its received form. The relationship between the I Ching and the earlier oracle bone divination practices of the Shang dynasty remains a subject of active research.
+### Textual Archaeology
 
-## Interpretive Context
+The discovery of early manuscripts, particularly the Mawangdui silk manuscript (168 BCE) and the Shanghai Museum bamboo strips (c. 300 BCE), has provided scholars with pre-imperial versions of the text that differ significantly from the received version. These discoveries have transformed academic understanding of the I Ching's textual history.
 
-The I Ching's reception in the West, beginning with the Jesuit missionaries of the 17th century and reaching a wider audience through Richard Wilhelm's 1924 translation (with an introduction by Carl Jung), has generated its own scholarly literature examining cross-cultural transmission, the role of translation in shaping interpretation, and the creative misreadings that have made the I Ching a significant presence in Western intellectual and artistic culture.
+### Historical-Critical Method
 
+Academic scholars distinguish between the earliest layer of the text (the hexagram names, judgments, and line texts, dating to the Western Zhou period, c. 9th century BCE) and the later commentarial layers (the Ten Wings, traditionally attributed to Confucius but now dated to the Warring States and early Han periods).
+
+### Original Function
+
+Modern scholarship has debated whether the I Ching originated primarily as a divination manual, a collection of folk wisdom, a record of historical events, or a compendium of natural observations. Most scholars now favor a complex origin involving multiple sources and functions.
+
+## Key Scholarly Contributions
+
+| Scholar | Contribution |
+|---------|-------------|
+| Edward Shaughnessy | Archaeological and textual analysis |
+| Richard Kunst | Linguistic analysis of early layers |
+| Kidder Smith | Hermeneutical traditions |
+| Richard Rutt | Historical-critical translation |
+
+## References
+
+- Shaughnessy, Edward L. *Unearthing the Changes*. Columbia University Press, 2014.
+- Rutt, Richard. *The Book of Changes (Zhouyi)*. Routledge, 2002.
