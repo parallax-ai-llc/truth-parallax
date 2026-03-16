@@ -36,18 +36,21 @@ yarn-error.log*
 # vercel
 .vercel
 
+# editor / tool configs
+.claude/
+.vscode/
+
 # data collector (managed separately in tool-factory)
 /data-collector
 
-# legal parallax scripts (internal tools, not public)
+# scripts (internal tools, not public)
 /scripts
 batch*.json
 gen_*.js
 generate_*.js
 mass_gen.js
+gen-*.json
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-.vercel

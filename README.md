@@ -1,15 +1,30 @@
-# Legal Parallax
+# Truth Parallax
 
-Legal Parallax is a comparative law platform that analyzes legal frameworks across jurisdictions. Each document compares how South Korea, the United States, Germany, and the ECHR/EU framework approach a specific legal topic — from criminal offenses to procedural rights.
+Truth Parallax is a comparative scripture interpretation platform that explores how different religious traditions understand the same sacred texts. Each scripture includes interpretations from multiple traditions — offering side-by-side theological, philosophical, and academic perspectives.
 
 This project is open-source and licensed under the MIT License. It is owned by Parallax AI, LLC.
 
 ## Features
 
-- **Cross-Jurisdictional Comparison**: 80+ legal topics compared across four major jurisdictions (KR, US, DE, ECHR/EU)
-- **Real Legal Citations**: Every document includes actual statute numbers, case citations, and penalty ranges
-- **Structured Format**: Consistent markdown structure with comparative tables, timelines, and footnoted references
-- **Full-Text Search**: Search across all legal comparison documents
+- **Cross-Traditional Comparison**: 159 scriptures across 18+ religious traditions with multi-perspective interpretations
+- **15,500+ Interpretation Documents**: Chapter-by-chapter analysis from diverse theological viewpoints
+- **Hierarchical Navigation**: Browse by scripture → tradition → chapter
+- **Full-Text Search**: Search across all scripture interpretations
+- **Tradition Tabs**: Switch between different tradition's interpretations of the same chapter
+
+## Scriptures Covered
+
+| Religion | Scriptures | Traditions |
+|----------|-----------|------------|
+| Christianity | Bible (66 books), Book of Enoch, Book of Jubilees, Nag Hammadi texts | Protestant, Catholic, Eastern Orthodox, Gnostic |
+| Islam | Quran (114 suras), Hadith collections (Bukhari, Muslim, Tirmidhi, Abu Dawud) | Sunni, Shia, Sufi, Salafi |
+| Buddhism | Dhammapada, Heart Sutra, Diamond Sutra, Lotus Sutra, Platform Sutra, and more | Theravada, Mahayana, Zen, Tibetan |
+| Hinduism | Bhagavad Gita, Upanishads, Vedas, Mahabharata, Ramayana, Yoga Sutras | Vaishnavism, Shaivism, Advaita, Dvaita |
+| Taoism | Tao Te Ching, Zhuangzi | Philosophical, Religious |
+| Confucianism | Analects, Mencius, Great Learning, Doctrine of the Mean, I Ching, and more | Confucian, Neo-Confucian, Academic |
+| Judaism | Torah, Talmud, Dead Sea Scrolls | Orthodox, Reform, Conservative, Kabbalistic |
+| Sikhism | Guru Granth Sahib, Dasam Granth | Sikh, Bhakti, Academic |
+| And more... | Avesta, Kojiki, Kitab-i-Aqdas, Book of Mormon, Ginza Rabba, etc. | Various tradition-specific perspectives |
 
 ## Tech Stack
 
@@ -21,57 +36,108 @@ This project is open-source and licensed under the MIT License. It is owned by P
 ## Installation
 
 ```bash
-git clone https://github.com/parallax-ai-llc/legal-parallax.git
-cd legal-parallax
+git clone https://github.com/parallax-ai-llc/truth-parallax.git
+cd truth-parallax
 npm install
 npm run dev
 ```
 
 ## Content Structure
 
-Legal comparison documents are stored as Markdown files in `content/cases/`:
+Scripture interpretations are stored as Markdown files in `content/scriptures/`:
 
 ```
-content/cases/
-├── murder-law-comparison.md
-├── fraud-law-comparison.md
-├── cybercrime-law-comparison.md
-└── ... (80+ files)
+content/scriptures/
+├── genesis/
+│   ├── overview.md                 # Scripture overview
+│   ├── protestantism/
+│   │   ├── overview.md             # Tradition-specific overview
+│   │   ├── 1.md                    # Chapter 1 interpretation
+│   │   ├── 2.md
+│   │   └── ...
+│   ├── catholicism/
+│   │   ├── overview.md
+│   │   ├── 1.md
+│   │   └── ...
+│   └── ...
+├── quran/
+│   ├── overview.md
+│   ├── sunni/
+│   ├── shia/
+│   └── ...
+└── ... (159 scriptures)
 ```
 
-Each file follows this frontmatter format:
+### Frontmatter Schemas
 
+**Scripture overview** (`overview.md`):
 ```yaml
 ---
-id: "topic-law-comparison"
-name: "Topic: A Cross-Jurisdictional Legal Analysis"
-date: "YYYY-MM-DD"
-nationality: "Comparative"
-occupation: ["Criminal Law", "Category"]
-image: "/images/legal-comparison.jpg"
-socialLinks:
-  wikipedia: "https://en.wikipedia.org/wiki/..."
-lastUpdated: "YYYY-MM-DD"
+title: "Genesis"
+slug: "genesis"
+religion: "christianity"
+aliases: ["Bereshit", "창세기"]
+totalChapters: 50
+traditions: ["protestantism", "catholicism", "eastern-orthodox"]
+tags: ["creation", "patriarchs", "covenant"]
+lastUpdated: "2026-03-12"
 ---
 ```
+
+**Tradition overview** (`{tradition}/overview.md`):
+```yaml
+---
+title: "Protestant Interpretation of Genesis"
+scripture: "genesis"
+tradition: "protestantism"
+traditionDisplayName: "Protestantism"
+religion: "christianity"
+keyThemes: ["sola scriptura", "covenant theology"]
+lastUpdated: "2026-03-12"
+---
+```
+
+**Chapter interpretation** (`{tradition}/{N}.md`):
+```yaml
+---
+title: "Genesis Chapter 1"
+scripture: "genesis"
+tradition: "protestantism"
+chapter: 1
+chapterLabel: "Chapter 1 — Creation"
+verseCount: 31
+tags: ["creation", "six days"]
+lastUpdated: "2026-03-12"
+---
+```
+
+## Routes
+
+| Route | Description |
+|-------|-------------|
+| `/` | Home page with search |
+| `/s` | All scriptures by religion |
+| `/s/genesis` | Scripture overview |
+| `/s/genesis/protestantism` | Tradition-specific overview |
+| `/s/genesis/protestantism/1` | Chapter interpretation |
 
 ## Contributing
 
-We accept contributions in the form of Markdown files in the `content/cases/` directory. See the [Contribute page](https://legal.parallax.kr/contribute) for detailed guidelines.
+We accept contributions in the form of Markdown files in the `content/scriptures/` directory. See the [Contribute page](https://truth.parallax.kr/contribute) for detailed guidelines.
 
 ### Quick Start
 
 1. Fork the repository
-2. Create a branch: `git checkout -b feature/add-case-topic`
-3. Add your file to `content/cases/topic-law-comparison.md`
+2. Create a branch: `git checkout -b feature/add-scripture`
+3. Add your content following the directory structure and frontmatter schemas above
 4. Submit a pull request
 
 ### Content Guidelines
 
 - Write all content in English
-- Include all four jurisdictions (KR, US, DE, ECHR/EU)
-- Cite every legal provision and case with footnotes
-- Include a comparative analysis table
+- Follow the established frontmatter schemas exactly
+- Include scholarly references where possible
+- Maintain respectful, academic tone across all traditions
 - Do not modify code or configuration files
 
 ## License
