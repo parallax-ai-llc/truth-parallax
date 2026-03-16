@@ -12,9 +12,10 @@ import Link from "next/link";
 
 interface HomeClientProps {
   scriptures: ScriptureMeta[];
+  totalFiles: number;
 }
 
-export function HomeClient({ scriptures }: HomeClientProps) {
+export function HomeClient({ scriptures, totalFiles }: HomeClientProps) {
   const [mounted, setMounted] = React.useState(false);
   const [searchOpen, setSearchOpen] = React.useState(false);
 
@@ -62,7 +63,7 @@ export function HomeClient({ scriptures }: HomeClientProps) {
             </p>
             {totalDocs > 0 && (
               <p className="mt-2 text-xs text-muted-foreground/60">
-                {totalDocs.toLocaleString()} scripture{totalDocs !== 1 ? "s" : ""} archived
+                {totalDocs.toLocaleString()} scriptures &middot; {totalFiles.toLocaleString()} interpretation documents
               </p>
             )}
           </div>

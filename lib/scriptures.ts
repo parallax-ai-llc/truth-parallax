@@ -155,6 +155,22 @@ export function getAllScriptureSlugs(): string[] {
   return listDirectories(scripturesDirectory);
 }
 
+export function getTotalContentFiles(): number {
+  function countMd(dir: string): number {
+    if (!fs.existsSync(dir)) return 0;
+    let count = 0;
+    for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+      if (entry.isDirectory()) {
+        count += countMd(path.join(dir, entry.name));
+      } else if (entry.name.endsWith(".md")) {
+        count++;
+      }
+    }
+    return count;
+  }
+  return countMd(scripturesDirectory);
+}
+
 export function getAllScriptures(): ScriptureMeta[] {
   const slugs = getAllScriptureSlugs();
 
