@@ -4,37 +4,18 @@ scripture: "book-of-jubilees"
 tradition: "protestantism"
 traditionDisplayName: "Protestantism"
 religion: "christianity"
-keyThemes: ["pseudepigrapha", "sola scriptura", "historical context", "intertestamental period", "non-canonical"]
-lastUpdated: "2026-03-12"
+keyThemes: ["intertestamental literature", "biblical rewriting", "Second Temple Judaism", "law and grace", "calendar"]
+lastUpdated: "2026-03-16"
 ---
 
 ## Overview
 
-The Book of Jubilees, also known as "Little Genesis," occupies an unusual position in Protestant scholarship. While firmly excluded from the Protestant canon, Jubilees has gained increasing attention as a valuable witness to Second Temple Judaism and the interpretive traditions that shaped the world of the New Testament.
+Protestant scholars study the Book of Jubilees as one of the most important examples of "rewritten Bible" from the Second Temple period. The text's systematic reworking of Genesis and Exodus — supplementing, rearranging, and reinterpreting the biblical narratives — provides invaluable insight into how Jewish communities in the 2nd century BCE read and applied their scriptures. Protestant interpreters find in Jubilees evidence of the diverse approaches to Torah interpretation that preceded and influenced the New Testament.
 
-## Canonical Status
+## Interpretive Approach
 
-Protestant tradition, following the Reformation principle of *sola scriptura*, does not accord Jubilees any canonical authority. Martin Luther and other Reformers returned to the Hebrew canon (Tanakh), which excludes Jubilees. The book is classified among the Old Testament pseudepigrapha — texts attributed to ancient figures but composed much later.
+Protestant engagement with Jubilees focuses on the text's theological agenda: its emphasis on the eternal validity of the Mosaic law, its strict separatism, and its deterministic worldview. Some Protestant scholars contrast Jubilees' legal rigorism with the Pauline doctrine of justification by faith, while others note the text's deep concern with covenant faithfulness as a point of connection with Protestant covenant theology. The book's extensive angelology and its retrojection of Mosaic law onto the patriarchal period are studied as examples of Second Temple hermeneutical strategies.
 
-## Scholarly Interest
+## Significance for Biblical Studies
 
-Despite its non-canonical status, Protestant scholars recognize Jubilees as essential reading for understanding:
-
-- **Second Temple hermeneutics**: How Jews interpreted Genesis and Exodus before Christianity
-- **Calendar disputes**: The 364-day solar calendar vs. the lunar calendar that divided Jewish communities
-- **Angelic traditions**: The elaborate angelology that influenced New Testament writers
-- **Legal interpretation**: How Torah law was expanded and reinterpreted
-
-## Key Theological Concerns
-
-| Protestant Concern | Jubilees' Position |
-|---|---|
-| Sola scriptura | Claims additional Mosaic revelation beyond Torah |
-| Grace vs. law | Emphasizes strict legal observance and calendar |
-| Canon | Not in Hebrew Bible; late Second Temple composition |
-| Christology | No messianic figure matching NT expectations |
-
-## References
-
-- VanderKam, James C. *The Book of Jubilees*. Guides to Apocrypha and Pseudepigrapha. Sheffield Academic Press, 2001.
-- Wintermute, O. S. "Jubilees." In *The Old Testament Pseudepigrapha*, vol. 2, edited by J. H. Charlesworth, 35-142. Doubleday, 1985.
+Jubilees is essential for Protestant scholars working on the history of biblical interpretation, the development of Jewish halakhah, and the social setting of the Dead Sea Scrolls community. The text's relationship to Genesis and Exodus illuminates the process by which biblical traditions were received, interpreted, and transmitted in early Judaism.

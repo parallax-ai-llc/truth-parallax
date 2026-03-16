@@ -4,39 +4,18 @@ scripture: "book-of-jubilees"
 tradition: "judaism"
 traditionDisplayName: "Judaism"
 religion: "judaism"
-keyThemes: ["Second Temple", "halakhah", "calendar", "midrash", "Qumran"]
-lastUpdated: "2026-03-12"
+keyThemes: ["rewritten Torah", "halakhah", "Second Temple diversity", "calendar", "patriarchal observance"]
+lastUpdated: "2026-03-16"
 ---
 
 ## Overview
 
-The Book of Jubilees occupies a complex position within Jewish literary and religious history. Composed during the Second Temple period (likely 2nd century BCE), it represents an early form of biblical interpretation (*rewritten Bible*) that retells Genesis and the first part of Exodus with significant halakhic and calendrical expansions.
+Jewish scholarship on the Book of Jubilees has recovered a text that was lost to mainstream Judaism for centuries but was clearly influential in the Second Temple period. The Hebrew fragments found at Qumran — at least fifteen manuscripts, making Jubilees one of the most frequently copied texts at the site — demonstrate its importance for the Dead Sea Scrolls community. Jewish scholars study the book as evidence of a priestly, separatist strand of Judaism that emphasized the solar calendar, strict endogamy, and the retrojection of halakhic observance onto the patriarchal period.
 
-## Historical Context
+## Interpretive Approach
 
-Jubilees was composed within a Jewish milieu deeply concerned with:
+Jewish interpreters examine Jubilees' relationship to rabbinic halakhah, noting both agreements and divergences. The text's treatment of sabbath law, for instance, is stricter than rabbinic norms in some respects (prohibiting sexual relations on the sabbath) while aligning with them in others. Jubilees' insistence that the patriarchs observed the Torah before Sinai parallels a rabbinic tradition (found in the Talmud and midrash) but develops it with far greater specificity and systematic intent. The book thus illuminates the pre-rabbinic roots of halakhic thinking.
 
-- **Calendar controversies**: Advocating a 364-day solar calendar against the dominant lunar calendar
-- **Halakhic authority**: Grounding legal practices in Mosaic revelation at Sinai
-- **Identity boundaries**: Emphasizing separation from Gentiles and prohibition of intermarriage
-- **Angelic mediation**: The Angel of the Presence as the channel of Torah revelation
+## Calendar and Sectarianism
 
-## Qumran Connection
-
-The Dead Sea Scrolls dramatically changed scholarly understanding of Jubilees' significance. Multiple fragments were found at Qumran, suggesting the Essene community regarded it highly — possibly as authoritative scripture.
-
-## Relationship to Rabbinic Judaism
-
-While Jubilees was ultimately not preserved by rabbinic Judaism, many of its traditions appear in later midrashic literature:
-
-| Jubilees Tradition | Rabbinic Parallel |
-|---|---|
-| Abraham smashing idols | *Genesis Rabbah* 38 |
-| Angels teaching Hebrew | Traditions about the holy language |
-| 364-day calendar | Rejected in favor of lunisolar calendar |
-| Mastema testing Abraham | Satan in rabbinic Aqedah traditions |
-
-## References
-
-- Kugel, James L. *A Walk Through Jubilees*. Brill, 2012.
-- Segal, Michael. *The Book of Jubilees: Rewritten Bible, Redaction, Ideology and Theology*. Brill, 2007.
+The 364-day solar calendar advocated by Jubilees represents one of the most significant points of divergence from the lunisolar calendar that became normative in rabbinic Judaism. Jewish scholars regard this calendar as a marker of sectarian identity, linking Jubilees to the Qumran community and to the broader phenomenon of priestly dissent in Second Temple Judaism.
