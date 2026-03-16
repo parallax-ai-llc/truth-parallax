@@ -14,7 +14,8 @@ import { ScriptureBreadcrumb } from "@/components/scripture-breadcrumb";
 import { TraditionTabs } from "@/components/tradition-tabs";
 import { SidebarToc } from "@/components/sidebar-toc";
 
-export const dynamic = "force-static";
+export const dynamicParams = true;
+export const revalidate = 3600; // ISR: revalidate every hour
 
 const GITHUB_REPO = "https://github.com/parallax-ai-llc/truth-parallax";
 
@@ -23,8 +24,12 @@ interface PageProps {
 }
 
 export async function generateStaticParams() {
+  // Only pre-render scripture overview pages at build time
+  // Tradition and chapter pages are generated on-demand via ISR
   const paths = getAllScripturePaths();
-  return paths.map((slug) => ({ slug }));
+  return paths
+    .filter((slug) => slug.length === 1)
+    .map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: PageProps) {
