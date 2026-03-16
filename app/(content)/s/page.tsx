@@ -3,6 +3,8 @@ import { BookOpen } from "lucide-react";
 import { getAllScriptures, RELIGION_GROUPS } from "@/lib/scriptures";
 import type { ScriptureMeta } from "@/lib/scriptures";
 
+export const revalidate = 3600;
+
 export const metadata = {
   title: "Scriptures",
   description: "Browse sacred texts across world religions and explore how different traditions interpret the same scriptures.",

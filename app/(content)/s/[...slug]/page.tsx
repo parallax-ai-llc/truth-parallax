@@ -24,12 +24,8 @@ interface PageProps {
 }
 
 export async function generateStaticParams() {
-  // Only pre-render scripture overview pages at build time
-  // Tradition and chapter pages are generated on-demand via ISR
-  const paths = getAllScripturePaths();
-  return paths
-    .filter((slug) => slug.length === 1)
-    .map((slug) => ({ slug }));
+  // All pages generated on-demand via ISR — too many for build-time
+  return [];
 }
 
 export async function generateMetadata({ params }: PageProps) {
