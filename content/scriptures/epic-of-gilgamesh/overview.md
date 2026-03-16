@@ -2,7 +2,7 @@
 title: "Epic of Gilgamesh"
 slug: "epic-of-gilgamesh"
 religion: "ancient-mesopotamian"
-aliases: ["길가메시 서사시", "Epic of Gilgamesh"]
+aliases: ["길가메시 서사시", "Epic of Gilgamesh", "吉尔伽美什史诗", "ギルガメシュ叙事詩", "Эпос о Гильгамеше", "L'Épopée de Gilgamesh", "La Epopeya de Gilgamesh", "Das Gilgamesch-Epos", "Sha naqba īmuru", "ملحمة جلجامش"]
 totalChapters: 12
 traditions: ["academic", "comparative", "theological", "literary", "archaeological", "interfaith"]
 tags: ["immortality", "friendship", "flood", "Enkidu", "heroism"]

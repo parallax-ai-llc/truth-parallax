@@ -2,7 +2,7 @@
 title: "Meshaf Resh"
 slug: "meshaf-resh"
 religion: "yazidi"
-aliases: ["메샤프 레쉬", "Black Book", "Meshaf Resh"]
+aliases: ["메샤프 레쉬", "Black Book", "Meshaf Resh", "مصحف رش", "黑书", "メシャフ・レシュ", "Мешаф Реш", "Livre Noir"]
 totalChapters: 5
 traditions: ["yazidi", "academic", "comparative", "islamic", "christian", "interfaith"]
 tags: ["Melek Taus", "creation", "cosmogony", "Lalish"]

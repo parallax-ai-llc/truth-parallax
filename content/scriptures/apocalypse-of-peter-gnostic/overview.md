@@ -2,7 +2,7 @@
 title: "Gnostic Apocalypse of Peter"
 slug: "apocalypse-of-peter-gnostic"
 religion: "gnosticism"
-aliases: ["베드로의 묵시록(영지주의)", "Gnostic Apocalypse of Peter"]
+aliases: ["베드로의 묵시록(영지주의)", "Gnostic Apocalypse of Peter", "灵知派彼得启示录", "グノーシスのペトロの黙示録", "חזון פטרוס (גנוסטי)", "رؤيا بطرس (الغنوصية)", "Gnostische Petrusapokalypse", "Apocalypse gnostique de Pierre", "Apocalipsis gnóstico de Pedro", "Гностический Апокалипсис Петра"]
 totalChapters: 4
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Peter", "laughing Savior", "docetism", "vision"]

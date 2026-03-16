@@ -2,7 +2,7 @@
 title: "Zhuangzi"
 slug: "zhuangzi"
 religion: "taoism"
-aliases: ["Chuang Tzu", "장자"]
+aliases: ["Chuang Tzu", "장자", "莊子", "荘子", "そうし", "Чжуан-цзы", "Le Zhuangzi", "Das Zhuangzi", "Zhuangzi"]
 totalChapters: 7
 traditions: ["philosophical", "religious", "academic", "confucian", "comparative", "zen"]
 tags: ["spontaneity", "relativism", "transformation", "uselessness", "butterfly dream", "free wandering"]

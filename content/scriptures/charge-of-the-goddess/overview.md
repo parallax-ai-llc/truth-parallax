@@ -2,7 +2,7 @@
 title: "Charge of the Goddess"
 slug: "charge-of-the-goddess"
 religion: "wicca"
-aliases: ["여신의 명령", "Charge of the Goddess"]
+aliases: ["여신의 명령", "Charge of the Goddess", "女神的训令", "女神の命令", "Наставление Богини", "Parole de la Déesse", "Mandato de la Diosa", "Auftrag der Göttin"]
 totalChapters: 3
 traditions: ["wiccan", "academic", "comparative", "philosophical", "feminist", "interfaith"]
 tags: ["Goddess", "Doreen Valiente", "ritual", "moon", "nature"]

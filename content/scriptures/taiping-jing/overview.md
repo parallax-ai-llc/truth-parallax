@@ -2,7 +2,7 @@
 title: "Taiping Jing"
 slug: "taiping-jing"
 religion: "taoism"
-aliases: ["\ud0dc\ud3c9\uacbd", "\u592a\u5e73\u7d93", "Scripture of Great Peace"]
+aliases: ["태평경", "太平經", "Scripture of Great Peace", "太平経", "たいへいきょう", "Канон Великого равновесия", "Classique de la Grande Paix", "Taiping Jing"]
 totalChapters: 10
 traditions: ["philosophical", "religious", "academic", "confucian", "comparative", "zen"]
 tags: ["Great Peace", "millenarian", "yin-yang", "Yellow Turban"]

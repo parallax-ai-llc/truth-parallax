@@ -2,7 +2,7 @@
 title: "Sunan Abu Dawud"
 slug: "hadith-abu-dawud"
 religion: "islam"
-aliases: ["Sunan Abī Dāwūd", "아부 다우드 하디스"]
+aliases: ["Sunan Abī Dāwūd", "아부 다우드 하디스", "سنن أبي داود", "阿布·达吾德圣训集", "スナン・アブー・ダーウード", "Сунан Абу Дауда", "Sunan Abu Dawud", "Sunan Abou Dawoud", "Sunan Abu Dawud Sammlung", "Sunan Abu Dawud Colección"]
 totalChapters: 5
 traditions: ["sunni", "shia", "sufi", "salafi", "academic", "comparative"]
 tags: ["hadith", "sunnah", "fiqh", "jurisprudence", "daily practice"]

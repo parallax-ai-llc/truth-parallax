@@ -2,7 +2,7 @@
 title: "Atharva Veda"
 slug: "atharva-veda"
 religion: "hinduism"
-aliases: ["Atharvaveda", "아타르바베다"]
+aliases: ["Atharvaveda", "아타르바베다", "阿闼婆吠陀", "アタルヴァ・ヴェーダ", "अथर्ववेद", "Atharva-Véda", "Atarvaveda", "Атхарваведа", "Atharva Veda Saṃhitā"]
 totalChapters: 5
 traditions: ["traditional", "advaita", "vaishnavism", "shaivism", "academic", "comparative"]
 tags: ["healing", "charms", "philosophy", "daily life", "magic", "Prithivi Sukta"]

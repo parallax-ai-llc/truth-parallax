@@ -2,7 +2,7 @@
 title: "Cao Dai Canon"
 slug: "cao-dai-canon"
 religion: "cao-dai"
-aliases: ["Thánh Ngôn Hiệp Tuyển", "까오다이 경전"]
+aliases: ["Thánh Ngôn Hiệp Tuyển", "까오다이 경전", "高台教经典", "カオダイ経典", "Канон Каодай", "Canon du Caodaïsme", "Canon del Cao Dai", "Cao-Đài-Kanon", "Kinh Thiên Đạo", "Đại Đạo Tam Kỳ Phổ Độ"]
 totalChapters: 4
 traditions: ["cao-dai", "academic", "comparative", "buddhist-vietnamese", "confucian", "interfaith"]
 tags: ["syncretism", "supreme being", "spiritism", "universal religion"]

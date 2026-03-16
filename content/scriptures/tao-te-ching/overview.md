@@ -2,7 +2,7 @@
 title: "Tao Te Ching"
 slug: "tao-te-ching"
 religion: "taoism"
-aliases: ["Daodejing", "도덕경"]
+aliases: ["Daodejing", "도덕경", "道德經", "道徳経", "どうとくきょう", "Дао дэ цзин", "Le Livre de la Voie et de la Vertu", "Tao Te King", "Tao Te Ching"]
 totalChapters: 81
 traditions: ["philosophical", "religious", "academic", "confucian", "comparative", "zen"]
 tags: ["Tao", "wu wei", "virtue", "nature", "simplicity", "governance", "Lao Tzu"]

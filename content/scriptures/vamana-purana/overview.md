@@ -2,7 +2,7 @@
 title: "Vamana Purana"
 slug: "vamana-purana"
 religion: "hinduism"
-aliases: ['바마나 푸라나', 'Vāmana Purāṇa']
+aliases: ["바마나 푸라나", "Vāmana Purāṇa", "वामन पुराण", "侏儒往世书", "ヴァーマナ・プラーナ", "Вамана-пурана", "Vamana Purana"]
 totalChapters: 6
 traditions: ['vaishnavism', 'shaivism', 'advaita', 'dvaita', 'academic', 'comparative']
 tags: ['Vamana', 'dwarf avatar', 'Vishnu', 'Bali']

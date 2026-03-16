@@ -2,7 +2,7 @@
 title: "Infinite Life Sutra"
 slug: "infinite-life-sutra"
 religion: "buddhism"
-aliases: ["Sukhāvatīvyūha Sūtra", "무량수경"]
+aliases: ["Sukhāvatīvyūha Sūtra", "무량수경", "無量壽經", "無量寿経", "सुखावतीव्यूह सूत्र", "พระสูตรอมิตายุส", "Сутра бесконечной жизни", "Sutra de la Vie Infinie", "Sutra des unermesslichen Lebens", "Sutra de la Vida Infinita", "Larger Sukhavativyuha Sutra"]
 totalChapters: 3
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["Pure Land", "Amitabha", "48 vows", "rebirth", "nembutsu"]

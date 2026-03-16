@@ -2,7 +2,7 @@
 title: "Apocryphon of John"
 slug: "apocryphon-of-john"
 religion: "christianity"
-aliases: ["Secret Book of John", "요한의 비밀서"]
+aliases: ["Secret Book of John", "요한의 비밀서", "约翰的秘密书", "ヨハネのアポクリュフォン", "ספר הסוד של יוחנן", "كتاب يوحنا السري", "Geheimschrift des Johannes", "Apocryphe de Jean", "Apócrifo de Juan", "Апокриф Иоанна", "Ἀπόκρυφον Ἰωάννου"]
 totalChapters: 5
 traditions: ["gnosticism", "protestantism", "catholicism", "eastern-orthodox", "judaism", "academic"]
 tags: ["Sethian", "cosmogony", "Yaldabaoth", "Barbelo", "archons", "Nag Hammadi"]

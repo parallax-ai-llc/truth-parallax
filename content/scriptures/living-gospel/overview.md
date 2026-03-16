@@ -2,7 +2,7 @@
 title: "Living Gospel"
 slug: "living-gospel"
 religion: "manichaeism"
-aliases: ["살아있는 복음", "Living Gospel", "Great Gospel"]
+aliases: ["살아있는 복음", "Living Gospel", "Great Gospel", "活的福音", "生ける福音", "Живое Евангелие", "L'Évangile Vivant", "Das Lebendige Evangelium", "El Evangelio Viviente"]
 totalChapters: 22
 traditions: ["manichaean", "academic", "comparative", "gnostic", "christian", "interfaith"]
 tags: ["Mani", "light", "darkness", "dualism", "salvation"]

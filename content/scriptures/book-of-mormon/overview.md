@@ -2,7 +2,7 @@
 title: "Book of Mormon"
 slug: "book-of-mormon"
 religion: "christianity-lds"
-aliases: ["Another Testament of Jesus Christ", "몰몬경"]
+aliases: ["Another Testament of Jesus Christ", "몰몬경", "摩尔门经", "モルモン書", "ספר מורמון", "كتاب مورمون", "Buch Mormon", "Livre de Mormon", "Libro de Mormón", "Книга Мормона"]
 totalChapters: 15
 traditions: ["lds", "community-of-christ", "academic", "protestant", "comparative", "historical-critical"]
 tags: ["Nephites", "Lamanites", "Jesus in Americas", "restoration", "Joseph Smith"]

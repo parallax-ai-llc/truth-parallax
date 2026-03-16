@@ -2,7 +2,7 @@
 title: "Kitab-i-Aqdas"
 slug: "kitab-i-aqdas"
 religion: "bahai"
-aliases: ["Most Holy Book", "키타비 아크다스"]
+aliases: ["Most Holy Book", "키타비 아크다스", "الكتاب الأقدس", "至圣之书", "キターブ・イ・アクダス", "Китаб-и-Агдас", "Le Kitáb-i-Aqdas", "Das Heiligste Buch", "El Libro Más Sagrado"]
 totalChapters: 5
 traditions: ["bahai", "academic", "comparative", "islamic", "christian", "interfaith"]
 tags: ["laws", "ordinances", "Baha'u'llah", "new dispensation", "world order"]

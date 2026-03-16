@@ -2,7 +2,7 @@
 title: "Ginza Rabba"
 slug: "ginza-rabba"
 religion: "mandaeism"
-aliases: ["Great Treasure", "긴자 라바"]
+aliases: ["Great Treasure", "긴자 라바", "大宝典", "ギンザー・ラッバー", "Гинза Рабба", "Le Grand Trésor", "El Gran Tesoro", "Ginza Rabba", "Ginza Rba"]
 totalChapters: 2
 traditions: ["mandaean", "academic", "comparative", "gnostic", "jewish", "interfaith"]
 tags: ["light", "baptism", "John the Baptist", "dualism", "soul's journey"]

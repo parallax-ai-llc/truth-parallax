@@ -2,7 +2,7 @@
 title: "Lament for Ur"
 slug: "lament-for-ur"
 religion: "ancient-sumerian"
-aliases: ["우르 애가", "Lament for Ur"]
+aliases: ["우르 애가", "Lament for Ur", "乌尔哀歌", "ウルの哀歌", "Плач об Уре", "La Lamentation pour Ur", "Die Klage über Ur", "El Lamento por Ur"]
 totalChapters: 11
 traditions: ["academic", "comparative", "theological", "literary", "archaeological", "interfaith"]
 tags: ["destruction", "lamentation", "Nanna", "city lament"]

@@ -2,7 +2,7 @@
 title: "Zostrianos"
 slug: "zostrianos"
 religion: "gnosticism"
-aliases: ["조스트리아노스", "Zostrianos"]
+aliases: ["조스트리아노스", "Zostrianos", "佐斯特里亚诺斯", "ゾストリアノス", "Зостриан", "Zostrien"]
 totalChapters: 8
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Zostrianos", "heavenly ascent", "Sethian", "baptism", "Platonism"]

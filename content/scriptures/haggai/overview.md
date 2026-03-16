@@ -2,7 +2,7 @@
 title: "Haggai"
 slug: "haggai"
 religion: "christianity"
-aliases: ["Chaggai", "학개"]
+aliases: ["Chaggai", "학개", "חַגַּי", "حجي", "哈该书", "ハガイ書", "Αγγαίος", "Aggaeus", "Книга пророка Аггея", "Aggée", "Haggai", "Ageo"]
 totalChapters: 2
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["temple rebuilding", "priorities", "glory", "post-exilic", "Zerubbabel"]

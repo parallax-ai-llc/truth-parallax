@@ -2,7 +2,7 @@
 title: "Denkard"
 slug: "denkard"
 religion: "zoroastrianism"
-aliases: ["덴카르드", "Dēnkard", "Acts of Religion"]
+aliases: ["덴카르드", "Dēnkard", "Acts of Religion", "دینکرد", "宗教行为录", "デーンカルド", "Денкард", "Actes de la Religion", "Actos de la Religión", "Denkard"]
 totalChapters: 9
 traditions: ['zoroastrian', 'academic', 'comparative', 'protestant', 'jewish', 'islamic']
 tags: ["encyclopedia", "Pahlavi", "theology", "defense of religion"]

@@ -2,7 +2,7 @@
 title: "Isha Upanishad"
 slug: "isha-upanishad"
 religion: "hinduism"
-aliases: ["Ishavasya Upanishad", "이샤 우파니샤드"]
+aliases: ["Ishavasya Upanishad", "이샤 우파니샤드", "ईशोपनिषद्", "ईशावास्य उपनिषद्", "伊莎奥义书", "イーシャー・ウパニシャッド", "Иша Упанишада", "Isha Upanishad", "Isha-Upanishad"]
 totalChapters: 1
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["Brahman", "atman", "renunciation", "knowledge", "self", "unity"]

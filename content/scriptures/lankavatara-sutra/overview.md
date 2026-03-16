@@ -2,7 +2,7 @@
 title: "Lankavatara Sutra"
 slug: "lankavatara-sutra"
 religion: "buddhism"
-aliases: ["Laṅkāvatārasūtra", "능가경"]
+aliases: ["Laṅkāvatārasūtra", "능가경", "楞伽經", "楞伽経", "लंकावतारसूत्र", "ลังกาวตารสูตร", "Ланкаватара-сутра", "Le Sutra Lankavatara", "Lankavatara-Sutra", "Sutra Lankavatara"]
 totalChapters: 10
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["consciousness-only", "tathagatagarbha", "mind-only", "Lanka", "Bodhidharma"]

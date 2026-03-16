@@ -2,7 +2,7 @@
 title: "Acts"
 slug: "acts"
 religion: "christianity"
-aliases: ["Acts of the Apostles", "사도행전"]
+aliases: ["Acts of the Apostles", "사도행전", "使徒行传", "使徒言行録", "מעשי השליחים", "أعمال الرسل", "Apostelgeschichte", "Actes des Apôtres", "Hechos de los Apóstoles", "Деяния святых апостолов", "Πράξεις τῶν Ἀποστόλων", "Actus Apostolorum"]
 totalChapters: 28
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["Holy Spirit", "Pentecost", "early church", "mission", "Paul", "Peter", "Gentile inclusion"]

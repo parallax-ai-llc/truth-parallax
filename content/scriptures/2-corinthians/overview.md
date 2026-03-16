@@ -2,7 +2,7 @@
 title: "2 Corinthians"
 slug: "2-corinthians"
 religion: "christianity"
-aliases: ["Pros Korinthious B", "고린도후서"]
+aliases: ["Pros Korinthious B", "고린도후서", "哥林多后书", "コリントの信徒への手紙二", "השנייה אל הקורינתים", "رسالة كورنثوس الثانية", "2. Korinther", "2 Corinthiens", "2 Corintios", "2-е Коринфянам", "Β΄ Κορινθίους", "Epistula II ad Corinthios", "Second Corinthians"]
 totalChapters: 13
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["suffering", "ministry", "new covenant", "reconciliation", "weakness", "generosity"]

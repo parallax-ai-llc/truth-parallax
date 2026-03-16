@@ -2,7 +2,7 @@
 title: "Thought of Norea"
 slug: "thought-of-norea"
 religion: "gnosticism"
-aliases: ["노레아의 생각", "Thought of Norea"]
+aliases: ["노레아의 생각", "Thought of Norea", "诺里亚的思想", "ノーレアの思想", "Мысль Нории", "La Pensée de Norée", "Der Gedanke der Norea", "El Pensamiento de Norea", "ⲡⲙⲉⲉⲩⲉ ⲛⲛⲱⲣⲉⲁ"]
 totalChapters: 2
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Norea", "feminine divine", "Sethian"]

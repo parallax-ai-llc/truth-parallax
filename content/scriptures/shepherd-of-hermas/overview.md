@@ -2,7 +2,7 @@
 title: "Shepherd of Hermas"
 slug: "shepherd-of-hermas"
 religion: "christianity"
-aliases: ["헤르마스의 목자","Shepherd of Hermas"]
+aliases: ["헤르마스의 목자", "Shepherd of Hermas", "Ποιμὴν τοῦ Ἑρμᾶ", "Pastor Hermae", "牧人书", "ヘルマスの牧者", "Пастырь Ерма", "Le Pasteur d'Hermas", "Der Hirt des Hermas", "El Pastor de Hermas"]
 totalChapters: 27
 traditions: ["academic","comparative","protestant","catholic","eastern-orthodox","interfaith"]
 tags: ["repentance","visions","tower","church","apostolic fathers"]

@@ -2,7 +2,7 @@
 title: "Mahabharata"
 slug: "mahabharata"
 religion: "hinduism"
-aliases: ["Mahābhārata", "마하바라타"]
+aliases: ["Mahābhārata", "마하바라타", "महाभारत", "摩诃婆罗多", "マハーバーラタ", "Махабхарата", "Le Mahâbhârata", "Das Mahabharata", "El Mahabharata"]
 totalChapters: 18
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["dharma", "war", "Pandavas", "Kauravas", "Krishna", "epic", "duty"]

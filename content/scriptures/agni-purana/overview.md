@@ -2,7 +2,7 @@
 title: "Agni Purana"
 slug: "agni-purana"
 religion: "hinduism"
-aliases: ['아그니 푸라나', 'Agni Purāṇa']
+aliases: ["아그니 푸라나", "Agni Purāṇa", "火神往世书", "アグニ・プラーナ", "अग्निपुराण", "بورانای آگنی", "Agni Purana", "Agni Purâna", "Агни-пурана", "Fire Purana"]
 totalChapters: 12
 traditions: ['vaishnavism', 'shaivism', 'advaita', 'dvaita', 'academic', 'comparative']
 tags: ['Agni', 'encyclopedia', 'rituals', 'arts', 'grammar']

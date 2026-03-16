@@ -2,7 +2,7 @@
 title: "Narada Purana"
 slug: "narada-purana"
 religion: "hinduism"
-aliases: ['나라다 푸라나', 'Nārada Purāṇa']
+aliases: ["나라다 푸라나", "Nārada Purāṇa", "नारदपुराण", "那罗陀往世书", "ナーラダ・プラーナ", "Нарада Пурана", "Narada Purana"]
 totalChapters: 5
 traditions: ['vaishnavism', 'shaivism', 'advaita', 'dvaita', 'academic', 'comparative']
 tags: ['Narada', 'devotion', 'festivals', 'dharma']

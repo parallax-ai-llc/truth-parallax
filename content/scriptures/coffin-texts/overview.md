@@ -2,7 +2,7 @@
 title: "Coffin Texts"
 slug: "coffin-texts"
 religion: "ancient-egyptian"
-aliases: ["관 텍스트", "Coffin Texts"]
+aliases: ["관 텍스트", "Coffin Texts", "棺材铭文", "棺槨文書", "Тексты саркофагов", "Textes des sarcophages", "Textos de los sarcófagos", "Sargtexte"]
 totalChapters: 20
 traditions: ["academic", "comparative", "hermetic", "theological", "archaeological", "interfaith"]
 tags: ["afterlife", "democratization", "spells", "Middle Kingdom"]

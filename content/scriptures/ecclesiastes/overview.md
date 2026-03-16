@@ -1,7 +1,7 @@
 ---
 title: "Ecclesiastes"
 slug: "ecclesiastes"
-aliases: ["Kohelet", "전도서"]
+aliases: ["Kohelet", "전도서", "קֹהֶלֶת", "传道书", "コヘレトの言葉", "Ἐκκλησιαστής", "Ecclesiastes", "Экклезиаст", "L'Ecclésiaste", "Eclesiastés", "Kohelet", "Der Prediger"]
 totalChapters: 12
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["vanity", "wisdom", "meaning", "time", "death"]

@@ -2,7 +2,7 @@
 title: "Gulistan"
 slug: "gulistan"
 religion: "islam"
-aliases: ['굴리스탄', 'Gulistan', 'Rose Garden']
+aliases: ['굴리스탄', 'Gulistan', 'Rose Garden', 'گلستان', '玫瑰园', 'グリスターン', 'Гулистан', 'Le Jardin de roses', 'El Jardín de rosas', 'Der Rosengarten', 'Golestān']
 totalChapters: 8
 traditions: ['sufi', 'sunni', 'shia', 'academic', 'comparative', 'interfaith']
 tags: ["Sa'di", 'ethics', 'stories', 'wisdom', 'Persian literature']

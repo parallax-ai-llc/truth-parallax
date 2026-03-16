@@ -2,7 +2,7 @@
 title: "Prayer of the Apostle Paul"
 slug: "prayer-of-apostle-paul"
 religion: "gnosticism"
-aliases: ["사도 바울의 기도", "Prayer of the Apostle Paul"]
+aliases: ["사도 바울의 기도", "Prayer of the Apostle Paul", "使徒保罗的祷告", "使徒パウロの祈り", "Молитва апостола Павла", "Prière de l'apôtre Paul", "Gebet des Apostels Paulus", "Oración del apóstol Pablo"]
 totalChapters: 2
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Paul", "prayer", "Valentinian", "redemption"]

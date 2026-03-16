@@ -2,7 +2,7 @@
 title: "Concept of Our Great Power"
 slug: "concept-of-our-great-power"
 religion: "gnosticism"
-aliases: ["위대한 힘의 개념", "Concept of Our Great Power"]
+aliases: ["위대한 힘의 개념", "Concept of Our Great Power", "我们大能的概念", "我らの大いなる力の概念", "Понятие нашей великой силы", "Le Concept de notre grande puissance", "El Concepto de nuestro gran poder", "Noēma tēs Megalēs Dynameōs"]
 totalChapters: 4
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["apocalyptic", "three ages", "eschatology"]

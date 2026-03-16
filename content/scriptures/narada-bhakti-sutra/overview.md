@@ -2,7 +2,7 @@
 title: "Narada Bhakti Sutra"
 slug: "narada-bhakti-sutra"
 religion: "hinduism"
-aliases: ["나라다 박티 수트라","Nārada Bhakti Sūtra"]
+aliases: ["나라다 박티 수트라", "Nārada Bhakti Sūtra", "नारदभक्तिसूत्र", "那罗陀虔信经", "ナーラダ・バクティ・スートラ", "Нарада Бхакти Сутра", "Narada Bhakti Sutra"]
 totalChapters: 5
 traditions: ["vaishnavism","shaivism","advaita","dvaita","academic","comparative"]
 tags: ["bhakti","devotion","love","Narada"]

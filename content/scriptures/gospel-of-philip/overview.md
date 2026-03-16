@@ -2,7 +2,7 @@
 title: "Gospel of Philip"
 slug: "gospel-of-philip"
 religion: "christianity"
-aliases: ["Evangelion kata Philippos", "빌립복음"]
+aliases: ["Evangelion kata Philippos", "빌립복음", "腓力福音", "フィリポによる福音書", "Εὐαγγέλιον κατὰ Φίλιππον", "Evangelium Philippi", "Евангелие от Филиппа", "Évangile de Philippe", "Evangelio de Felipe", "Philippusevangelium"]
 totalChapters: 8
 traditions: ["gnosticism", "protestantism", "catholicism", "eastern-orthodox", "judaism", "academic"]
 tags: ["sacraments", "bridal chamber", "gnosis", "Valentinian", "Nag Hammadi", "mystery"]

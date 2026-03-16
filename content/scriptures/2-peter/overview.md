@@ -2,7 +2,7 @@
 title: "2 Peter"
 slug: "2-peter"
 religion: "christianity"
-aliases: ["Petrou B", "베드로후서"]
+aliases: ["Petrou B", "베드로후서", "彼得后书", "ペトロの手紙二", "השנייה של פטרוס", "رسالة بطرس الثانية", "2. Petrus", "2 Pierre", "2 Pedro", "2-е Петра", "Β΄ Πέτρου", "Epistula II Petri", "Second Peter"]
 totalChapters: 3
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["false teachers", "second coming", "knowledge", "Scripture", "judgment"]

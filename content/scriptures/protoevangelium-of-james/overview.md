@@ -2,7 +2,7 @@
 title: "Protoevangelium of James"
 slug: "protoevangelium-of-james"
 religion: "christianity"
-aliases: ["야고보 원복음서","Protoevangelium of James"]
+aliases: ["야고보 원복음서", "Protoevangelium of James", "雅各伯原始福音", "ヤコブ原福音書", "Протоевангелие Иакова", "Protévangile de Jacques", "Protevangelium des Jakobus", "Protoevangelio de Santiago"]
 totalChapters: 25
 traditions: ["academic","comparative","protestant","catholic","eastern-orthodox","interfaith"]
 tags: ["Mary","nativity","infancy","virgin birth","apocryphal"]

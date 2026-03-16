@@ -2,7 +2,7 @@
 title: "Great Learning"
 slug: "great-learning"
 religion: "confucianism"
-aliases: ["Daxue", "대학"]
+aliases: ["Daxue", "대학", "大學", "大学", "だいがく", "Да сюэ", "La Grande Étude", "La Gran Enseñanza", "Das Große Lernen", "Dà Xué", "Great Learning"]
 totalChapters: 1
 traditions: ["confucian", "neo-confucian", "daoist", "buddhist-chinese", "academic", "comparative"]
 tags: ["self-cultivation", "governance", "investigation of things", "sincerity", "eight steps"]

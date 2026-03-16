@@ -2,7 +2,7 @@
 title: "Sunan an-Nasa'i"
 slug: "hadith-nasai"
 religion: "islam"
-aliases: ["Sunan an-Nasā'ī", "나사이 하디스"]
+aliases: ["Sunan an-Nasā'ī", "나사이 하디스", "سنن النسائي", "奈萨伊圣训集", "スナン・アン＝ナサーイー", "Сунан ан-Насаи", "Sunan an-Nasa'i", "Sunan d'an-Nassaï", "Sunan an-Nasai Sammlung", "Sunan de an-Nasai"]
 totalChapters: 5
 traditions: ["sunni", "shia", "sufi", "salafi", "academic", "comparative"]
 tags: ["hadith", "sunnah", "strictest isnad", "prayer", "purity"]

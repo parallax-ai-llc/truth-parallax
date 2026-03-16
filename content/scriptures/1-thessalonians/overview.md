@@ -2,7 +2,7 @@
 title: "1 Thessalonians"
 slug: "1-thessalonians"
 religion: "christianity"
-aliases: ["Pros Thessalonikeis A", "데살로니가전서"]
+aliases: ["Pros Thessalonikeis A", "데살로니가전서", "帖撒罗尼迦前书", "テサロニケの信徒への手紙一", "הראשונה אל התסלוניקים", "رسالة تسالونيكي الأولى", "1. Thessalonicher", "1 Thessaloniciens", "1 Tesalonicenses", "1-е Фессалоникийцам", "Α΄ Θεσσαλονικεῖς", "Epistula I ad Thessalonicenses", "First Thessalonians"]
 totalChapters: 5
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["second coming", "sanctification", "comfort", "hope", "labor"]

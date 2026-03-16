@@ -2,7 +2,7 @@
 title: "Life of Adam and Eve"
 slug: "life-of-adam-and-eve"
 religion: "christianity"
-aliases: ["아담과 이브의 생애","Life of Adam and Eve","Vita Adae"]
+aliases: ["아담과 이브의 생애", "Life of Adam and Eve", "Vita Adae", "亚当和夏娃的生平", "アダムとエバの生涯", "Жизнь Адама и Евы", "La Vie d'Adam et Ève", "Das Leben Adams und Evas", "La Vida de Adán y Eva", "Apocalypsis Mosis"]
 totalChapters: 8
 traditions: ["academic","comparative","protestant","catholic","eastern-orthodox","interfaith"]
 tags: ["fall","repentance","paradise","Satan","death"]

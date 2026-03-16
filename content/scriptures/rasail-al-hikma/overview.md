@@ -2,7 +2,7 @@
 title: "Rasa'il al-Hikma"
 slug: "rasail-al-hikma"
 religion: "druze"
-aliases: ["지혜의 서한", "Epistles of Wisdom", "Rasa'il al-Hikma"]
+aliases: ["지혜의 서한", "Epistles of Wisdom", "Rasa'il al-Hikma", "رسائل الحكمة", "智慧书信", "知恵の書簡", "Послания мудрости", "Épîtres de la Sagesse", "Briefe der Weisheit", "Epístolas de la Sabiduría"]
 totalChapters: 6
 traditions: ["druze", "academic", "comparative", "islamic", "philosophical", "interfaith"]
 tags: ["wisdom", "tawhid", "cosmic intellect", "esoteric", "al-Hakim"]

@@ -2,7 +2,7 @@
 title: "Legend of the Five Suns"
 slug: "legend-of-five-suns"
 religion: "aztec"
-aliases: ["다섯 태양의 전설", "Leyenda de los Cinco Soles"]
+aliases: ["다섯 태양의 전설", "Leyenda de los Cinco Soles", "五个太阳的传说", "五つの太陽の伝説", "Легенда о Пяти Солнцах", "La Légende des Cinq Soleils", "Die Legende der Fünf Sonnen", "Legend of the Five Suns"]
 totalChapters: 5
 traditions: ["indigenous", "academic", "comparative", "theological", "archaeological", "interfaith"]
 tags: ["creation", "Quetzalcoatl", "Tezcatlipoca", "cosmic cycles", "sacrifice"]

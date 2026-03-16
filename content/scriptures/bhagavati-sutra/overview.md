@@ -2,7 +2,7 @@
 title: "Bhagavati Sutra"
 slug: "bhagavati-sutra"
 religion: "jainism"
-aliases: ["바가바티 수트라", "Bhagavatī Sūtra", "Vyākhyāprajñapti"]
+aliases: ["바가바티 수트라", "Bhagavatī Sūtra", "Vyākhyāprajñapti", "薄伽梵经", "バガヴァティー・スートラ", "भगवती सूत्र", "Bhagavati Sutra", "Soutra Bhagavati", "Sutra Bhagavati", "Бхагавати-сутра"]
 totalChapters: 12
 traditions: ["digambara", "shvetambara", "academic", "comparative", "philosophical", "interfaith"]
 tags: ["Mahavira dialogues", "karma", "soul", "cosmology"]

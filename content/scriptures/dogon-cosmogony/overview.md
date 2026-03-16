@@ -2,7 +2,7 @@
 title: "Dogon Cosmogony"
 slug: "dogon-cosmogony"
 religion: "african-traditional"
-aliases: ["도곤 우주론", "Dogon Cosmogony"]
+aliases: ["도곤 우주론", "Dogon Cosmogony", "多贡宇宙论", "ドゴン宇宙開闢論", "Космогония догонов", "Cosmogonie Dogon", "Cosmogonía Dogón", "Dogon-Kosmogonie"]
 totalChapters: 7
 traditions: ["indigenous", "academic", "comparative", "theological", "anthropological", "interfaith"]
 tags: ["Amma", "Nommo", "Sirius", "creation", "Griaule"]

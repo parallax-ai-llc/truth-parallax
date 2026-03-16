@@ -2,7 +2,7 @@
 title: "Chandogya Upanishad"
 slug: "chandogya-upanishad"
 religion: "hinduism"
-aliases: ["찬도기아 우파니샤드"]
+aliases: ["찬도기아 우파니샤드", "छान्दोग्य उपनिषद्", "Chāndogya Upaniṣad", "歌者奥义书", "チャーンドーギヤ・ウパニシャッド", "Чхандогья-упанишада", "Chandogya Upanishad", "Chandogya-Upanishad", "L'Upanishad Chandogya"]
 totalChapters: 8
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["Brahman", "atman", "tat tvam asi", "meditation", "Udgitha", "Prana"]

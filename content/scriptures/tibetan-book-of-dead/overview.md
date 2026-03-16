@@ -2,7 +2,7 @@
 title: "Tibetan Book of the Dead"
 slug: "tibetan-book-of-dead"
 religion: "buddhism"
-aliases: ["Bardo Thodol", "티벳 사자의 서"]
+aliases: ["Bardo Thodol", "티벳 사자의 서", "བར་དོ་ཐོས་གྲོལ", "中阴闻教得度", "チベット死者の書", "バルド・トドル", "Тибетская книга мёртвых", "Le Livre des morts tibétain", "Das Tibetische Totenbuch", "El Libro Tibetano de los Muertos", "Tibetan Book of the Dead"]
 totalChapters: 4
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["bardo", "death", "liberation", "luminosity", "rebirth", "consciousness"]

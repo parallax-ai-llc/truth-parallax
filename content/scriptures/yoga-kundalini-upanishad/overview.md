@@ -2,7 +2,7 @@
 title: "Yoga Kundalini Upanishad"
 slug: "yoga-kundalini-upanishad"
 religion: "hinduism"
-aliases: ["\uc694\uac00 \ucfe4\ub2ec\ub9ac\ub2c8 \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Yogakundalini Upanishad"]
+aliases: ["요가 쿤달리니 우파니샤드", "Yogakundalini Upanishad", "योगकुण्डलिनी उपनिषद्", "瑜伽军荼利奥义书", "ヨーガ・クンダリニー・ウパニシャッド", "Йога-кундалини-упанишада", "Yoga Kuṇḍalinī Upaniṣad", "Yoga Kundalini Upanishad"]
 totalChapters: 3
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["kundalini", "chakras", "pranayama"]

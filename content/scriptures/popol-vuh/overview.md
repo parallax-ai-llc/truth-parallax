@@ -2,7 +2,7 @@
 title: "Popol Vuh"
 slug: "popol-vuh"
 religion: "maya"
-aliases: ["\ud3ec\ud3f4 \ubd80", "Popol Vuh", "Book of the People"]
+aliases: ["포폴 부", "Popol Vuh", "Book of the People", "波波尔·乌", "ポポル・ヴフ", "Пополь-Вух", "Livre du Conseil", "Libro del Consejo", "Popol Wuj"]
 totalChapters: 9
 traditions: ["academic", "comparative", "indigenous", "theological", "archaeological", "interfaith"]
 tags: ["creation", "Hero Twins", "Quiche Maya", "cosmogony", "underworld"]

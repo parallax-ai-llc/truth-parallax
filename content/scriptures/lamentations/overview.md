@@ -2,7 +2,7 @@
 title: "Lamentations"
 slug: "lamentations"
 religion: "christianity"
-aliases: ["Eikhah", "애가"]
+aliases: ["Eikhah", "애가", "אֵיכָה", "مراثي إرميا", "耶利米哀歌", "哀歌", "Θρῆνοι", "Threni", "Книга Плач Иеремии", "Lamentations", "Klagelieder", "Lamentaciones"]
 totalChapters: 5
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["grief", "destruction of Jerusalem", "divine judgment", "hope", "acrostic poetry"]

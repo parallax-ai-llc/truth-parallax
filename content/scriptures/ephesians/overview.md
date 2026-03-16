@@ -2,7 +2,7 @@
 title: "Ephesians"
 slug: "ephesians"
 religion: "christianity"
-aliases: ["Pros Ephesious", "에베소서"]
+aliases: ["Pros Ephesious", "에베소서", "以弗所书", "エフェソの信徒への手紙", "אגרת אל האפסים", "Πρὸς Ἐφεσίους", "Epistula ad Ephesios", "Послание к Ефесянам", "Épître aux Éphésiens", "Carta a los Efesios", "Epheserbrief"]
 totalChapters: 6
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["unity", "body of Christ", "armor of God", "mystery", "grace", "new humanity"]

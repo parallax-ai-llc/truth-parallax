@@ -2,7 +2,7 @@
 title: "Asclepius 21-29"
 slug: "asclepius"
 religion: "gnosticism"
-aliases: ["아스클레피우스", "Asclepius 21-29"]
+aliases: ["아스클레피우스", "Asclepius 21-29", "阿斯克勒庇俄斯", "アスクレピウス", "אסקלפיוס", "أسكليبيوس", "Asklepius", "Asclépius", "Asclepio", "Асклепий", "Ἀσκληπιός", "Asclepius Perfectus"]
 totalChapters: 6
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Hermetic", "Asclepius", "cosmos", "humanity", "prophecy"]

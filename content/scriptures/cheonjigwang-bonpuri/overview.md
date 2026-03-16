@@ -2,7 +2,7 @@
 title: "Cheonjigwang Bonpuri"
 slug: "cheonjigwang-bonpuri"
 religion: "korean-shamanism"
-aliases: ["\ucc9c\uc9c0\uc655\ubcf8\ud480\uc774", "Cheonjiwang Bonpuri"]
+aliases: ["천지왕본풀이", "Cheonjiwang Bonpuri", "天地王本解", "チョンジワン・ボンプリ", "Сказание о Чхонджигване", "Mythe de Cheonjiwang", "Mito de Cheonjiwang", "Origin of the Heavenly King"]
 totalChapters: 7
 traditions: ["shamanic", "academic", "comparative", "confucian", "buddhist-korean", "interfaith"]
 tags: ["creation myth", "Jeju", "bonpuri", "cosmogony", "shamanic narrative"]

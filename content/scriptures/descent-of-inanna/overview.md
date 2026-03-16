@@ -2,7 +2,7 @@
 title: "Descent of Inanna"
 slug: "descent-of-inanna"
 religion: "ancient-sumerian"
-aliases: ["이난나의 하강", "Descent of Inanna"]
+aliases: ["이난나의 하강", "Descent of Inanna", "伊南娜下冥界", "イナンナの冥界下り", "Нисхождение Инанны", "La Descente d'Inanna", "El Descenso de Inanna", "Inannas Gang in die Unterwelt", "Descent of Inanna to the Netherworld"]
 totalChapters: 7
 traditions: ["academic", "comparative", "theological", "literary", "archaeological", "interfaith"]
 tags: ["Inanna", "underworld", "Ereshkigal", "death", "rebirth"]

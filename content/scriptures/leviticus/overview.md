@@ -2,7 +2,7 @@
 title: "Leviticus"
 slug: "leviticus"
 religion: "christianity"
-aliases: ["Vayikra", "레위기"]
+aliases: ["Vayikra", "레위기", "וַיִּקְרָא", "اللاويين", "利未记", "レビ記", "Λευιτικόν", "Leviticus", "Книга Левит", "Lévitique", "Levitikus", "Levítico"]
 totalChapters: 27
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["holiness", "sacrifice", "priesthood", "purity", "atonement", "tabernacle"]

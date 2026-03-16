@@ -2,7 +2,7 @@
 title: "Book of Enoch"
 slug: "book-of-enoch"
 religion: "christianity"
-aliases: ["1 Enoch", "에녹서"]
+aliases: ["1 Enoch", "에녹서", "以诺书", "エノク書", "ספר חנוך", "سفر أخنوخ", "Henochbuch", "Livre d\u0027Hénoch", "Libro de Enoc", "Книга Еноха", "Ethiopian Enoch", "Ge\u0027ez Enoch", "መጽሐፈ ሄኖክ"]
 totalChapters: 108
 traditions: ["ethiopian-orthodox", "protestantism", "catholicism", "judaism", "academic", "gnosticism"]
 tags: ["fallen angels", "Watchers", "Son of Man", "apocalyptic", "judgment", "Enoch"]

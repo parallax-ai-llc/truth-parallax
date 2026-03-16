@@ -2,7 +2,7 @@
 title: "4QMMT"
 slug: "4qmmt"
 religion: "judaism"
-aliases: ["미크찻 마아세 하토라", "4QMMT", "Some Works of the Torah"]
+aliases: ["미크찻 마아세 하토라", "4QMMT", "Some Works of the Torah", "律法行为书", "律法についての書", "מקצת מעשי התורה", "بعض أعمال التوراة", "Einige Werke der Tora", "Quelques œuvres de la Torah", "Algunas obras de la Torá", "Некоторые дела Торы", "Miqṣat Maʿaśe ha-Torah"]
 totalChapters: 6
 traditions: ['essene', 'judaism', 'protestantism', 'catholicism', 'eastern-orthodox', 'academic']
 tags: ["halakha", "calendar", "purity", "sectarian law", "letter"]

@@ -2,7 +2,7 @@
 title: "2 Samuel"
 slug: "2-samuel"
 religion: "christianity"
-aliases: ["Shmuel Bet", "사무엘하"]
+aliases: ["Shmuel Bet", "사무엘하", "撒母耳记下", "サムエル記下", "שמואל ב", "سفر صموئيل الثاني", "2. Samuel", "2 Samuel", "2 Самуила", "Β΄ Σαμουήλ", "Liber II Samuelis", "Second Samuel"]
 totalChapters: 24
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["David", "kingship", "covenant", "Bathsheba", "succession", "Jerusalem"]

@@ -2,7 +2,7 @@
 title: "Kojiki"
 slug: "kojiki"
 religion: "shinto"
-aliases: ["古事記", "고사기"]
+aliases: ["古事記", "고사기", "こじき", "古事记", "Кодзики", "Le Kojiki", "Das Kojiki", "El Kojiki", "Records of Ancient Matters"]
 totalChapters: 3
 traditions: ["philosophical", "religious", "academic", "confucian", "comparative", "zen"]
 tags: ["creation myth", "kami", "imperial lineage", "Japanese mythology"]

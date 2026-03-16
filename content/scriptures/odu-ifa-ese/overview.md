@@ -2,7 +2,7 @@
 title: "Ese Ifá"
 slug: "odu-ifa-ese"
 religion: "yoruba"
-aliases: ["에세 이파", "Ese Ifá", "Ifa Verses"]
+aliases: ["에세 이파", "Ese Ifá", "Ifa Verses", "伊法诗歌", "イファの詩", "Стихи Ифа", "Vers d'Ifá", "Versos de Ifá", "Odu Ifá"]
 totalChapters: 8
 traditions: ["indigenous", "academic", "comparative", "theological", "anthropological", "interfaith"]
 tags: ["ese Ifa", "verses", "divination poetry", "proverbs", "Orunmila"]

@@ -2,7 +2,7 @@
 title: "Spring and Autumn Annals"
 slug: "spring-autumn-annals"
 religion: "confucianism"
-aliases: ["Chunqiu", "춘추"]
+aliases: ["Chunqiu", "춘추", "春秋", "春秋", "しゅんじゅう", "Вёсны и осени", "Annales des Printemps et Automnes", "Frühlings- und Herbstannalen", "Anales de Primavera y Otoño", "Spring and Autumn Annals"]
 totalChapters: 12
 traditions: ["confucian", "neo-confucian", "daoist", "buddhist-chinese", "academic", "comparative"]
 tags: ["history", "moral judgment", "praise and blame", "Lu state"]

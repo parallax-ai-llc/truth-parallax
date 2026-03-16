@@ -2,7 +2,7 @@
 title: "Yoga Tattva Upanishad"
 slug: "yoga-tattva-upanishad"
 religion: "hinduism"
-aliases: ["\uc694\uac00 \ud0c0\ud2b8\ubc14 \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Yogatattva Upanishad"]
+aliases: ["요가 타트바 우파니샤드", "Yogatattva Upanishad", "योगतत्त्व उपनिषद्", "瑜伽真谛奥义书", "ヨーガタットヴァ・ウパニシャッド", "Йогататтва-упанишада", "Yogatattva Upaniṣad", "Yoga Tattva Upanishad"]
 totalChapters: 4
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["yoga", "kundalini", "pranayama", "samadhi"]

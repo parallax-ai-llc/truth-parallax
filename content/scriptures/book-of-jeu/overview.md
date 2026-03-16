@@ -2,7 +2,7 @@
 title: "Book of Jeu"
 slug: "book-of-jeu"
 religion: "gnosticism"
-aliases: ["예우의 서", "Books of Jeu"]
+aliases: ["예우의 서", "Books of Jeu", "约乌之书", "イエウの書", "ספרי יאו", "كتب ييو", "Bücher des Jeu", "Livres de Jéou", "Libros de Jeu", "Книги Йеу"]
 totalChapters: 2
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Jeu", "emanations", "seals", "passwords", "treasury of light"]

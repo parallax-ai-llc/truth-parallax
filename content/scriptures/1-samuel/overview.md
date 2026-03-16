@@ -2,7 +2,7 @@
 title: "1 Samuel"
 slug: "1-samuel"
 religion: "christianity"
-aliases: ["Shmuel Aleph", "사무엘상"]
+aliases: ["Shmuel Aleph", "사무엘상", "撒母耳记上", "サムエル記上", "שמואל א", "سفر صموئيل الأول", "1. Samuel", "1 Samuel", "1 Самуила", "Α΄ Σαμουήλ", "Liber I Samuelis", "First Samuel"]
 totalChapters: 31
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["monarchy", "Samuel", "Saul", "David", "anointing", "kingship"]

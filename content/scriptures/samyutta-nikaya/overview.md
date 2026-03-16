@@ -2,7 +2,7 @@
 title: "Samyutta Nikaya"
 slug: "samyutta-nikaya"
 religion: "buddhism"
-aliases: ["상응부", "相應部", "Saṃyutta Nikāya"]
+aliases: ["상응부", "相應部", "Saṃyutta Nikāya", "サンユッタ・ニカーヤ", "สังยุตตนิกาย", "བསྡུས་པའི་སྡེ", "Saṃyuktāgama", "Samyutta Nikaya", "Объединённые наставления", "Le Recueil des discours groupés", "Verbundene Sammlung"]
 totalChapters: 12
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["connected discourses", "dependent origination", "five aggregates"]

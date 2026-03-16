@@ -2,7 +2,7 @@
 title: "Anguttara Nikaya"
 slug: "anguttara-nikaya"
 religion: "buddhism"
-aliases: ["증지부", "增支部", "Aṅguttara Nikāya"]
+aliases: ["증지부", "增支部", "Aṅguttara Nikāya", "增支部经典", "アングッタラ・ニカーヤ", "อังคุตตรนิกาย", "ལྷག་པའི་མདོ་སྡེ", "अङ्गुत्तरनिकाय", "Angereihte Sammlung", "Collection Numérique", "Colección Numérica", "Ангуттара-никая", "Numerical Discourses"]
 totalChapters: 11
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["numerical discourses", "gradual training", "ethics"]

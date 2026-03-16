@@ -2,7 +2,7 @@
 title: "Odes of Solomon"
 slug: "odes-of-solomon"
 religion: "christianity"
-aliases: ["솔로몬의 송가", "Odes of Solomon"]
+aliases: ["솔로몬의 송가", "Odes of Solomon", "所罗门颂歌", "ソロモンの頌歌", "שירות שלמה", "أناشيد سليمان", "Оды Соломона", "Oden Salomos", "Odes de Salomon", "Odas de Salomón"]
 totalChapters: 42
 traditions: ["syriac", "academic", "comparative", "eastern-orthodox", "catholic", "interfaith"]
 tags: ["hymns", "baptism", "mysticism", "early Christian", "Syriac"]

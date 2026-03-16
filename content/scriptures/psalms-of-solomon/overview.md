@@ -2,7 +2,7 @@
 title: "Psalms of Solomon"
 slug: "psalms-of-solomon"
 religion: "judaism"
-aliases: ["솔로몬의 시편","Psalms of Solomon"]
+aliases: ["솔로몬의 시편", "Psalms of Solomon", "所罗门诗篇", "ソロモンの詩篇", "מזמורי שלמה", "مزامير سليمان", "Ψαλμοὶ Σολομῶντος", "Psalmi Salomonis", "Псалмы Соломона", "Psaumes de Salomon", "Salmos de Salomón"]
 totalChapters: 18
 traditions: ["academic","comparative","protestant","catholic","eastern-orthodox","interfaith"]
 tags: ["messianism","Pharisees","Pompey","righteousness","kingship"]

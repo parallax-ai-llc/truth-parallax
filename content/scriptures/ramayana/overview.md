@@ -2,7 +2,7 @@
 title: "Ramayana"
 slug: "ramayana"
 religion: "hinduism"
-aliases: ["Rāmāyaṇa", "라마야나"]
+aliases: ["Rāmāyaṇa", "라마야나", "रामायण", "罗摩衍那", "ラーマーヤナ", "รามายณะ", "Рамаяна", "Le Ramayana", "Das Ramayana", "El Ramayana"]
 totalChapters: 7
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["Rama", "dharma", "exile", "Sita", "devotion", "epic"]

@@ -2,7 +2,7 @@
 title: "Nahum"
 slug: "nahum"
 religion: "christianity"
-aliases: ["Nachum", "나훔"]
+aliases: ["Nachum", "나훔", "那鸿书", "ナホム書", "נחום", "ناحوم", "Ναούμ", "Nahum", "Наум", "Nahúm"]
 totalChapters: 3
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["Nineveh's fall", "divine vengeance", "justice", "comfort for Judah"]

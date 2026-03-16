@@ -2,7 +2,7 @@
 title: "Book of Two Principles"
 slug: "book-of-two-principles"
 religion: "catharism"
-aliases: ["두 원리의 서", "Liber de Duobus Principiis"]
+aliases: ["두 원리의 서", "Liber de Duobus Principiis", "二原理之书", "二原理の書", "ספר שני העקרונות", "كتاب المبدأين", "Buch der zwei Prinzipien", "Livre des Deux Principes", "Libro de los Dos Principios", "Книга о двух началах"]
 totalChapters: 7
 traditions: ["cathar", "academic", "comparative", "catholic", "gnostic", "interfaith"]
 tags: ["dualism", "good", "evil", "John of Lugio", "medieval heresy"]

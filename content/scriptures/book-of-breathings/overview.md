@@ -2,7 +2,7 @@
 title: "Book of Breathings"
 slug: "book-of-breathings"
 religion: "ancient-egyptian"
-aliases: ["호흡의 서", "Book of Breathings", "Document of Breathing"]
+aliases: ["호흡의 서", "Book of Breathings", "Document of Breathing", "呼吸之书", "息の書", "كتاب التنفس", "Buch des Atmens", "Livre des Respirations", "Libro de las Respiraciones", "Книга Дыханий", "Sensen Papyrus"]
 totalChapters: 4
 traditions: ["indigenous", "academic", "comparative", "theological", "archaeological", "interfaith"]
 tags: ["afterlife", "Osiris", "breath", "Ptolemaic", "funerary"]

@@ -2,7 +2,7 @@
 title: "Skanda Purana"
 slug: "skanda-purana"
 religion: "hinduism"
-aliases: ['스칸다 푸라나', 'Skanda Purāṇa']
+aliases: ["스칸다 푸라나", "Skanda Purāṇa", "स्कन्द पुराण", "塞犍陀往世书", "スカンダ・プラーナ", "Сканда-пурана", "Skanda Purana"]
 totalChapters: 7
 traditions: ['vaishnavism', 'shaivism', 'advaita', 'dvaita', 'academic', 'comparative']
 tags: ['Skanda', 'Kartikeya', 'pilgrimage', 'largest Purana']

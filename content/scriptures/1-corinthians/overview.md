@@ -2,7 +2,7 @@
 title: "1 Corinthians"
 slug: "1-corinthians"
 religion: "christianity"
-aliases: ["Pros Korinthious A", "고린도전서"]
+aliases: ["Pros Korinthious A", "고린도전서", "哥林多前书", "コリントの信徒への手紙一", "הראשונה אל הקורינתים", "رسالة كورنثوس الأولى", "1. Korinther", "1 Corinthiens", "1 Corintios", "1-е Коринфянам", "Α΄ Κορινθίους", "Epistula I ad Corinthios", "First Corinthians"]
 totalChapters: 16
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["church unity", "spiritual gifts", "love", "resurrection", "Lord's Supper", "wisdom"]

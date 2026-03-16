@@ -2,7 +2,7 @@
 title: "Hypostasis of the Archons"
 slug: "hypostasis-of-archons"
 religion: "christianity"
-aliases: ["Reality of the Rulers", "아르콘의 실체"]
+aliases: ["Reality of the Rulers", "아르콘의 실체", "ⲑⲩⲡⲟⲥⲧⲁⲥⲓⲥ ⲛⲛⲁⲣⲭⲱⲛ", "执政者的本质", "アルコーンの本質", "Ипостась архонтов", "L'Hypostase des Archontes", "Die Hypostase der Archonten", "La Hipóstasis de los Arcontes"]
 totalChapters: 3
 traditions: ["gnosticism", "protestantism", "catholicism", "eastern-orthodox", "judaism", "academic"]
 tags: ["archons", "Samael", "Norea", "Sophia", "Genesis reread", "Nag Hammadi"]

@@ -2,7 +2,7 @@
 title: "Heart Sutra"
 slug: "heart-sutra"
 religion: "buddhism"
-aliases: ["Prajnaparamita Hridaya", "반야심경"]
+aliases: ["Prajnaparamita Hridaya", "반야심경", "般若心経", "般若波罗蜜多心经", "प्रज्ञापारमिताहृदय", "ปรัชญาปารมิตาหฤทัย", "Сутра сердца", "Le Sutra du Cœur", "Herz-Sutra", "Sutra del Corazón", "shes rab snying po", "Heart of the Perfection of Wisdom"]
 totalChapters: 1
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["emptiness", "sunyata", "prajna", "form is emptiness", "bodhisattva", "Avalokiteshvara"]

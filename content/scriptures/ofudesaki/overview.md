@@ -2,7 +2,7 @@
 title: "Ofudesaki"
 slug: "ofudesaki"
 religion: "tenrikyo"
-aliases: ["Tip of the Writing Brush", "오후데사키"]
+aliases: ["Tip of the Writing Brush", "오후데사키", "おふでさき", "御笔先", "天笔", "Офудэсаки", "Pointe du pinceau", "Punta del pincel"]
 totalChapters: 17
 traditions: ["tenrikyo", "academic", "comparative", "shinto", "buddhist-japanese", "interfaith"]
 tags: ["Oyagami", "divine will", "salvation", "joyous life", "Nakayama Miki"]

@@ -2,7 +2,7 @@
 title: "Dreamtime Stories"
 slug: "dreamtime-stories"
 religion: "aboriginal-australian"
-aliases: ["드림타임", "The Dreaming", "Tjukurpa"]
+aliases: ["드림타임", "The Dreaming", "Tjukurpa", "梦幻时代故事", "ドリームタイム物語", "Истории Времени сновидений", "Récits du Temps du Rêve", "Historias del Tiempo del Sueño", "Traumzeit-Geschichten", "Dreamtime Stories", "Jukurrpa"]
 totalChapters: 10
 traditions: ["indigenous", "academic", "comparative", "theological", "anthropological", "interfaith"]
 tags: ["Dreaming", "songlines", "ancestors", "land", "creation"]

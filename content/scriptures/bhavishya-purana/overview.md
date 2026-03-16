@@ -2,7 +2,7 @@
 title: "Bhavishya Purana"
 slug: "bhavishya-purana"
 religion: "hinduism"
-aliases: ['바비샤 푸라나', 'Bhaviṣya Purāṇa']
+aliases: ["바비샤 푸라나", "Bhaviṣya Purāṇa", "未来往世书", "バヴィシュヤ・プラーナ", "भविष्यपुराण", "بھوشیہ پوران", "Bhavishya Purana", "Bhavishya Purâna", "Bhavishya Purana", "Бхавишья-пурана"]
 totalChapters: 5
 traditions: ['vaishnavism', 'shaivism', 'advaita', 'dvaita', 'academic', 'comparative']
 tags: ['prophecy', 'future', 'sun worship', 'festivals']

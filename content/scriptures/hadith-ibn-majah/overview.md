@@ -2,7 +2,7 @@
 title: "Sunan Ibn Majah"
 slug: "hadith-ibn-majah"
 religion: "islam"
-aliases: ["Sunan Ibn Mājah", "이븐 마자 하디스"]
+aliases: ["Sunan Ibn Mājah", "이븐 마자 하디스", "سنن ابن ماجه", "伊本·马哲圣训集", "スナン・イブン・マージャ", "Сунан Ибн Маджа", "Sunan Ibn Majah", "Sunan d'Ibn Majah", "Sunan Ibn Madscha", "Sunan de Ibn Mayah"]
 totalChapters: 5
 traditions: ["sunni", "shia", "sufi", "salafi", "academic", "comparative"]
 tags: ["hadith", "sunnah", "introduction", "fiqh", "zuhd"]

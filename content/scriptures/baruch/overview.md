@@ -2,7 +2,7 @@
 title: "Baruch"
 slug: "baruch"
 religion: "christianity"
-aliases: ["Barukh", "바룩"]
+aliases: ["Barukh", "바룩", "巴录书", "バルク書", "ברוך", "سفر باروخ", "Baruch", "Baruch", "Baruc", "Варух", "Βαρούχ", "Liber Baruch"]
 totalChapters: 6
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["exile", "repentance", "wisdom", "consolation", "letter of Jeremiah", "idolatry"]

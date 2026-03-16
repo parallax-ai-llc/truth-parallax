@@ -2,7 +2,7 @@
 title: "Avatamsaka Sutra"
 slug: "avatamsaka-sutra"
 religion: "buddhism"
-aliases: ["Flower Garland Sutra", "화엄경"]
+aliases: ["Flower Garland Sutra", "화엄경", "华严经", "華厳経", "อวตังสกสูตร", "མདོ་ཕལ་པོ་ཆེ", "अवतंसक सूत्र", "Avatamsaka Sūtra", "Soutra de la Guirlande de Fleurs", "Sutra de la Guirnalda Florida", "Аватамсака-сутра", "Blumengirlanden-Sutra", "Buddhāvataṃsaka-mahāvaipulya-sūtra"]
 totalChapters: 5
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["interpenetration", "Indra's net", "dharmadhatu", "Sudhana's journey", "Buddha-realm", "totality"]

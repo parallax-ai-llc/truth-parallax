@@ -2,7 +2,7 @@
 title: "Huainanzi"
 slug: "huainanzi"
 religion: "taoism"
-aliases: ["\ud68c\ub0a8\uc790", "\u6dee\u5357\u5b50", "Huainanzi"]
+aliases: ["회남자", "淮南子", "Huainanzi", "えなんじ", "Хуайнань-цзы", "Le Huainanzi", "Huainanzi - Die Meister von Huainan", "Huainanzi - Los Maestros de Huainan"]
 totalChapters: 21
 traditions: ["philosophical", "religious", "academic", "confucian", "comparative", "zen"]
 tags: ["Liu An", "cosmology", "governance", "Han dynasty", "syncretism"]

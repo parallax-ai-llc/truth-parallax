@@ -2,7 +2,7 @@
 title: "Dianetics"
 slug: "dianetics"
 religion: "scientology"
-aliases: ["다이어네틱스", "Dianetics"]
+aliases: ["다이어네틱스", "Dianetics", "戴尼提", "ダイアネティックス", "Дианетика", "La Dianétique", "Dianética", "Dianetik", "Dianetics: The Modern Science of Mental Health"]
 totalChapters: 10
 traditions: ["scientology", "academic", "comparative", "psychological", "philosophical", "interfaith"]
 tags: ["L. Ron Hubbard", "engrams", "reactive mind", "Clear", "auditing"]

@@ -2,7 +2,7 @@
 title: "Three Steles of Seth"
 slug: "three-steles-of-seth"
 religion: "gnosticism"
-aliases: ["세트의 세 비석", "Three Steles of Seth"]
+aliases: ["세트의 세 비석", "Three Steles of Seth", "塞特三碑", "セトの三つの石碑", "Три стелы Сифа", "Les Trois Stèles de Seth", "Die drei Stelen des Seth", "Las Tres Estelas de Set"]
 totalChapters: 3
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Seth", "prayer", "ascent", "Sethian", "doxology"]

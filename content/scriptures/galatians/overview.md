@@ -2,7 +2,7 @@
 title: "Galatians"
 slug: "galatians"
 religion: "christianity"
-aliases: ["Pros Galatas", "갈라디아서"]
+aliases: ["Pros Galatas", "갈라디아서", "加拉太书", "ガラテヤの信徒への手紙", "אגרת אל הגלטים", "Πρὸς Γαλάτας", "Epistula ad Galatas", "Послание к Галатам", "Épître aux Galates", "Carta a los Gálatas", "Galaterbrief"]
 totalChapters: 6
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["freedom", "justification by faith", "law and gospel", "fruit of the Spirit", "new creation"]

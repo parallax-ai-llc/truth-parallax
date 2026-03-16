@@ -2,7 +2,7 @@
 title: "1 John"
 slug: "1-john"
 religion: "christianity"
-aliases: ["Ioannou A", "요한1서"]
+aliases: ["Ioannou A", "요한1서", "约翰一书", "ヨハネの手紙一", "הראשונה של יוחנן", "رسالة يوحنا الأولى", "1. Johannes", "1 Jean", "1 Juan", "1-е Иоанна", "Α΄ Ιωάννου", "Epistula I Ioannis", "First John"]
 totalChapters: 5
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["love", "light", "truth", "fellowship", "assurance", "antichrist"]

@@ -2,7 +2,7 @@
 title: "Zohar"
 slug: "zohar"
 religion: "judaism"
-aliases: ["조하르", "ספר הזוהר", "Book of Splendor"]
+aliases: ["조하르", "ספר הזוהר", "Book of Splendor", "Zohar", "光辉之书", "ゾーハル", "Зоар", "Le Zohar", "Der Sohar", "El Zohar", "Sefer ha-Zohar"]
 totalChapters: 23
 traditions: ["orthodox-judaism", "reform-judaism", "conservative-judaism", "academic", "comparative", "kabbalistic"]
 tags: ["kabbalah", "mysticism", "Sefirot", "Torah commentary", "Ein Sof"]

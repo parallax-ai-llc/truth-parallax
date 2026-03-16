@@ -2,7 +2,7 @@
 title: "Testaments of the Twelve Patriarchs"
 slug: "testaments-of-twelve-patriarchs"
 religion: "christianity"
-aliases: ["열두 족장의 유언", "Testaments of the Twelve Patriarchs"]
+aliases: ["열두 족장의 유언", "Testaments of the Twelve Patriarchs", "Διαθῆκαι τῶν Δώδεκα Πατριαρχῶν", "צוואות שנים עשר השבטים", "十二族长遗训", "十二族長の遺訓", "Заветы двенадцати патриархов", "Testaments des douze patriarches", "Testamente der zwölf Patriarchen", "Testamentos de los Doce Patriarcas"]
 totalChapters: 12
 traditions: ["academic", "comparative", "protestant", "catholic", "eastern-orthodox", "interfaith"]
 tags: ["patriarchs", "ethics", "Two Spirits", "eschatology", "virtues"]

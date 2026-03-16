@@ -2,7 +2,7 @@
 title: "Emerald Tablet"
 slug: "emerald-tablet"
 religion: "hermeticism"
-aliases: ["에메랄드 태블릿", "Tabula Smaragdina", "Emerald Tablet"]
+aliases: ["에메랄드 태블릿", "Tabula Smaragdina", "Emerald Tablet", "翡翠石板", "エメラルド・タブレット", "لوح زمردین", "Изумрудная скрижаль", "La Table d'émeraude", "La Tabla esmeralda", "Die Smaragdtafel"]
 totalChapters: 1
 traditions: ["hermetic", "academic", "comparative", "philosophical", "alchemical", "interfaith"]
 tags: ["Hermes Trismegistus", "alchemy", "as above so below", "transmutation"]

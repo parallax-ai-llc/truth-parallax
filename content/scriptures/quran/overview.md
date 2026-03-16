@@ -2,7 +2,7 @@
 title: "Quran"
 slug: "quran"
 religion: "islam"
-aliases: ["Al-Quran", "꾸란", "Koran"]
+aliases: ["Al-Quran", "꾸란", "Koran", "القرآن", "古兰经", "コーラン", "Коран", "Le Coran", "Der Koran", "El Corán", "הקוראן"]
 totalChapters: 114
 traditions: ["sunni", "shia", "sufi", "academic", "comparative", "salafi"]
 tags: ["revelation", "tawhid", "prophets", "guidance", "mercy", "judgment", "paradise"]

@@ -2,7 +2,7 @@
 title: "Marsanes"
 slug: "marsanes"
 religion: "gnosticism"
-aliases: ["마르사네스", "Marsanes"]
+aliases: ["마르사네스", "Marsanes", "马尔萨内斯", "マルサネス", "Марсан", "Marsanès"]
 totalChapters: 4
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Marsanes", "seal", "vowels", "Sethian-Platonist"]

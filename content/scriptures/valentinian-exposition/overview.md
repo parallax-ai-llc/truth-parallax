@@ -2,7 +2,7 @@
 title: "Valentinian Exposition"
 slug: "valentinian-exposition"
 religion: "gnosticism"
-aliases: ["발렌티누스 해설", "Valentinian Exposition"]
+aliases: ["발렌티누스 해설", "Valentinian Exposition", "瓦伦提诺解说", "ウァレンティノス派の解説", "Валентинианское изложение", "L'Exposé valentinien", "Die valentinianische Abhandlung", "Exposición valentiniana"]
 totalChapters: 5
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Valentinian", "pleroma", "sacraments", "anointing"]

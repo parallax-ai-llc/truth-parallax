@@ -2,7 +2,7 @@
 title: "Sthananga Sutra"
 slug: "sthananga-sutra"
 religion: "jainism"
-aliases: ["스타낭가 수트라", "Sthānāṅga Sūtra"]
+aliases: ["스타낭가 수트라", "Sthānāṅga Sūtra", "स्थानांग सूत्र", "处昂伽经", "スターナーンガ・スートラ", "Стхананга-сутра", "Sthananga Sutra"]
 totalChapters: 10
 traditions: ["digambara", "shvetambara", "academic", "comparative", "philosophical", "interfaith"]
 tags: ["enumeration", "categories", "doctrine", "classification"]

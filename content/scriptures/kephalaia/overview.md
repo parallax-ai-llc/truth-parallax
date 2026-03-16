@@ -2,7 +2,7 @@
 title: "Kephalaia"
 slug: "kephalaia"
 religion: "manichaeism"
-aliases: ["케팔라이아", "Chapters", "Kephalaia"]
+aliases: ["케팔라이아", "Chapters", "Kephalaia", "Κεφάλαια", "摩尼教章节", "ケファライア", "Кефалайя", "Les Képhalaia", "Die Kephalaia", "Los Kephalaia"]
 totalChapters: 15
 traditions: ["manichaean", "academic", "comparative", "gnostic", "christian", "interfaith"]
 tags: ["Mani", "teachings", "disciples", "cosmology"]

@@ -2,7 +2,7 @@
 title: "Yasna"
 slug: "yasna"
 religion: "zoroastrianism"
-aliases: ["야스나", "Yasna"]
+aliases: ["야스나", "Yasna", "یسنا", "祭祀书", "ヤスナ", "Ясна"]
 totalChapters: 72
 traditions: ["zoroastrian", "academic", "comparative", "protestant", "jewish", "islamic"]
 tags: ["liturgy", "Ahura Mazda", "fire", "ritual"]

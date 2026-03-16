@@ -2,7 +2,7 @@
 title: "Gospel of the Egyptians"
 slug: "gospel-of-the-egyptians-gnostic"
 religion: "gnosticism"
-aliases: ["이집트인의 복음서", "Holy Book of the Great Invisible Spirit"]
+aliases: ["이집트인의 복음서", "Holy Book of the Great Invisible Spirit", "埃及人福音", "エジプト人の福音書", "Евангелие египтян", "Évangile des Égyptiens", "Evangelio de los Egipcios", "Ägypterevangelium", "Gospel of the Egyptians"]
 totalChapters: 4
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Seth", "Great Invisible Spirit", "baptism"]

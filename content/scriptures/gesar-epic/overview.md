@@ -2,7 +2,7 @@
 title: "Epic of King Gesar"
 slug: "gesar-epic"
 religion: "tibetan"
-aliases: ["\uac8c\uc0ac\ub974 \uc11c\uc0ac\uc2dc", "Epic of King Gesar", "\u683c\u85a9\u723e\u738b\u50b3"]
+aliases: ["게사르 서사시", "Epic of King Gesar", "格薩爾王傳", "格萨尔王传", "ゲサル王伝", "གེ་སར་རྒྱལ་པོའི་སྒྲུང", "Эпос о Гэсэре", "L'Épopée du Roi Gesar", "La Epopeya del Rey Gesar", "Gesar-Epos"]
 totalChapters: 12
 traditions: ["tibetan", "academic", "comparative", "zen", "mahayana", "interfaith"]
 tags: ["King Gesar", "hero", "Buddhism", "epic", "Central Asian"]

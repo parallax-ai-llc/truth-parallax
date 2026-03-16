@@ -2,7 +2,7 @@
 title: "Maitri Upanishad"
 slug: "maitri-upanishad"
 religion: "hinduism"
-aliases: ["\ub9c8\uc774\ud2b8\ub9ac \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Maitrayaniya Upanishad"]
+aliases: ["마이트리 우파니샤드", "Maitrayaniya Upanishad", "मैत्री उपनिषद्", "मैत्रायणीय उपनिषद्", "弥勒奥义书", "マイトリー・ウパニシャッド", "Майтри Упанишада", "Maitri Upanishad", "Maitri-Upanishad"]
 totalChapters: 7
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["meditation", "Atman", "Brahman", "yoga"]

@@ -2,7 +2,7 @@
 title: "Mundaka Upanishad"
 slug: "mundaka-upanishad"
 religion: "hinduism"
-aliases: ["문다카 우파니샤드"]
+aliases: ["문다카 우파니샤드", "Mundaka Upanishad", "मुण्डकोपनिषद्", "剃头奥义书", "ムンダカ・ウパニシャッド", "Мундака Упанишад", "Mundaka Upanischad", "Muṇḍaka Upaniṣad"]
 totalChapters: 3
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["higher knowledge", "lower knowledge", "Brahman", "two birds", "liberation"]

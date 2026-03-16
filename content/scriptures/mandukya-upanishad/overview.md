@@ -2,7 +2,7 @@
 title: "Mandukya Upanishad"
 slug: "mandukya-upanishad"
 religion: "hinduism"
-aliases: ["만두캬 우파니샤드"]
+aliases: ["만두캬 우파니샤드", "Mandukya Upanishad", "माण्डूक्योपनिषद्", "蛙氏奥义书", "マーンドゥーキヤ・ウパニシャッド", "Мандукья Упанишад", "Mandukya Upanischad", "Māṇḍūkya Upaniṣad"]
 totalChapters: 1
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["AUM", "consciousness", "four states", "turiya", "Brahman"]

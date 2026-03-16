@@ -2,7 +2,7 @@
 title: "Florentine Codex"
 slug: "florentine-codex"
 religion: "aztec"
-aliases: ["플로렌스 코덱스", "Florentine Codex", "Historia General"]
+aliases: ["플로렌스 코덱스", "Florentine Codex", "Historia General", "佛罗伦萨手抄本", "フィレンツェ絵文書", "Флорентийский кодекс", "Codex de Florence", "Códice Florentino", "Florentiner Codex", "Historia General de las Cosas de Nueva España"]
 totalChapters: 12
 traditions: ["indigenous", "academic", "comparative", "theological", "archaeological", "interfaith"]
 tags: ["Sahagún", "Nahua", "gods", "rituals", "philosophy", "ethnography"]

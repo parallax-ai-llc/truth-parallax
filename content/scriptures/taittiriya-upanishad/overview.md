@@ -2,7 +2,7 @@
 title: "Taittiriya Upanishad"
 slug: "taittiriya-upanishad"
 religion: "hinduism"
-aliases: ["타이티리야 우파니샤드"]
+aliases: ["타이티리야 우파니샤드", "तैत्तिरीय उपनिषद्", "鹧鸪氏奥义书", "タイッティリーヤ・ウパニシャッド", "Taittirīya Upaniṣad", "Тайттирия-упанишада", "Taittiriya Upanishad"]
 totalChapters: 3
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["five sheaths", "ananda", "Brahman", "education", "Bhrigu"]

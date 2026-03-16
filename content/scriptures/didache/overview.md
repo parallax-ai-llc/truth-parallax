@@ -2,7 +2,7 @@
 title: "Didache"
 slug: "didache"
 religion: "christianity"
-aliases: ["디다케","Didache","Teaching of the Twelve"]
+aliases: ["디다케", "Didache", "Teaching of the Twelve", "十二使徒遗训", "ディダケー", "Διδαχή", "Doctrina Duodecim Apostolorum", "Дидахе", "La Didachè", "La Didajé", "Die Didache", "Teaching of the Twelve Apostles"]
 totalChapters: 16
 traditions: ["academic","comparative","protestant","catholic","eastern-orthodox","interfaith"]
 tags: ["Two Ways","baptism","eucharist","early church","apostolic"]

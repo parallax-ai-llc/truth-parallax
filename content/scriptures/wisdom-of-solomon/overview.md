@@ -2,7 +2,7 @@
 title: "Wisdom of Solomon"
 slug: "wisdom-of-solomon"
 religion: "christianity"
-aliases: ["Sophia Salomonos", "지혜서"]
+aliases: ["Sophia Salomonos", "지혜서", "Σοφία Σαλωμῶνος", "חכמת שלמה", "所罗门智训", "ソロモンの知恵", "Liber Sapientiae", "Книга Премудрости Соломона", "La Sagesse de Salomon", "Weisheit Salomos", "Sabiduría de Salomón", "Wisdom of Solomon"]
 totalChapters: 19
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["wisdom", "immortality", "righteousness", "idolatry", "salvation history", "divine providence"]

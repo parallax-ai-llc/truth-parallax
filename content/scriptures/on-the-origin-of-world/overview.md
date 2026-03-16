@@ -2,7 +2,7 @@
 title: "On the Origin of the World"
 slug: "on-the-origin-of-world"
 religion: "christianity"
-aliases: ["De Origine Mundi", "세계의 기원"]
+aliases: ["De Origine Mundi", "세계의 기원", "论世界的起源", "世界の起源について", "О происхождении мира", "Vom Ursprung der Welt", "De l'origine du monde", "Sobre el origen del mundo", "On the Origin of the World"]
 totalChapters: 4
 traditions: ["gnosticism", "protestantism", "catholicism", "eastern-orthodox", "judaism", "academic"]
 tags: ["cosmogony", "chaos", "Pistis Sophia", "archons", "paradise", "Nag Hammadi"]

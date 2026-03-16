@@ -2,7 +2,7 @@
 title: "Subala Upanishad"
 slug: "subala-upanishad"
 religion: "hinduism"
-aliases: ["\uc218\ubc1c\ub77c \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Subalopanishad"]
+aliases: ["수발라 우파니샤드", "Subalopanishad", "सुबाल उपनिषद्", "苏巴拉奥义书", "スバーラ・ウパニシャッド", "Субала-упанишада", "Subāla Upaniṣad", "Subala Upanishad"]
 totalChapters: 4
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["creation", "dissolution", "elements", "Brahman"]

@@ -2,7 +2,7 @@
 title: "Thunder, Perfect Mind"
 slug: "thunder-perfect-mind"
 religion: "christianity"
-aliases: ["Bronte", "완전한 마음의 천둥"]
+aliases: ["Bronte", "완전한 마음의 천둥", "Thunder, Perfect Mind", "雷霆，完美心智", "雷鳴、完全なる心", "Гром, Совершенный Ум", "Le Tonnerre, Intellect parfait", "Donner, der vollkommene Verstand", "Trueno, Mente Perfecta", "ⲧⲉⲃⲣⲟⲛⲧⲏ ⲛⲟⲩⲥ ⲛⲧⲉⲗⲉⲓⲟⲥ"]
 totalChapters: 1
 traditions: ["gnosticism", "protestantism", "catholicism", "eastern-orthodox", "judaism", "academic"]
 tags: ["feminine divine", "paradox", "revelation discourse", "Sophia", "Nag Hammadi"]

@@ -2,7 +2,7 @@
 title: "Atma Upanishad"
 slug: "atma-upanishad"
 religion: "hinduism"
-aliases: ["\uc544\ud2b8\ub9c8 \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Atmopanishad"]
+aliases: ["아트마 우파니샤드", "Atmopanishad", "真我奥义书", "アートマ・ウパニシャッド", "आत्मोपनिषद्", "Ātma Upaniṣad", "Atma Upanischad", "Upanishad du Soi", "Атма-упанишада"]
 totalChapters: 3
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["Atman", "three states", "consciousness"]

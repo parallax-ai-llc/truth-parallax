@@ -2,7 +2,7 @@
 title: "Judges"
 slug: "judges"
 religion: "christianity"
-aliases: ["Shoftim", "사사기"]
+aliases: ["Shoftim", "사사기", "שׁוֹפְטִים", "القضاة", "士师记", "士師記", "Κριταί", "Iudicum", "Книга Судей", "Juges", "Richter", "Jueces"]
 totalChapters: 21
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["cycles", "apostasy", "deliverance", "judges", "moral decline", "tribal period"]

@@ -2,7 +2,7 @@
 title: "Brihadaranyaka Upanishad"
 slug: "brihadaranyaka-upanishad"
 religion: "hinduism"
-aliases: ["브리하다란야카 우파니샤드"]
+aliases: ["브리하다란야카 우파니샤드", "广林奥义书", "ブリハッドアーラニヤカ・ウパニシャッド", "बृहदारण्यकोपनिषद्", "Bṛhadāraṇyaka Upaniṣad", "Brihadaranyaka Upanischad", "Upanishad de la Grande Forêt", "Upanishad del Gran Bosque", "Брихадараньяка-упанишада", "Great Forest Upanishad"]
 totalChapters: 6
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["Brahman", "atman", "Yajnavalkya", "neti neti", "self-knowledge", "death"]

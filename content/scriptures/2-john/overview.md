@@ -2,7 +2,7 @@
 title: "2 John"
 slug: "2-john"
 religion: "christianity"
-aliases: ["Ioannou B", "요한2서"]
+aliases: ["Ioannou B", "요한2서", "约翰二书", "ヨハネの手紙二", "השנייה של יוחנן", "رسالة يوحنا الثانية", "2. Johannes", "2 Jean", "2 Juan", "2-е Иоанна", "Β΄ Ιωάννου", "Epistula II Ioannis", "Second John"]
 totalChapters: 1
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["truth", "love", "false teachers", "hospitality"]

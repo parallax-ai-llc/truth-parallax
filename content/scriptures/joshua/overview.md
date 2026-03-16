@@ -2,7 +2,7 @@
 title: "Joshua"
 slug: "joshua"
 religion: "christianity"
-aliases: ["Yehoshua", "여호수아"]
+aliases: ["Yehoshua", "여호수아", "יְהוֹשֻׁעַ", "يشوع", "约书亚记", "ヨシュア記", "Ἰησοῦς", "Iosue", "Книга Иисуса Навина", "Josué", "Josua"]
 totalChapters: 24
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["conquest", "promised land", "covenant", "faithfulness", "holy war", "inheritance"]

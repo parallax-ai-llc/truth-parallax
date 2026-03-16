@@ -2,7 +2,7 @@
 title: "Pearl of Great Price"
 slug: "pearl-of-great-price"
 religion: "mormonism"
-aliases: ["\uac12\uc9c4 \uc9c4\uc8fc", "Pearl of Great Price"]
+aliases: ["값진 진주", "Pearl of Great Price", "无价珍珠", "高価な真珠", "Жемчужина великой цены", "Köstliche Perle", "Perle de Grand Prix", "Perla de Gran Precio"]
 totalChapters: 5
 traditions: ["lds", "community-of-christ", "academic", "protestant", "comparative", "historical-critical"]
 tags: ["Abraham", "Moses", "Joseph Smith History", "Articles of Faith"]

@@ -2,7 +2,7 @@
 title: "Navajo Creation Story"
 slug: "navajo-creation-story"
 religion: "native-american"
-aliases: ["나바호 창조 이야기", "Diné Bahaneʼ"]
+aliases: ["나바호 창조 이야기", "Diné Bahaneʼ", "纳瓦霍创世故事", "ナバホ創世物語", "Навахо миф о сотворении", "Navajo-Schöpfungsgeschichte", "Mythe de création navajo", "Historia de la creación navajo"]
 totalChapters: 5
 traditions: ["indigenous", "academic", "comparative", "theological", "anthropological", "interfaith"]
 tags: ["emergence", "First Man", "First Woman", "Changing Woman", "Diné"]

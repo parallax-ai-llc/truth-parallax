@@ -2,7 +2,7 @@
 title: "Shiva Purana"
 slug: "shiva-purana"
 religion: "hinduism"
-aliases: ["시바 푸라나", "Sivapuranam"]
+aliases: ["시바 푸라나", "Sivapuranam", "शिव पुराण", "湿婆往世书", "シヴァ・プラーナ", "Шива-пурана", "Śiva Purāṇa", "Shiva Purana"]
 totalChapters: 7
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["Shiva", "linga", "devotion", "asceticism"]

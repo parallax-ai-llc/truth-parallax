@@ -2,7 +2,7 @@
 title: "Samavayanga Sutra"
 slug: "samavayanga-sutra"
 religion: "jainism"
-aliases: ["사마바양가 수트라", "Samavāyāṅga Sūtra"]
+aliases: ["사마바양가 수트라", "Samavāyāṅga Sūtra", "समवायांग सूत्र", "三摩耶昂伽经", "サマヴァーヤーンガ・スートラ", "Samavayanga Soutra", "Samavayanga-Sutra", "Самаваянга-сутра", "Samavayanga Sutra"]
 totalChapters: 8
 traditions: ["digambara", "shvetambara", "academic", "comparative", "philosophical", "interfaith"]
 tags: ["numerical classifications", "doctrine", "cosmology"]

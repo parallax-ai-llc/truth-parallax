@@ -2,7 +2,7 @@
 title: "Ihya Ulum al-Din"
 slug: "ihya-ulum-al-din"
 religion: "islam"
-aliases: ["종교학의 부흥", "Iḥyāʾ ʿUlūm al-Dīn", "Revival of Religious Sciences"]
+aliases: ["종교학의 부흥", "Iḥyāʾ ʿUlūm al-Dīn", "Revival of Religious Sciences", "إحياء علوم الدين", "圣学复苏", "イフヤー・ウルーム・アッ＝ディーン", "Возрождение религиозных наук", "Revivification des sciences religieuses", "Die Wiederbelebung der Religionswissenschaften", "La Revivificación de las Ciencias Religiosas"]
 totalChapters: 40
 traditions: ["sufi", "sunni", "shia", "academic", "comparative", "interfaith"]
 tags: ["Ghazali", "revival", "worship", "ethics", "spirituality"]

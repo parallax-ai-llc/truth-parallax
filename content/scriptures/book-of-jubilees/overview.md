@@ -2,7 +2,7 @@
 title: "Book of Jubilees"
 slug: "book-of-jubilees"
 religion: "christianity"
-aliases: ["Little Genesis", "희년서"]
+aliases: ["Little Genesis", "희년서", "禧年书", "ヨベル書", "ספר היובלים", "كتاب اليوبيلات", "Jubiläenbuch", "Livre des Jubilés", "Libro de los Jubileos", "Книга Юбилеев", "Liber Jubilaeorum", "መጽሐፈ ኩፋሌ"]
 totalChapters: 50
 traditions: ["ethiopian-orthodox", "protestantism", "catholicism", "judaism", "academic", "essene"]
 tags: ["calendar", "covenant", "angels", "patriarchs", "sabbath", "jubilee cycles"]

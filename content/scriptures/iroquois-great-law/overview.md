@@ -2,7 +2,7 @@
 title: "Iroquois Great Law"
 slug: "iroquois-great-law"
 religion: "native-american"
-aliases: ["이로쿼이 대법", "Great Law of Peace", "Gayanashagowa"]
+aliases: ["이로쿼이 대법", "Great Law of Peace", "Gayanashagowa", "易洛魁大和平法", "イロコイ大いなる平和の法", "Великий закон мира", "Grande Loi de la Paix", "Großes Gesetz des Friedens", "Gran Ley de la Paz", "Kaianerekowa"]
 totalChapters: 12
 traditions: ["indigenous", "academic", "comparative", "theological", "anthropological", "interfaith"]
 tags: ["Haudenosaunee", "peace", "democracy", "confederacy", "Deganawida"]

@@ -2,7 +2,7 @@
 title: "Mozi"
 slug: "mozi"
 religion: "chinese-philosophy"
-aliases: ["묵자", "墨子", "Mozi"]
+aliases: ["묵자", "墨子", "Mozi", "墨子", "ぼくし", "Мо-цзы", "Maître Mo", "Meister Mo", "Maestro Mo"]
 totalChapters: 15
 traditions: ["confucian", "neo-confucian", "daoist", "buddhist-chinese", "academic", "comparative"]
 tags: ["Mozi", "universal love", "consequentialism", "anti-war", "heaven"]

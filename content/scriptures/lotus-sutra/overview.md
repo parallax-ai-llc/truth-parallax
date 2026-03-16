@@ -2,7 +2,7 @@
 title: "Lotus Sutra"
 slug: "lotus-sutra"
 religion: "buddhism"
-aliases: ["Saddharma Pundarika", "법화경"]
+aliases: ["Saddharma Pundarika", "법화경", "妙法蓮華經", "法華経", "सद्धर्मपुण्डरीकसूत्र", "สัทธรรมปุณฑรีกสูตร", "Сутра Лотоса", "Le Sutra du Lotus", "Lotus-Sutra", "Sutra del Loto", "dam chos pad ma dkar po"]
 totalChapters: 28
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["one vehicle", "skillful means", "Buddha nature", "eternal Buddha", "bodhisattva", "parables"]

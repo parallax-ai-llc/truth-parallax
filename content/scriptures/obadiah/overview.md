@@ -2,7 +2,7 @@
 title: "Obadiah"
 slug: "obadiah"
 religion: "christianity"
-aliases: ["Ovadyah", "오바댜"]
+aliases: ["Ovadyah", "오바댜", "俄巴底亚书", "オバデヤ書", "עובדיה", "عوبديا", "Ὀβδιού", "Abdias", "Obadja", "Abdias", "Abdías", "Авдий", "Book of Obadiah"]
 totalChapters: 1
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["Edom", "judgment", "pride", "divine justice", "kingdom of God"]

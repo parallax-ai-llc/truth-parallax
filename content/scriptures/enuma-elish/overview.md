@@ -2,7 +2,7 @@
 title: "Enuma Elish"
 slug: "enuma-elish"
 religion: "ancient-mesopotamian"
-aliases: ["에누마 엘리시", "Enūma Eliš"]
+aliases: ["에누마 엘리시", "Enūma Eliš", "创世史诗", "エヌマ・エリシュ", "Энума Элиш", "L'Enuma Elish", "Enuma Elish", "Babylonisches Weltschöpfungsepos", "When on High", "إنوما إليش"]
 totalChapters: 7
 traditions: ["academic", "comparative", "theological", "literary", "archaeological", "interfaith"]
 tags: ["creation", "Marduk", "Tiamat", "cosmogony", "kingship"]

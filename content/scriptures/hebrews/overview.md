@@ -2,7 +2,7 @@
 title: "Hebrews"
 slug: "hebrews"
 religion: "christianity"
-aliases: ["Pros Hebraious", "히브리서"]
+aliases: ["Pros Hebraious", "히브리서", "Πρὸς Ἑβραίους", "עברים", "الرسالة إلى العبرانيين", "希伯来书", "ヘブライ人への手紙", "Ad Hebraeos", "Послание к Евреям", "Épître aux Hébreux", "Hebräerbrief", "Epístola a los Hebreos"]
 totalChapters: 13
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["high priest", "new covenant", "faith", "superiority of Christ", "sacrifice", "rest"]

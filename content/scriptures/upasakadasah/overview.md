@@ -2,7 +2,7 @@
 title: "Upasakadasah"
 slug: "upasakadasah"
 religion: "jainism"
-aliases: ["우파사카다사", "Upāsakadaśāḥ"]
+aliases: ["우파사카다사", "Upāsakadaśāḥ", "उपासकदशाः", "优婆塞十经", "ウパーサカダシャー", "Упасакадасах", "Upasakadasah"]
 totalChapters: 10
 traditions: ["digambara", "shvetambara", "academic", "comparative", "philosophical", "interfaith"]
 tags: ["laypersons", "vows", "householder dharma"]

@@ -2,7 +2,7 @@
 title: "Gospel of Truth"
 slug: "gospel-of-truth"
 religion: "christianity"
-aliases: ["Evangelium Veritatis", "진리의 복음"]
+aliases: ["Evangelium Veritatis", "진리의 복음", "真理福音", "真理の福音書", "Евангелие Истины", "Évangile de Vérité", "Evangelio de la Verdad", "Evangelium der Wahrheit", "Gospel of Truth"]
 totalChapters: 4
 traditions: ["gnosticism", "protestantism", "catholicism", "eastern-orthodox", "judaism", "academic"]
 tags: ["Valentinian", "error", "Father", "Word", "knowledge", "pleroma", "Nag Hammadi"]

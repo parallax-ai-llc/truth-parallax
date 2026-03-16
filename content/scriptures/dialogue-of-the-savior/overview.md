@@ -2,7 +2,7 @@
 title: "Dialogue of the Savior"
 slug: "dialogue-of-the-savior"
 religion: "gnosticism"
-aliases: ["구세주의 대화", "Dialogue of the Savior"]
+aliases: ["구세주의 대화", "Dialogue of the Savior", "救世主的对话", "救い主との対話", "Диалог Спасителя", "Dialogue du Sauveur", "Diálogo del Salvador", "Dialog des Erlösers"]
 totalChapters: 4
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["dialogue", "salvation", "knowledge"]

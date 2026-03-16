@@ -2,7 +2,7 @@
 title: "Linga Purana"
 slug: "linga-purana"
 religion: "hinduism"
-aliases: ['링가 푸라나', 'Liṅga Purāṇa']
+aliases: ["링가 푸라나", "Liṅga Purāṇa", "लिङ्ग पुराण", "林伽往世书", "リンガ・プラーナ", "Линга Пурана", "Linga Purana", "Linga-Purana"]
 totalChapters: 2
 traditions: ['vaishnavism', 'shaivism', 'advaita', 'dvaita', 'academic', 'comparative']
 tags: ['Shiva', 'linga', 'cosmology', 'yoga']

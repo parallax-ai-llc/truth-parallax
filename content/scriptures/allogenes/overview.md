@@ -2,7 +2,7 @@
 title: "Allogenes"
 slug: "allogenes"
 religion: "gnosticism"
-aliases: ["알로게네스", "Allogenes"]
+aliases: ["알로게네스", "Allogenes", "异族者", "アロゲネス", "אלוגנס", "ألوجينيس", "Allogenes der Fremde", "Allogène", "Alógenes", "Аллоген", "Ἀλλογενής"]
 totalChapters: 5
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Sethian", "ascent", "Triple Power", "negative theology"]

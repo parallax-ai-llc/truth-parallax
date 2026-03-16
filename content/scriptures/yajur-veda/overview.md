@@ -2,7 +2,7 @@
 title: "Yajur Veda"
 slug: "yajur-veda"
 religion: "hinduism"
-aliases: ["Yajurveda", "야주르베다"]
+aliases: ["Yajurveda", "야주르베다", "यजुर्वेद", "夜柔吠陀", "ヤジュル・ヴェーダ", "Яджурведа", "Le Yajur-Véda", "Yajur Veda"]
 totalChapters: 5
 traditions: ["traditional", "advaita", "vaishnavism", "shaivism", "academic", "comparative"]
 tags: ["sacrifice", "ritual formulas", "yajna", "priests", "liturgy"]

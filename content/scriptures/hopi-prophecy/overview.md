@@ -2,7 +2,7 @@
 title: "Hopi Prophecy"
 slug: "hopi-prophecy"
 religion: "native-american"
-aliases: ["호피 예언", "Hopi Prophecy"]
+aliases: ["호피 예언", "Hopi Prophecy", "霍皮预言", "ホピの予言", "Пророчество хопи", "Prophétie Hopi", "Hopi-Prophezeiung", "Profecía Hopi"]
 totalChapters: 8
 traditions: ["indigenous", "academic", "comparative", "theological", "anthropological", "interfaith"]
 tags: ["emergence", "kachina", "prophecy", "balance", "purification"]

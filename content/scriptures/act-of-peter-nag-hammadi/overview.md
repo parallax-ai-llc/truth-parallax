@@ -2,7 +2,7 @@
 title: "Act of Peter"
 slug: "act-of-peter-nag-hammadi"
 religion: "gnosticism"
-aliases: ["베드로 행전(나그함마디)", "Act of Peter"]
+aliases: ["베드로 행전(나그함마디)", "Act of Peter", "拿戈玛第彼得行传", "ナグ・ハマディのペトロ行伝", "מעשי פטרוס (נאג חמאדי)", "أعمال بطرس (نجع حمادي)", "Petrusakte (Nag Hammadi)", "Acte de Pierre (Nag Hammadi)", "Acto de Pedro (Nag Hammadi)", "Деяние Петра (Наг-Хаммади)", "Πράξεις Πέτρου"]
 totalChapters: 3
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Peter", "healing", "daughter"]

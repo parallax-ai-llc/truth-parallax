@@ -2,7 +2,7 @@
 title: "Ezekiel"
 slug: "ezekiel"
 religion: "christianity"
-aliases: ["Yechezkel", "에스겔"]
+aliases: ["Yechezkel", "에스겔", "יְחֶזְקֵאל", "以西结书", "エゼキエル書", "Ἰεζεκιήλ", "Liber Ezechielis", "Книга Иезекииля", "Livre d'Ézéchiel", "Libro de Ezequiel", "Buch Ezechiel", "حزقیال"]
 totalChapters: 48
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["visions", "glory of God", "exile", "dry bones", "new temple", "shepherd", "new covenant"]

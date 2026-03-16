@@ -2,7 +2,7 @@
 title: "Mark"
 slug: "mark"
 religion: "christianity"
-aliases: ["Markos", "마가복음"]
+aliases: ["Markos", "마가복음", "马可福音", "マルコによる福音書", "בשורת מרקוס", "إنجيل مرقس", "Κατὰ Μᾶρκον", "Evangelium secundum Marcum", "Markusevangelium", "Évangile selon Marc", "Evangelio de Marcos", "Евангелие от Марка", "Gospel of Mark"]
 totalChapters: 16
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["suffering servant", "messianic secret", "discipleship", "immediately", "Son of God", "passion"]

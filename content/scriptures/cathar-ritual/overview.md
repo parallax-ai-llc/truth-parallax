@@ -2,7 +2,7 @@
 title: "Cathar Ritual"
 slug: "cathar-ritual"
 religion: "catharism"
-aliases: ["카타르 의식서", "Cathar Ritual", "Rituel Cathare"]
+aliases: ["카타르 의식서", "Cathar Ritual", "Rituel Cathare", "卡特里派仪式", "カタリ派儀式", "Catharisches Ritual", "Ritual Cátaro", "Катарский ритуал", "Consolamentum", "Rituale Cataro"]
 totalChapters: 4
 traditions: ["cathar", "academic", "comparative", "catholic", "gnostic", "interfaith"]
 tags: ["consolamentum", "endura", "perfecti", "ritual"]

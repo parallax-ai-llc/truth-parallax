@@ -2,7 +2,7 @@
 title: "Surya Upanishad"
 slug: "surya-upanishad"
 religion: "hinduism"
-aliases: ["\uc218\ub9ac\uc57c \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Suryopanishad"]
+aliases: ["수리야 우파니샤드", "Suryopanishad", "सूर्य उपनिषद्", "苏利耶奥义书", "スーリヤ・ウパニシャッド", "Сурья-упанишада", "Sūrya Upaniṣad", "Surya Upanishad"]
 totalChapters: 2
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["sun", "Surya", "gayatri", "light"]

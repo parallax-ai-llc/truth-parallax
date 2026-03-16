@@ -2,7 +2,7 @@
 title: "Matsya Purana"
 slug: "matsya-purana"
 religion: "hinduism"
-aliases: ['마츠야 푸라나', 'Matsya Purāṇa']
+aliases: ["마츠야 푸라나", "Matsya Purāṇa", "मत्स्यपुराण", "鱼往世书", "マツヤ・プラーナ", "Матсья Пурана", "Matsya Purana"]
 totalChapters: 8
 traditions: ['vaishnavism', 'shaivism', 'advaita', 'dvaita', 'academic', 'comparative']
 tags: ['Matsya', 'fish avatar', 'flood', 'temple architecture']

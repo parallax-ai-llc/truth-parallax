@@ -2,7 +2,7 @@
 title: "Rule of Blessings"
 slug: "rule-of-blessings"
 religion: "judaism"
-aliases: ["축복의 규칙", "Rule of Blessings", "1QSb"]
+aliases: ["축복의 규칙", "Rule of Blessings", "1QSb", "祝福规则", "祝福の規則", "סרך הברכות", "Правило благословений", "Règle des bénédictions", "Segensregel"]
 totalChapters: 5
 traditions: ['essene', 'judaism', 'protestantism', 'catholicism', 'eastern-orthodox', 'academic']
 tags: ["blessings", "priest", "Prince of Congregation", "eschatological"]

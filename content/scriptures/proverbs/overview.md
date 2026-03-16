@@ -1,7 +1,7 @@
 ---
 title: "Proverbs"
 slug: "proverbs"
-aliases: ["Mishlei", "잠언"]
+aliases: ["Mishlei", "잠언", "箴言", "箴言", "משלי", "سفر الأمثال", "Παροιμίαι", "Proverbia", "Sprüche", "Proverbes", "Proverbios", "Книга Притчей Соломоновых", "Book of Proverbs"]
 totalChapters: 31
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["wisdom", "instruction", "fear of God", "righteousness"]

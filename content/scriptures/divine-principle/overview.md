@@ -2,7 +2,7 @@
 title: "Divine Principle"
 slug: "divine-principle"
 religion: "unificationism"
-aliases: ["원리강론", "Divine Principle"]
+aliases: ["원리강론", "Divine Principle", "原理講論", "原理講論", "げんりこうろん", "Божественный Принцип", "Le Principe divin", "El Principio Divino", "Das göttliche Prinzip", "Wolli Gangnon"]
 totalChapters: 13
 traditions: ["unificationist", "academic", "comparative", "protestant", "interfaith", "theological"]
 tags: ["Sun Myung Moon", "creation", "fall", "restoration", "Second Coming"]

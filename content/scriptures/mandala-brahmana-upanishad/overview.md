@@ -2,7 +2,7 @@
 title: "Mandala Brahmana Upanishad"
 slug: "mandala-brahmana-upanishad"
 religion: "hinduism"
-aliases: ["\ub9cc\ub2ec\ub77c \ube0c\ub77c\ud750\ub9c8\ub098 \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Mandalabrahmana Upanishad"]
+aliases: ["만달라 브라흐마나 우파니샤드", "Mandalabrahmana Upanishad", "मण्डलब्राह्मणोपनिषद्", "曼荼罗梵书奥义书", "マンダラ・ブラーフマナ・ウパニシャッド", "Мандала Брахмана Упанишад", "Mandala Brahmana Upanischad", "Maṇḍalabrāhmaṇa Upaniṣad"]
 totalChapters: 5
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["yoga", "internal sun", "meditation"]

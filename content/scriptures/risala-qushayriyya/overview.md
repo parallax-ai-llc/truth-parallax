@@ -2,7 +2,7 @@
 title: "Al-Risala al-Qushayriyya"
 slug: "risala-qushayriyya"
 religion: "islam"
-aliases: ["쿠쉐이리의 서한", "al-Risāla al-Qushayriyya"]
+aliases: ["쿠쉐이리의 서한", "al-Risāla al-Qushayriyya", "الرسالة القشيرية", "库谢里书信", "クシャイリーヤの書簡", "Рисала Кушайрия", "Épître de Qushayri", "Qushayris Sendschreiben"]
 totalChapters: 10
 traditions: ["sufi", "sunni", "shia", "academic", "comparative", "interfaith"]
 tags: ["Qushayri", "Sufi stations", "states", "masters", "terminology"]

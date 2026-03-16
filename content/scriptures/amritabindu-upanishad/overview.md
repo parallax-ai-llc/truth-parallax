@@ -2,7 +2,7 @@
 title: "Amritabindu Upanishad"
 slug: "amritabindu-upanishad"
 religion: "hinduism"
-aliases: ["\uc544\ubbc0\ub9ac\ud0c0\ube48\ub450 \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Amritabindupanishad"]
+aliases: ["아므리타빈두 우파니샤드", "Amritabindupanishad", "甘露滴奥义书", "アムリタビンドゥ・ウパニシャッド", "अमृतबिन्दूपनिषद्", "Amṛtabindu Upaniṣad", "Amritabindu Upanischad", "Upanishad de la Goutte d\u0027Immortalité", "Амритабинду-упанишада"]
 totalChapters: 3
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["mind", "meditation", "Om", "liberation"]

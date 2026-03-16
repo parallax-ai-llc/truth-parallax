@@ -2,7 +2,7 @@
 title: "2 Timothy"
 slug: "2-timothy"
 religion: "christianity"
-aliases: ["Pros Timotheon B", "디모데후서"]
+aliases: ["Pros Timotheon B", "디모데후서", "提摩太后书", "テモテへの手紙二", "השנייה אל טימותיאוס", "رسالة تيموثاوس الثانية", "2. Timotheus", "2 Timothée", "2 Timoteo", "2-е Тимофею", "Β΄ Τιμόθεον", "Epistula II ad Timotheum", "Second Timothy"]
 totalChapters: 4
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["endurance", "Scripture", "finishing well", "succession", "suffering"]

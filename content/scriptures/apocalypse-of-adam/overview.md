@@ -2,7 +2,7 @@
 title: "Apocalypse of Adam"
 slug: "apocalypse-of-adam"
 religion: "gnosticism"
-aliases: ["아담의 묵시록", "Apocalypse of Adam"]
+aliases: ["아담의 묵시록", "Apocalypse of Adam", "亚当的启示录", "アダムの黙示録", "ספר חזון אדם", "رؤيا آدم", "Apokalypse des Adam", "Apocalypse d\u0027Adam", "Apocalipsis de Adán", "Апокалипсис Адама", "Ἀποκάλυψις Ἀδάμ"]
 totalChapters: 5
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Adam", "Seth", "illuminator", "Sethian"]

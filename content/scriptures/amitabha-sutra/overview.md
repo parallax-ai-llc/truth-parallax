@@ -2,7 +2,7 @@
 title: "Amitabha Sutra"
 slug: "amitabha-sutra"
 religion: "buddhism"
-aliases: ["Amitābha Sūtra", "아미타경"]
+aliases: ["Amitābha Sūtra", "아미타경", "阿弥陀经", "阿弥陀経", "อมิตาภสูตร", "ཨོ་མི་ཏ་བྷའི་མདོ", "अमिताभ सूत्र", "Sukhāvatīvyūha Sūtra", "Sutra d\u0027Amitabha", "Sutra de Amitabha", "Амитабха-сутра", "Smaller Sukhavativyuha Sutra"]
 totalChapters: 1
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["Pure Land", "Amitabha", "recitation", "Western Paradise"]

@@ -2,7 +2,7 @@
 title: "Job"
 slug: "job"
 religion: "christianity"
-aliases: ["Iyov", "욥기"]
+aliases: ["Iyov", "욥기", "אִיּוֹב", "أيوب", "约伯记", "ヨブ記", "Ἰώβ", "Iob", "Книга Иова", "Job", "Hiob", "Job"]
 totalChapters: 42
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["suffering", "theodicy", "wisdom", "divine speech", "patience", "restoration"]

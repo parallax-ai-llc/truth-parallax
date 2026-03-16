@@ -2,7 +2,7 @@
 title: "Baopuzi"
 slug: "baopuzi"
 religion: "taoism"
-aliases: ["\ud3ec\ubc15\uc790", "\u62b1\u6734\u5b50", "Baopuzi"]
+aliases: ["포박자", "抱朴子", "Baopuzi", "抱朴子", "ほうぼくし", "Meister des Einfachen", "Le Maître qui embrasse la simplicité", "El Maestro que abraza la simplicidad", "Баопу-цзы", "The Master Who Embraces Simplicity"]
 totalChapters: 20
 traditions: ["philosophical", "religious", "academic", "confucian", "comparative", "zen"]
 tags: ["Ge Hong", "alchemy", "immortality", "inner cultivation"]

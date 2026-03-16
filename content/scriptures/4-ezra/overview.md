@@ -2,7 +2,7 @@
 title: "4 Ezra"
 slug: "4-ezra"
 religion: "christianity"
-aliases: ["에스드라 4서","4 Ezra","2 Esdras"]
+aliases: ["에스드라 4서", "4 Ezra", "2 Esdras", "以斯拉续篇下卷", "エズラ記四", "עזרא ד", "سفر عزرا الرابع", "4. Esra", "4 Esdras", "4 Esdras", "3-я Ездры", "Liber IV Esdrae", "Apocalypse of Ezra"]
 totalChapters: 16
 traditions: ["academic","comparative","protestant","catholic","eastern-orthodox","interfaith"]
 tags: ["apocalyptic","theodicy","eagle vision","Uriel","messianism"]

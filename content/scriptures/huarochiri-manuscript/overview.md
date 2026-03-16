@@ -2,7 +2,7 @@
 title: "Huarochirí Manuscript"
 slug: "huarochiri-manuscript"
 religion: "inca"
-aliases: ["와로치리 필사본", "Huarochirí Manuscript"]
+aliases: ["와로치리 필사본", "Huarochirí Manuscript", "Manuscrito de Huarochirí", "瓦罗奇里手稿", "ワロチリ写本", "Манускрипт Уарочири", "Manuscrit de Huarochirí", "Huarochirí-Manuskript", "Runa yndio ñiscap machoncuna"]
 totalChapters: 31
 traditions: ["indigenous", "academic", "comparative", "theological", "archaeological", "interfaith"]
 tags: ["Pariacaca", "Andean mythology", "huacas", "creation", "Quechua"]

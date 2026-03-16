@@ -2,7 +2,7 @@
 title: "Joel"
 slug: "joel"
 religion: "christianity"
-aliases: ["Yoel", "요엘"]
+aliases: ["Yoel", "요엘", "יוֹאֵל", "يوئيل", "约珥书", "ヨエル書", "Ἰωήλ", "Ioel", "Книга пророка Иоиля", "Joël", "Joel"]
 totalChapters: 3
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["Day of the LORD", "locusts", "Spirit outpouring", "judgment", "restoration"]

@@ -2,7 +2,7 @@
 title: "Esther"
 slug: "esther"
 religion: "christianity"
-aliases: ["Ester", "에스더"]
+aliases: ["Ester", "에스더", "אֶסְתֵּר", "以斯帖记", "エステル記", "Ἐσθήρ", "Liber Esther", "Книга Есфири", "Livre d'Esther", "Libro de Ester", "Buch Ester"]
 totalChapters: 10
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism"]
 tags: ["Purim", "providence", "diaspora", "deliverance"]

@@ -2,7 +2,7 @@
 title: "Mabinogion"
 slug: "mabinogion"
 religion: "celtic"
-aliases: ["마비노기온", "Mabinogion"]
+aliases: ["마비노기온", "Mabinogion", "马比诺吉昂", "マビノギオン", "Мабиногион", "Le Mabinogion", "Das Mabinogion", "El Mabinogion", "Y Mabinogion"]
 totalChapters: 11
 traditions: ["academic", "comparative", "philosophical", "literary", "archaeological", "interfaith"]
 tags: ["Welsh", "Pryderi", "Branwen", "magic", "sovereignty"]

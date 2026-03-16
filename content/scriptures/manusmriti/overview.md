@@ -2,7 +2,7 @@
 title: "Manusmriti"
 slug: "manusmriti"
 religion: "hinduism"
-aliases: ["마누법전","Laws of Manu","Mānava-Dharmaśāstra"]
+aliases: ["마누법전", "Laws of Manu", "Mānava-Dharmaśāstra", "मनुस्मृति", "摩奴法典", "マヌ法典", "Законы Ману", "Manusmriti", "Gesetze des Manu", "Lois de Manou", "Leyes de Manu"]
 totalChapters: 12
 traditions: ["vaishnavism","shaivism","advaita","dvaita","academic","comparative"]
 tags: ["dharma","law","caste","ethics","society"]

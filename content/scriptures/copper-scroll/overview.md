@@ -2,7 +2,7 @@
 title: "Copper Scroll"
 slug: "copper-scroll"
 religion: "judaism"
-aliases: ["3Q15", "구리 두루마리"]
+aliases: ["3Q15", "구리 두루마리", "מגילת הנחושת", "铜卷", "銅の巻物", "Медный свиток", "Rouleau de cuivre", "Rollo de cobre", "Kupferrolle", "Copper Scroll"]
 totalChapters: 3
 traditions: ["essene", "judaism", "protestantism", "catholicism", "eastern-orthodox", "academic"]
 tags: ["treasure", "hidden wealth", "temple", "mystery", "Qumran"]

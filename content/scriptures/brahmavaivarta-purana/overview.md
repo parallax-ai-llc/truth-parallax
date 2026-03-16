@@ -2,7 +2,7 @@
 title: "Brahmavaivarta Purana"
 slug: "brahmavaivarta-purana"
 religion: "hinduism"
-aliases: ['브라흐마바이바르타 푸라나', 'Brahmavaivarta Purāṇa']
+aliases: ["브라흐마바이바르타 푸라나", "Brahmavaivarta Purāṇa", "梵转变往世书", "ブラフマヴァイヴァルタ・プラーナ", "ब्रह्मवैवर्तपुराण", "بهرماویورتا پوران", "Brahmavaivarta Purana", "Brahmavaivarta Purâna", "Brahmavaivarta Purana", "Брахмавайварта-пурана"]
 totalChapters: 4
 traditions: ['vaishnavism', 'shaivism', 'advaita', 'dvaita', 'academic', 'comparative']
 tags: ['Krishna', 'Radha', 'creation', 'divine play']

@@ -2,7 +2,7 @@
 title: "Matthew"
 slug: "matthew"
 religion: "christianity"
-aliases: ["Mattityahu", "마태복음"]
+aliases: ["Mattityahu", "마태복음", "马太福音", "マタイによる福音書", "בשורת מתי", "إنجيل متى", "Κατὰ Ματθαῖον", "Evangelium secundum Matthaeum", "Matthäusevangelium", "Évangile selon Matthieu", "Evangelio de Mateo", "Евангелие от Матфея", "Gospel of Matthew"]
 totalChapters: 28
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["kingdom of heaven", "Sermon on the Mount", "fulfillment", "Messiah", "Great Commission", "genealogy"]

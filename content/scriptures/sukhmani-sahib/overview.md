@@ -2,7 +2,7 @@
 title: "Sukhmani Sahib"
 slug: "sukhmani-sahib"
 religion: "sikhism"
-aliases: ["수크마니 사히브", "ਸੁਖਮਨੀ ਸਾਹਿਬ", "Psalm of Peace"]
+aliases: ["수크마니 사히브", "ਸੁਖਮਨੀ ਸਾਹਿਬ", "Psalm of Peace", "सुखमनी साहिब", "苏赫马尼·萨希卜", "スクマニー・サーヒブ", "Сукхмани Сахиб", "Sukhmani Sahib"]
 totalChapters: 24
 traditions: ['sikh', 'academic', 'comparative', 'sufi', 'bhakti', 'interfaith']
 tags: ["Guru Arjan", "peace", "meditation", "Nam", "bliss"]

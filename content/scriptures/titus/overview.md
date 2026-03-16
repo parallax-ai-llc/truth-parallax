@@ -2,7 +2,7 @@
 title: "Titus"
 slug: "titus"
 religion: "christianity"
-aliases: ["Pros Titon", "디도서"]
+aliases: ["Pros Titon", "디도서", "Πρὸς Τίτον", "提多书", "テトスへの手紙", "Ad Titum", "Послание к Титу", "Épître à Tite", "Brief an Titus", "Epístola a Tito", "Titus"]
 totalChapters: 3
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["good works", "sound doctrine", "grace", "elders", "godly living"]

@@ -2,7 +2,7 @@
 title: "Kiteba Cilwe"
 slug: "kiteba-cilwe"
 religion: "yazidi"
-aliases: ["키테바 칠웨", "Book of Revelation", "Kitêba Cilwe"]
+aliases: ["키테바 칠웨", "Book of Revelation", "Kitêba Cilwe", "كتيبا جلوه", "揭示之书", "キテバ・チルウェ", "Китеба Чилве", "Le Livre de la Révélation", "Das Buch der Offenbarung", "El Libro de la Revelación"]
 totalChapters: 4
 traditions: ["yazidi", "academic", "comparative", "islamic", "christian", "interfaith"]
 tags: ["revelation", "Melek Taus", "divine light", "theology"]

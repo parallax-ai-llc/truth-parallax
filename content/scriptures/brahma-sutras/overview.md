@@ -2,7 +2,7 @@
 title: "Brahma Sutras"
 slug: "brahma-sutras"
 religion: "hinduism"
-aliases: ["Vedānta Sūtras", "브라흐마 수트라"]
+aliases: ["Vedānta Sūtras", "브라흐마 수트라", "梵经", "ブラフマ・スートラ", "ब्रह्मसूत्र", "Brahma-Sūtras", "Brahma-Sûtras", "Brahma Sutras", "Брахма-сутры", "Vedanta Sutras"]
 totalChapters: 4
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["Brahman", "Vedanta", "metaphysics", "self", "liberation"]

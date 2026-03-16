@@ -2,7 +2,7 @@
 title: "Classic of Poetry"
 slug: "classic-of-poetry"
 religion: "confucianism"
-aliases: ["Shijing", "Book of Songs", "시경"]
+aliases: ["Shijing", "Book of Songs", "시경", "詩經", "詩経", "しきょう", "Ши цзин", "Classique des vers", "Clásico de la Poesía", "Klassiker der Lieder", "Shī Jīng", "Book of Odes"]
 totalChapters: 4
 traditions: ["confucian", "neo-confucian", "daoist", "buddhist-chinese", "academic", "comparative"]
 tags: ["poetry", "odes", "folk songs", "ritual", "Zhou dynasty"]

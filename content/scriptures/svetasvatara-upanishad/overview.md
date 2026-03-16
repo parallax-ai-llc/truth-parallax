@@ -2,7 +2,7 @@
 title: "Svetasvatara Upanishad"
 slug: "svetasvatara-upanishad"
 religion: "hinduism"
-aliases: ["슈베타슈바타라 우파니샤드"]
+aliases: ["슈베타슈바타라 우파니샤드", "श्वेताश्वतर उपनिषद्", "白骡奥义书", "シュヴェーターシュヴァタラ・ウパニシャッド", "Śvetāśvatara Upaniṣad", "Шветашватара-упанишада", "Svetasvatara Upanishad"]
 totalChapters: 6
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["Rudra-Shiva", "personal God", "maya", "grace", "theism", "Brahman"]

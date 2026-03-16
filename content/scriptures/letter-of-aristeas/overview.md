@@ -2,7 +2,7 @@
 title: "Letter of Aristeas"
 slug: "letter-of-aristeas"
 religion: "judaism"
-aliases: ["아리스테아스의 편지","Letter of Aristeas"]
+aliases: ["아리스테아스의 편지", "Letter of Aristeas", "אגרת אריסטיאס", "رسالة أريستياس", "阿里斯提亚书信", "アリステアスの手紙", "Epistula Aristeae", "Письмо Аристея", "Lettre d'Aristée", "Brief des Aristeas", "Carta de Aristeas"]
 totalChapters: 6
 traditions: ["academic","comparative","protestant","catholic","eastern-orthodox","interfaith"]
 tags: ["Septuagint","translation","Ptolemy","Jewish law","Alexandria"]

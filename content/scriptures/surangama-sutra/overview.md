@@ -2,7 +2,7 @@
 title: "Surangama Sutra"
 slug: "surangama-sutra"
 religion: "buddhism"
-aliases: ["Śūraṅgama Sūtra", "능엄경"]
+aliases: ["Śūraṅgama Sūtra", "능엄경", "楞嚴經", "首楞厳経", "しゅりょうごんきょう", "สุรังคมสูตร", "Сурангама-сутра", "Sūtra de Śūraṅgama", "Surangama Sutra"]
 totalChapters: 10
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["concentration", "illusion", "demons", "25 means", "perfect penetration"]

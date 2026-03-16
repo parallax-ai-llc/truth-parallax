@@ -2,7 +2,7 @@
 title: "Dasam Granth"
 slug: "dasam-granth"
 religion: "sikhism"
-aliases: ["Dasven Pātshāh kā Granth", "다삼 그란트"]
+aliases: ["Dasven Pātshāh kā Granth", "다삼 그란트", "ਦਸਮ ਗ੍ਰੰਥ", "दसम ग्रंथ", "十部圣典", "ダサム・グラント", "Дасам Грантх", "Dasam Granth", "Le Dasam Granth", "Libro del Décimo Maestro"]
 totalChapters: 5
 traditions: ["sikh", "academic", "comparative", "sufi", "bhakti", "interfaith"]
 tags: ["Guru Gobind Singh", "martial spirit", "divine poetry", "Chandi", "Khalsa"]

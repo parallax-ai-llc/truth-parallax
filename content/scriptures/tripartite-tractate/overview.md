@@ -2,7 +2,7 @@
 title: "Tripartite Tractate"
 slug: "tripartite-tractate"
 religion: "gnosticism"
-aliases: ["삼분 논문", "Tripartite Tractate"]
+aliases: ["삼분 논문", "Tripartite Tractate", "三分论文", "三部構成の論文", "Трёхчастный трактат", "Le Traité tripartite", "Der dreiteilige Traktat", "El Tratado Tripartito"]
 totalChapters: 9
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Valentinian", "pleroma", "fall", "salvation", "three races"]

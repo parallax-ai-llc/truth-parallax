@@ -2,7 +2,7 @@
 title: "Messianic Rule"
 slug: "messianic-rule"
 religion: "judaism"
-aliases: ["메시아 규칙", "Messianic Rule", "1QSa", "Rule of the Congregation"]
+aliases: ["메시아 규칙", "Messianic Rule", "1QSa", "Rule of the Congregation", "弥赛亚规则", "メシア規則", "סרך העדה", "Мессианский устав", "Règle messianique", "Messianische Regel"]
 totalChapters: 3
 traditions: ['essene', 'judaism', 'protestantism', 'catholicism', 'eastern-orthodox', 'academic']
 tags: ["messiah", "eschatological banquet", "congregation", "end times"]

@@ -2,7 +2,7 @@
 title: "Shahnameh"
 slug: "shahnameh"
 religion: "zoroastrianism"
-aliases: ["\uc0e4\ub098\uba54", "Shahnameh", "Book of Kings"]
+aliases: ["샤나메", "Shahnameh", "Book of Kings", "شاهنامه", "列王记", "シャー・ナーメ", "Шахнаме", "Le Livre des Rois", "Das Königsbuch", "Shāhnāmeh"]
 totalChapters: 50
 traditions: ["zoroastrian", "academic", "comparative", "literary", "philosophical", "interfaith"]
 tags: ["Ferdowsi", "Persian kings", "Rostam", "epic", "Iranian mythology"]

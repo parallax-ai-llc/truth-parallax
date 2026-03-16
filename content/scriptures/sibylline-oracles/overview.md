@@ -2,7 +2,7 @@
 title: "Sibylline Oracles"
 slug: "sibylline-oracles"
 religion: "ancient-greco-roman"
-aliases: ["시빌라 신탁", "Oracula Sibyllina"]
+aliases: ["시빌라 신탁", "Oracula Sibyllina", "Χρησμοὶ Σιβυλλιακοί", "西卜林神谕", "シビュラの託宣", "Сивиллины оракулы", "Oracles sibyllins", "Sibyllinische Orakel", "Oráculos sibilinos"]
 totalChapters: 14
 traditions: ["academic", "comparative", "philosophical", "theological", "literary", "interfaith"]
 tags: ["prophecy", "Sibyl", "Jewish-Christian", "apocalyptic", "eschatology"]

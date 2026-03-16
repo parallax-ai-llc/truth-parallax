@@ -2,7 +2,7 @@
 title: "Fudoki"
 slug: "fudoki"
 religion: "shinto"
-aliases: ["\ud48d\ud1a0\uae30", "\u98a8\u571f\u8a18", "Fudoki"]
+aliases: ["풍토기", "風土記", "Fudoki", "ふどき", "风土记", "Фудоки", "Records of Wind and Earth", "Chroniques régionales"]
 totalChapters: 5
 traditions: ["philosophical", "religious", "academic", "confucian", "comparative", "zen"]
 tags: ["geography", "mythology", "local legends", "Nara period"]

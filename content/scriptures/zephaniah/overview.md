@@ -2,7 +2,7 @@
 title: "Zephaniah"
 slug: "zephaniah"
 religion: "christianity"
-aliases: ["Tsefanyah", "스바냐"]
+aliases: ["Tsefanyah", "스바냐", "צְפַנְיָה", "西番雅书", "ゼパニヤ書", "Sophonias", "Книга пророка Софонии", "Le Livre de Sophonie", "Zefanja", "Sofonías", "Zephaniah"]
 totalChapters: 3
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["Day of the LORD", "judgment", "remnant", "restoration", "humble"]

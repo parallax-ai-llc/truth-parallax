@@ -2,7 +2,7 @@
 title: "Doctrine of the Mean"
 slug: "doctrine-of-mean"
 religion: "confucianism"
-aliases: ["Zhongyong", "중용"]
+aliases: ["Zhongyong", "중용", "中庸", "中庸", "ちゅうよう", "Чжун юн", "La Doctrine du Milieu", "La Doctrina del Medio", "Die Lehre von der Mitte", "Zhōng Yōng", "Doctrine of the Mean"]
 totalChapters: 1
 traditions: ["confucian", "neo-confucian", "daoist", "buddhist-chinese", "academic", "comparative"]
 tags: ["sincerity", "harmony", "mean", "Heaven's mandate", "self-cultivation"]

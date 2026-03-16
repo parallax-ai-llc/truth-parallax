@@ -2,7 +2,7 @@
 title: "Legend of Keret"
 slug: "legend-of-keret"
 religion: "ancient-ugaritic"
-aliases: ["케레트 전설", "Legend of Keret"]
+aliases: ["케레트 전설", "Legend of Keret", "凯雷特传说", "ケレトの伝説", "Легенда о Керете", "La Légende de Keret", "Die Legende von Keret", "La Leyenda de Keret", "Epic of King Keret"]
 totalChapters: 3
 traditions: ["academic", "comparative", "theological", "literary", "archaeological", "interfaith"]
 tags: ["Keret", "kingship", "El", "dynasty", "illness"]

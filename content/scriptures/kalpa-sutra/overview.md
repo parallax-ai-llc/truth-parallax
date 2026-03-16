@@ -2,7 +2,7 @@
 title: "Kalpa Sutra"
 slug: "kalpa-sutra"
 religion: "jainism"
-aliases: ["칼파 수트라", "Kalpa Sūtra"]
+aliases: ["칼파 수트라", "Kalpa Sūtra", "कल्प सूत्र", "劫波经", "カルパ・スートラ", "Кальпа Сутра", "Le Kalpa Sutra", "Kalpa-Sutra"]
 totalChapters: 10
 traditions: ["digambara", "shvetambara", "academic", "comparative", "philosophical", "interfaith"]
 tags: ["Mahavira", "Jina biography", "monastic rules", "Paryushana"]

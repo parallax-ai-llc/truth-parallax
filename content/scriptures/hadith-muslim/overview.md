@@ -2,7 +2,7 @@
 title: "Sahih Muslim"
 slug: "hadith-muslim"
 religion: "islam"
-aliases: ["Sahih Muslim", "무슬림 하디스"]
+aliases: ["Sahih Muslim", "무슬림 하디스", "صحيح مسلم", "穆斯林圣训实录", "サヒーフ・ムスリム", "Сахих Муслима", "Le Sahih de Muslim", "Sahih Muslim Sammlung", "Sahih de Muslim"]
 totalChapters: 8
 traditions: ["sunni", "shia", "sufi", "salafi", "academic", "comparative"]
 tags: ["hadith", "Sunnah", "Prophet Muhammad", "isnad", "fiqh", "authentic"]

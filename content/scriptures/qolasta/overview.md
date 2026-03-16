@@ -2,7 +2,7 @@
 title: "Qolasta"
 slug: "qolasta"
 religion: "mandaeism"
-aliases: ["콜라스타", "Canonical Prayerbook"]
+aliases: ["콜라스타", "Canonical Prayerbook", "曼达教祈祷书", "コラスタ", "Коласта", "Livre de prières mandéen", "Mandäisches Gebetbuch", "ܩܘܠܣܬܐ"]
 totalChapters: 15
 traditions: ["mandaean", "academic", "comparative", "gnostic", "jewish", "interfaith"]
 tags: ["liturgy", "prayer", "baptism", "hymns", "ritual"]

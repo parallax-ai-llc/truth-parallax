@@ -2,7 +2,7 @@
 title: "Eugnostos the Blessed"
 slug: "eugnostos-the-blessed"
 religion: "gnosticism"
-aliases: ["에우그노스토스", "Eugnostos the Blessed"]
+aliases: ["에우그노스토스", "Eugnostos the Blessed", "有福的欧格诺斯托斯", "祝福されたエウグノストス", "Евгност Блаженный", "Eugnoste le Bienheureux", "Eugnostos el Bienaventurado", "Εὔγνωστος ὁ Μακάριος"]
 totalChapters: 5
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["cosmology", "First Father", "aeons"]

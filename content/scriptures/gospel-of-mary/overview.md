@@ -2,7 +2,7 @@
 title: "Gospel of Mary"
 slug: "gospel-of-mary"
 religion: "christianity"
-aliases: ["Evangelion kata Mariam", "마리아복음"]
+aliases: ["Evangelion kata Mariam", "마리아복음", "玛利亚福音", "マリアによる福音書", "Εὐαγγέλιον κατὰ Μαριάμ", "Evangelium Mariae", "Евангелие от Марии", "Évangile de Marie", "Evangelio de María", "Mariaevangelium"]
 totalChapters: 3
 traditions: ["gnosticism", "protestantism", "catholicism", "eastern-orthodox", "judaism", "academic"]
 tags: ["Mary Magdalene", "vision", "soul's ascent", "authority", "gender", "Nag Hammadi"]

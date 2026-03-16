@@ -2,7 +2,7 @@
 title: "Doctrine and Covenants"
 slug: "doctrine-and-covenants"
 religion: "mormonism"
-aliases: ["\uad50\ub9ac\uc640 \uc131\uc57d", "Doctrine and Covenants", "D&C"]
+aliases: ["교리와 성약", "Doctrine and Covenants", "D&C", "教义和圣约", "教義と聖約", "Учение и Заветы", "Doctrine et Alliances", "Doctrina y Convenios", "Lehre und Bündnisse"]
 totalChapters: 138
 traditions: ["lds", "community-of-christ", "academic", "protestant", "comparative", "historical-critical"]
 tags: ["Joseph Smith", "revelations", "priesthood", "temple", "Zion"]

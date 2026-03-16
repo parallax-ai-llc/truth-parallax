@@ -2,7 +2,7 @@
 title: "Exegesis on the Soul"
 slug: "exegesis-on-the-soul"
 religion: "gnosticism"
-aliases: ["영혼의 해석", "Exegesis on the Soul"]
+aliases: ["영혼의 해석", "Exegesis on the Soul", "灵魂的诠释", "魂の釈義", "Толкование о Душе", "Exégèse de l'âme", "Exégesis del alma", "De Exegetica de Anima"]
 totalChapters: 4
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["soul", "fall", "repentance", "bridal chamber"]

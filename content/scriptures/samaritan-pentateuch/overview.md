@@ -2,7 +2,7 @@
 title: "Samaritan Pentateuch"
 slug: "samaritan-pentateuch"
 religion: "samaritanism"
-aliases: ["Samaritan Torah", "사마리아 오경"]
+aliases: ["Samaritan Torah", "사마리아 오경", "撒玛利亚五经", "サマリア五書", "תורה שומרונית", "التوراة السامرية", "Самаритянское Пятикнижие", "Samaritanischer Pentateuch", "Pentateuque samaritain", "Pentateuco samaritano"]
 totalChapters: 5
 traditions: ["samaritan", "jewish", "academic", "comparative", "protestant", "historical-critical"]
 tags: ["Torah", "Mount Gerizim", "textual variants", "ancient tradition"]

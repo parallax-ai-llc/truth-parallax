@@ -2,7 +2,7 @@
 title: "Norito"
 slug: "norito"
 religion: "shinto"
-aliases: ["노리토", "祝詞"]
+aliases: ["노리토", "祝詞", "のりと", "祝词", "Норито", "Prières shinto", "Shinto Prayers", "Shinto-Gebete"]
 totalChapters: 27
 traditions: ["philosophical", "religious", "academic", "confucian", "comparative", "zen"]
 tags: ["prayer", "purification", "kami", "ritual language"]

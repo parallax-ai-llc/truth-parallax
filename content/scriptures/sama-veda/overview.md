@@ -2,7 +2,7 @@
 title: "Sama Veda"
 slug: "sama-veda"
 religion: "hinduism"
-aliases: ["Samaveda", "사마베다"]
+aliases: ["Samaveda", "사마베다", "सामवेद", "沙磨吠陀", "サーマ・ヴェーダ", "Самаведа", "Sāmaveda"]
 totalChapters: 4
 traditions: ["traditional", "advaita", "vaishnavism", "shaivism", "academic", "comparative"]
 tags: ["chanting", "melody", "ritual", "Soma", "liturgical music"]

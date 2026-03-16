@@ -2,7 +2,7 @@
 title: "Prashna Upanishad"
 slug: "prashna-upanishad"
 religion: "hinduism"
-aliases: ["프라슈나 우파니샤드"]
+aliases: ["프라슈나 우파니샤드", "Prashna Upanishad", "प्रश्नोपनिषद्", "问奥义书", "プラシュナ・ウパニシャッド", "Прашна Упанишад", "Praśna Upaniṣad"]
 totalChapters: 6
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["six questions", "prana", "creation", "AUM", "Brahman"]

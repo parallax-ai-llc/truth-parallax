@@ -2,7 +2,7 @@
 title: "Kena Upanishad"
 slug: "kena-upanishad"
 religion: "hinduism"
-aliases: ["케나 우파니샤드"]
+aliases: ["케나 우파니샤드", "केनोपनिषद्", "Kenopanishad", "由谁奥义书", "ケーナ・ウパニシャッド", "Кена Упанишада", "Kena Upanishad", "Kena-Upanishad"]
 totalChapters: 4
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["Brahman", "knowledge", "senses", "Uma", "gods humbled"]

@@ -2,7 +2,7 @@
 title: "Chaldean Oracles"
 slug: "chaldean-oracles"
 religion: "ancient-greco-roman"
-aliases: ["칼데아 신탁", "Chaldean Oracles", "Logia"]
+aliases: ["칼데아 신탁", "Chaldean Oracles", "Logia", "迦勒底神谕", "カルデア神託", "Χαλδαϊκά Λόγια", "Oracula Chaldaica", "Халдейские оракулы", "Oracles chaldaïques", "Oráculos caldeos", "Chaldäische Orakel"]
 totalChapters: 8
 traditions: ["academic", "comparative", "philosophical", "theological", "literary", "interfaith"]
 tags: ["theurgy", "Hecate", "fire", "Neoplatonism", "Julian"]

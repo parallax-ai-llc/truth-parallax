@@ -2,7 +2,7 @@
 title: "Tale of Aqhat"
 slug: "tale-of-aqhat"
 religion: "ancient-ugaritic"
-aliases: ["아크하트 이야기", "Tale of Aqhat"]
+aliases: ["아크하트 이야기", "Tale of Aqhat", "阿赫哈特传说", "アクハトの物語", "Сказание об Акхате", "Le Conte d'Aqhat", "Die Erzählung von Aqhat", "El relato de Aqhat"]
 totalChapters: 3
 traditions: ["academic", "comparative", "theological", "literary", "archaeological", "interfaith"]
 tags: ["Aqhat", "Danel", "bow", "Anat", "mortality"]

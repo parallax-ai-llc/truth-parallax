@@ -2,7 +2,7 @@
 title: "Amos"
 slug: "amos"
 religion: "christianity"
-aliases: ["Amos", "아모스"]
+aliases: ["Amos", "아모스", "阿摩司书", "アモス書", "עמוס", "سفر عاموس", "Amos", "Amos", "Amós", "Амос", "Ἀμώς", "Liber Amos"]
 totalChapters: 9
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["social justice", "judgment", "remnant", "shepherd prophet", "Day of the LORD"]

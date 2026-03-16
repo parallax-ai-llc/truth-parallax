@@ -2,7 +2,7 @@
 title: "Hávamál"
 slug: "havamal"
 religion: "norse"
-aliases: ["하바말", "Hávamál", "Sayings of the High One"]
+aliases: ["하바말", "Hávamál", "Sayings of the High One", "哈瓦马尔", "ハーヴァマール", "Речи Высокого", "Les Dits du Très-Haut", "Die Sprüche des Hohen", "Los dichos del Altísimo", "Hávamál"]
 totalChapters: 6
 traditions: ["academic", "comparative", "philosophical", "literary", "archaeological", "interfaith"]
 tags: ["Odin", "wisdom", "runes", "ethics", "proverbs"]

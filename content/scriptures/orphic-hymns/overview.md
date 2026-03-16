@@ -2,7 +2,7 @@
 title: "Orphic Hymns"
 slug: "orphic-hymns"
 religion: "ancient-greek"
-aliases: ["\uc624\ub974\ud398\uc6b0\uc2a4 \ucc2c\uac00", "Orphic Hymns"]
+aliases: ["오르페우스 찬가", "Orphic Hymns", "俄耳甫斯赞歌", "オルペウス賛歌", "Ὀρφικοὶ Ὕμνοι", "Hymni Orphici", "Orphische Hymnen", "Hymnes orphiques", "Himnos órficos", "Орфические гимны"]
 totalChapters: 87
 traditions: ["academic", "comparative", "philosophical", "theological", "literary", "interfaith"]
 tags: ["Orpheus", "mysteries", "gods", "ritual", "mysticism"]

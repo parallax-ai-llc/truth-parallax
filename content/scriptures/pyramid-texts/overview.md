@@ -2,7 +2,7 @@
 title: "Pyramid Texts"
 slug: "pyramid-texts"
 religion: "ancient-egyptian"
-aliases: ["피라미드 텍스트", "Pyramid Texts"]
+aliases: ["피라미드 텍스트", "Pyramid Texts", "金字塔铭文", "ピラミッド・テキスト", "نصوص الأهرام", "Тексты пирамид", "Pyramidentexte", "Textes des pyramides", "Textos de las pirámides"]
 totalChapters: 30
 traditions: ["academic", "comparative", "hermetic", "theological", "archaeological", "interfaith"]
 tags: ["afterlife", "pharaoh", "ascension", "oldest religious texts"]

@@ -2,7 +2,7 @@
 title: "Bhagavata Purana"
 slug: "bhagavata-purana"
 religion: "hinduism"
-aliases: ["바가바타 푸라나", "Srimad Bhagavatam"]
+aliases: ["바가바타 푸라나", "Srimad Bhagavatam", "薄伽梵往世书", "バーガヴァタ・プラーナ", "भागवतपुराण", "بھاگوت پوران", "Bhâgavata Purâna", "Bhâgavata Purâna", "Bhagavata Purana", "Бхагавата-пурана", "श्रीमद्भागवतम्"]
 totalChapters: 12
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["Krishna", "bhakti", "avatars", "cosmology"]

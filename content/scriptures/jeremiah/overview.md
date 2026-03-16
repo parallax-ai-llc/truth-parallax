@@ -2,7 +2,7 @@
 title: "Jeremiah"
 slug: "jeremiah"
 religion: "christianity"
-aliases: ["Yirmeyahu", "예레미야"]
+aliases: ["Yirmeyahu", "예레미야", "יִרְמְיָהוּ", "إرميا", "耶利米书", "エレミヤ書", "Ἱερεμίας", "Ieremias", "Книга пророка Иеремии", "Jérémie", "Jeremia", "Jeremías"]
 totalChapters: 52
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["new covenant", "judgment", "exile", "weeping prophet", "repentance", "restoration"]

@@ -2,7 +2,7 @@
 title: "I Ching"
 slug: "i-ching"
 religion: "chinese-philosophy"
-aliases: ["Yijing", "Book of Changes", "주역"]
+aliases: ["Yijing", "Book of Changes", "주역", "易經", "易经", "えききょう", "Ицзин", "Le Yi King", "I Ging", "I Ching - El Libro de los Cambios", "Dịch Kinh"]
 totalChapters: 64
 traditions: ["philosophical", "religious", "academic", "confucian", "comparative", "zen"]
 tags: ["divination", "yin-yang", "hexagrams", "change", "cosmology"]

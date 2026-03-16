@@ -2,7 +2,7 @@
 title: "Nihon Shoki"
 slug: "nihon-shoki"
 religion: "shinto"
-aliases: ["Nihongi", "Chronicles of Japan", "일본서기"]
+aliases: ["Nihongi", "Chronicles of Japan", "일본서기", "日本書紀", "にほんしょき", "日本书纪", "Нихон сёки", "Chroniques du Japon", "Crónicas de Japón", "Japanische Chronik"]
 totalChapters: 30
 traditions: ["philosophical", "religious", "academic", "confucian", "comparative", "zen"]
 tags: ["creation", "emperors", "kami", "Japanese history", "mythology"]

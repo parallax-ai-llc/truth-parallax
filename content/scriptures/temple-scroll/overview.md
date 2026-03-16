@@ -2,7 +2,7 @@
 title: "Temple Scroll"
 slug: "temple-scroll"
 religion: "judaism"
-aliases: ["11QT", "전쟁두루마리"]
+aliases: ["11QT", "성전 두루마리", "מגילת המקדש", "圣殿卷轴", "神殿の巻物", "Храмовый свиток", "Le Rouleau du Temple", "Die Tempelrolle", "El Rollo del Templo", "Temple Scroll"]
 totalChapters: 6
 traditions: ["essene", "judaism", "protestantism", "catholicism", "eastern-orthodox", "academic"]
 tags: ["ideal temple", "festivals", "purity laws", "king's law", "Torah rewritten", "Qumran"]

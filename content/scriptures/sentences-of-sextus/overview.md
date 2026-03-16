@@ -2,7 +2,7 @@
 title: "Sentences of Sextus"
 slug: "sentences-of-sextus"
 religion: "gnosticism"
-aliases: ["섹스투스의 격언", "Sentences of Sextus"]
+aliases: ["섹스투스의 격언", "Sentences of Sextus", "Sententiae Sexti", "塞克斯图斯格言", "セクストゥスの格言", "Γνῶμαι Σέξτου", "Сентенции Секста", "Sentences de Sextus", "Sentenzen des Sextus", "Sentencias de Sexto"]
 totalChapters: 5
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["ethics", "wisdom", "Pythagorean", "asceticism"]

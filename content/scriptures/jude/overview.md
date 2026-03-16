@@ -2,7 +2,7 @@
 title: "Jude"
 slug: "jude"
 religion: "christianity"
-aliases: ["Iouda", "유다서"]
+aliases: ["Iouda", "유다서", "Ἰούδας", "يهوذا", "犹大书", "ユダの手紙", "Iudas", "Послание Иуды", "Épître de Jude", "Judasbrief", "Epístola de Judas"]
 totalChapters: 1
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["contend for faith", "false teachers", "judgment", "doxology", "apostasy"]

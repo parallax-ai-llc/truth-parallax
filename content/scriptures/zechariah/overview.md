@@ -2,7 +2,7 @@
 title: "Zechariah"
 slug: "zechariah"
 religion: "christianity"
-aliases: ["Zekharyah", "스가랴"]
+aliases: ["Zekharyah", "스가랴", "זְכַרְיָה", "撒迦利亚书", "ゼカリヤ書", "Zacharias", "Книга пророка Захарии", "Le Livre de Zacharie", "Sacharja", "Zacarías", "Zechariah"]
 totalChapters: 14
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["visions", "messianic prophecy", "Branch", "pierced one", "eschatology", "temple"]

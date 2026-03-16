@@ -2,7 +2,7 @@
 title: "Milindapanha"
 slug: "milindapanha"
 religion: "buddhism"
-aliases: ["밀린다팡하", "밀린다왕문경"]
+aliases: ["밀린다팡하", "밀린다왕문경", "Milinda Pañha", "弥兰陀王问经", "ミリンダ王の問い", "มิลินทปัญหา", "Вопросы Милинды", "Questions of King Milinda", "Questions de Milinda"]
 totalChapters: 7
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["Nagasena", "King Milinda", "dialogue", "no-self", "rebirth"]

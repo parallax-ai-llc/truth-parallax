@@ -2,7 +2,7 @@
 title: "Revelation"
 slug: "revelation"
 religion: "christianity"
-aliases: ["Apokalypsis", "요한계시록"]
+aliases: ["Apokalypsis", "요한계시록", "启示录", "ヨハネの黙示録", "חזון יוחנן", "سفر الرؤيا", "Ἀποκάλυψις Ἰωάννου", "Apocalypsis", "Offenbarung", "Apocalypse", "Apocalipsis", "Откровение Иоанна Богослова", "Book of Revelation"]
 totalChapters: 22
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["apocalyptic", "seven churches", "judgment", "new creation", "Lamb", "Babylon", "New Jerusalem"]

@@ -2,7 +2,7 @@
 title: "Philippians"
 slug: "philippians"
 religion: "christianity"
-aliases: ["Pros Philippesious", "빌립보서"]
+aliases: ["Pros Philippesious", "빌립보서", "腓立比书", "フィリピの信徒への手紙", "אגרת אל הפיליפיים", "رسالة فيلبي", "Πρὸς Φιλιππησίους", "Epistula ad Philippenses", "Philipperbrief", "Épître aux Philippiens", "Epístola a los Filipenses", "Послание к Филиппийцам", "Epistle to the Philippians"]
 totalChapters: 4
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["joy", "kenosis", "Christ hymn", "pressing on", "contentment"]

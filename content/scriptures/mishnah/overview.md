@@ -2,7 +2,7 @@
 title: "Mishnah"
 slug: "mishnah"
 religion: "judaism"
-aliases: ["Oral Torah", "미쉬나"]
+aliases: ["Oral Torah", "미쉬나", "密释纳", "ミシュナー", "משנה", "المشناة", "Мишна", "Mischna", "Michna", "Misná"]
 totalChapters: 6
 traditions: ["orthodox-judaism", "reform-judaism", "conservative-judaism", "academic", "comparative", "kabbalistic"]
 tags: ["oral law", "halakhah", "agriculture", "festivals", "marriage", "damages", "holiness", "purity"]

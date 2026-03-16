@@ -2,7 +2,7 @@
 title: "Baal Cycle"
 slug: "baal-cycle"
 religion: "ancient-ugaritic"
-aliases: ["바알 순환서사", "Baal Cycle", "KTU 1.1-1.6"]
+aliases: ["바알 순환서사", "Baal Cycle", "KTU 1.1-1.6", "巴力史诗", "バアル・サイクル", "מחזור הבעל", "دورة بعل", "Baal-Zyklus", "Cycle de Baal", "Ciclo de Baal", "Цикл Баала"]
 totalChapters: 6
 traditions: ["academic", "comparative", "theological", "literary", "archaeological", "interfaith"]
 tags: ["Baal", "Mot", "Yamm", "kingship", "storm god", "fertility"]

@@ -2,7 +2,7 @@
 title: "Songs of the Sabbath Sacrifice"
 slug: "songs-of-sabbath-sacrifice"
 religion: "judaism"
-aliases: ["안식일 제사의 노래", "Songs of the Sabbath Sacrifice", "Shirot Olat HaShabbat"]
+aliases: ["안식일 제사의 노래", "Songs of the Sabbath Sacrifice", "Shirot Olat HaShabbat", "שירות עולת השבת", "安息日祭祀之歌", "安息日犠牲の歌", "Песни субботнего жертвоприношения", "Chants du sacrifice du sabbat", "Sabbatopferlieder"]
 totalChapters: 13
 traditions: ['essene', 'judaism', 'protestantism', 'catholicism', 'eastern-orthodox', 'academic']
 tags: ["angelic liturgy", "heavenly temple", "Sabbath", "mysticism"]

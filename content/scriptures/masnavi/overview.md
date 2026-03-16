@@ -2,7 +2,7 @@
 title: "Masnavi"
 slug: "masnavi"
 religion: "islam"
-aliases: ["마스나비", "Mathnawi", "Masnavi-ye-Ma'navi"]
+aliases: ["마스나비", "Mathnawi", "Masnavi-ye-Ma'navi", "مثنوی معنوی", "玛斯纳维", "マスナヴィー", "Маснави", "مثنوي", "Mesnevi", "Masnavi-i-Ma'navi"]
 totalChapters: 6
 traditions: ["sufi", "sunni", "shia", "academic", "comparative", "interfaith"]
 tags: ["Rumi", "mysticism", "love", "poetry", "parable"]

@@ -2,7 +2,7 @@
 title: "Majjhima Nikaya"
 slug: "majjhima-nikaya"
 religion: "buddhism"
-aliases: ["중부", "中部", "Majjhima Nikāya"]
+aliases: ["중부", "中部", "Majjhima Nikāya", "มัชฌิมนิกาย", "マッジマ・ニカーヤ", "Маджджхима Никая", "Majjhima Nikaya", "Middle Length Discourses", "dbu ma"]
 totalChapters: 15
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["middle length discourses", "Buddha", "doctrine", "practice"]

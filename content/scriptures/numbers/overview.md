@@ -2,7 +2,7 @@
 title: "Numbers"
 slug: "numbers"
 religion: "christianity"
-aliases: ["Bamidbar", "민수기"]
+aliases: ["Bamidbar", "민수기", "民数记", "民数記", "במדבר", "سفر العدد", "Ἀριθμοί", "Numeri", "Numeri", "Nombres", "Números", "Числа", "Book of Numbers"]
 totalChapters: 36
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["wilderness", "wandering", "census", "rebellion", "faithfulness", "priesthood", "promised land"]

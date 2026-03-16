@@ -2,7 +2,7 @@
 title: "Homeric Hymns"
 slug: "homeric-hymns"
 religion: "ancient-greek"
-aliases: ["\ud638\uba54\ub85c\uc2a4 \ucc2c\uac00", "Homeric Hymns"]
+aliases: ["호메로스 찬가", "Homeric Hymns", "Ὕμνοι Ὁμηρικοί", "荷马颂歌", "ホメーロス讃歌", "Гомеровские гимны", "Hymnes homériques", "Homerische Hymnen", "Himnos homéricos", "Hymni Homerici"]
 totalChapters: 33
 traditions: ["academic", "comparative", "philosophical", "theological", "literary", "interfaith"]
 tags: ["Homer", "gods", "mythology", "epic", "worship"]

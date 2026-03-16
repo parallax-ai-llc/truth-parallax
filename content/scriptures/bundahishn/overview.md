@@ -2,7 +2,7 @@
 title: "Bundahishn"
 slug: "bundahishn"
 religion: "zoroastrianism"
-aliases: ["분다히쉰", "Bundahišn", "Primal Creation"]
+aliases: ["분다히쉰", "Bundahišn", "Primal Creation", "بندهشن", "創造之書", "ブンダヒシュン", "Бундахишн", "Bundahischn", "Création primordiale", "Creación primordial", "Original Creation", "Zand-ākāsīh"]
 totalChapters: 36
 traditions: ['zoroastrian', 'academic', 'comparative', 'protestant', 'jewish', 'islamic']
 tags: ["creation", "cosmogony", "eschatology", "Pahlavi"]

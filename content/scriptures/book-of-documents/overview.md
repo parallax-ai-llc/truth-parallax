@@ -2,7 +2,7 @@
 title: "Book of Documents"
 slug: "book-of-documents"
 religion: "confucianism"
-aliases: ["Shujing", "Shangshu", "서경"]
+aliases: ["Shujing", "Shangshu", "서경", "书经", "尚書", "しょきょう", "Livre des Documents", "Libro de los Documentos", "Buch der Urkunden", "Шу-цзин", "Classic of History"]
 totalChapters: 5
 traditions: ["confucian", "neo-confucian", "daoist", "buddhist-chinese", "academic", "comparative"]
 tags: ["governance", "mandate of heaven", "sage kings", "political philosophy"]

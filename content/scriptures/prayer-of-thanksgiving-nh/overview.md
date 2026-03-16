@@ -2,7 +2,7 @@
 title: "Prayer of Thanksgiving"
 slug: "prayer-of-thanksgiving-nh"
 religion: "gnosticism"
-aliases: ["감사의 기도", "Prayer of Thanksgiving"]
+aliases: ["감사의 기도", "Prayer of Thanksgiving", "感恩祷文", "感謝の祈り", "Молитва благодарения", "Prière d'action de grâces", "Dankgebet", "Oración de acción de gracias"]
 totalChapters: 2
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Hermetic", "prayer", "thanksgiving", "gnosis"]

@@ -2,7 +2,7 @@
 title: "Hidden Words"
 slug: "hidden-words"
 religion: "bahai"
-aliases: ["숨겨진 말씀", "Hidden Words", "Kalimát-i-Maknúnih"]
+aliases: ["숨겨진 말씀", "Hidden Words", "Kalimát-i-Maknúnih", "کلمات مکنونه", "隐言经", "隠された言葉", "Сокровенные Слова", "Les Paroles Cachées", "Die Verborgenen Worte", "Las Palabras Ocultas"]
 totalChapters: 15
 traditions: ["bahai", "academic", "comparative", "islamic", "christian", "interfaith"]
 tags: ["Bahá'u'lláh", "ethics", "mysticism", "meditation"]

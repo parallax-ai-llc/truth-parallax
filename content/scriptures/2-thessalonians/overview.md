@@ -2,7 +2,7 @@
 title: "2 Thessalonians"
 slug: "2-thessalonians"
 religion: "christianity"
-aliases: ["Pros Thessalonikeis B", "데살로니가후서"]
+aliases: ["Pros Thessalonikeis B", "데살로니가후서", "帖撒罗尼迦后书", "テサロニケの信徒への手紙二", "השנייה אל התסלוניקים", "رسالة تسالونيكي الثانية", "2. Thessalonicher", "2 Thessaloniciens", "2 Tesalonicenses", "2-е Фессалоникийцам", "Β΄ Θεσσαλονικεῖς", "Epistula II ad Thessalonicenses", "Second Thessalonians"]
 totalChapters: 3
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["man of lawlessness", "perseverance", "second coming", "work"]

@@ -2,7 +2,7 @@
 title: "Tobit"
 slug: "tobit"
 religion: "christianity"
-aliases: ["Tobias", "토빗"]
+aliases: ["Tobias", "토빗", "Τωβίτ", "多俾亚传", "トビト記", "Книга Товита", "Livre de Tobie", "Buch Tobit", "Libro de Tobías", "Tobit"]
 totalChapters: 14
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["angels", "prayer", "marriage", "healing", "diaspora", "faithfulness", "Raphael"]

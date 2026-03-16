@@ -2,7 +2,7 @@
 title: "2 Chronicles"
 slug: "2-chronicles"
 religion: "christianity"
-aliases: ["Divrei HaYamim Bet", "역대하"]
+aliases: ["Divrei HaYamim Bet", "역대하", "历代志下", "歴代誌下", "דברי הימים ב", "أخبار الأيام الثاني", "2. Chronik", "2 Chroniques", "2 Crónicas", "2 Паралипоменон", "Δεύτερο Χρονικών", "Liber II Paralipomenon", "Second Chronicles", "2 Chr"]
 totalChapters: 36
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["Solomon", "temple", "kingdom of Judah", "exile", "worship", "reform"]

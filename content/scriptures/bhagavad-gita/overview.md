@@ -2,7 +2,7 @@
 title: "Bhagavad Gita"
 slug: "bhagavad-gita"
 religion: "hinduism"
-aliases: ["Gita", "바가바드 기타"]
+aliases: ["Gita", "바가바드 기타", "薄伽梵歌", "バガヴァッド・ギーター", "भगवद्गीता", "بھگود گیتا", "Bhagavad-Gîtâ", "Bhagavad-Gîtâ", "Bhagavad Gita", "Бхагавад-гита", "Song of the Lord", "श्रीमद्भगवद्गीता"]
 totalChapters: 18
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["dharma", "karma yoga", "bhakti", "jnana", "Arjuna", "Krishna", "self-realization"]

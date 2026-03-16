@@ -2,7 +2,7 @@
 title: "War Scroll"
 slug: "war-scroll"
 religion: "judaism"
-aliases: ["1QM", "Milhamah", "전쟁두루마리"]
+aliases: ["1QM", "Milhamah", "전쟁 두루마리", "מגילת המלחמה", "战争卷轴", "戦争の巻物", "Свиток Войны", "Le Rouleau de la Guerre", "Die Kriegsrolle", "El Rollo de la Guerra", "War Scroll"]
 totalChapters: 5
 traditions: ["essene", "judaism", "protestantism", "catholicism", "eastern-orthodox", "academic"]
 tags: ["eschatological battle", "Sons of Light", "Sons of Darkness", "angels", "holy war", "Qumran"]

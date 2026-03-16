@@ -2,7 +2,7 @@
 title: "Jami at-Tirmidhi"
 slug: "hadith-tirmidhi"
 religion: "islam"
-aliases: ["Sunan al-Tirmidhi", "티르미디 하디스"]
+aliases: ["Sunan al-Tirmidhi", "티르미디 하디스", "جامع الترمذي", "铁尔密济圣训集", "ジャーミウ・アッ＝ティルミズィー", "Сунан ат-Тирмизи", "Jami at-Tirmidhi", "Jami d'at-Tirmidhi", "Dschami' at-Tirmidhi", "Yami de at-Tirmidhi"]
 totalChapters: 5
 traditions: ["sunni", "shia", "sufi", "salafi", "academic", "comparative"]
 tags: ["hadith", "sunnah", "fiqh", "grading", "prophetic tradition"]

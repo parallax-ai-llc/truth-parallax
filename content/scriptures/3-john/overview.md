@@ -2,7 +2,7 @@
 title: "3 John"
 slug: "3-john"
 religion: "christianity"
-aliases: ["Ioannou G", "요한3서"]
+aliases: ["Ioannou G", "요한3서", "约翰三书", "ヨハネの手紙三", "השלישית של יוחנן", "رسالة يوحنا الثالثة", "3. Johannes", "3 Jean", "3 Juan", "3-е Иоанна", "Γ΄ Ιωάννου", "Epistula III Ioannis", "Third John"]
 totalChapters: 1
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["hospitality", "truth", "leadership", "Diotrephes"]

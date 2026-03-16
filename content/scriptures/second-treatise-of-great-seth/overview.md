@@ -2,7 +2,7 @@
 title: "Second Treatise of the Great Seth"
 slug: "second-treatise-of-great-seth"
 religion: "gnosticism"
-aliases: ["위대한 세트의 두 번째 논문", "Second Treatise of the Great Seth"]
+aliases: ["위대한 세트의 두 번째 논문", "Second Treatise of the Great Seth", "伟大塞特的第二篇论文", "偉大なるセトの第二論文", "Второй трактат Великого Сифа", "Second traité du grand Seth", "Zweite Abhandlung des großen Seth", "Segundo tratado del gran Set", "ⲡⲙⲉϩⲥⲛⲁⲩ ⲛⲗⲟⲅⲟⲥ ⲛϭⲓ ⲥⲏⲑ"]
 totalChapters: 4
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Seth", "docetism", "laughing Jesus", "crucifixion"]

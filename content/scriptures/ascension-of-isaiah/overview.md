@@ -2,7 +2,7 @@
 title: "Ascension of Isaiah"
 slug: "ascension-of-isaiah"
 religion: "christianity"
-aliases: ["이사야의 승천","Ascension of Isaiah"]
+aliases: ["이사야의 승천", "Ascension of Isaiah", "以赛亚升天记", "イザヤの昇天", "עליית ישעיהו", "صعود إشعياء", "Himmelfahrt des Jesaja", "Ascension d\u0027Isaïe", "Ascensión de Isaías", "Вознесение Исаии", "Ascensio Isaiae"]
 totalChapters: 11
 traditions: ["academic","comparative","protestant","catholic","eastern-orthodox","interfaith"]
 tags: ["martyrdom","heavenly ascent","vision","Beloved","Beliar"]

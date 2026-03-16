@@ -2,7 +2,7 @@
 title: "Holy Piby"
 slug: "holy-piby"
 religion: "rastafari"
-aliases: ["홀리 파이비", "Holy Piby"]
+aliases: ["홀리 파이비", "Holy Piby", "圣派比", "ホーリー・パイビー", "Святая Пайби", "Le Saint Piby", "Die Heilige Piby", "El Santo Piby", "The Black Man's Bible"]
 totalChapters: 4
 traditions: ["rastafari", "academic", "comparative", "ethiopian-orthodox", "protestant", "interfaith"]
 tags: ["Athlyi Rogers", "Blackman", "Ethiopia", "prophecy"]

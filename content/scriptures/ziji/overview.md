@@ -2,7 +2,7 @@
 title: "Ziji"
 slug: "ziji"
 religion: "bon"
-aliases: ["지지", "gZi brjid", "The Glorious"]
+aliases: ["지지", "gZi brjid", "The Glorious", "གཟི་བརྗིད", "辉煌", "ズィジ", "Зиджи", "Ziji"]
 totalChapters: 12
 traditions: ["bon", "academic", "comparative", "tibetan", "philosophical", "interfaith"]
 tags: ["Tonpa Shenrab", "biography", "liberation", "compassion"]

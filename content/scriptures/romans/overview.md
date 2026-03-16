@@ -2,7 +2,7 @@
 title: "Romans"
 slug: "romans"
 religion: "christianity"
-aliases: ["Pros Romaious", "로마서"]
+aliases: ["Pros Romaious", "로마서", "罗马书", "ローマの信徒への手紙", "אגרת אל הרומים", "الرسالة إلى أهل رومية", "Πρὸς Ῥωμαίους", "Epistula ad Romanos", "Römerbrief", "Épître aux Romains", "Epístola a los Romanos", "Послание к Римлянам", "Epistle to the Romans"]
 totalChapters: 16
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["justification", "faith", "grace", "law", "Israel", "Spirit", "righteousness"]

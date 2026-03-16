@@ -2,7 +2,7 @@
 title: "Colossians"
 slug: "colossians"
 religion: "christianity"
-aliases: ["Pros Kolossaeis", "골로새서"]
+aliases: ["Pros Kolossaeis", "골로새서", "歌罗西书", "コロサイの信徒への手紙", "אגרת אל הקולוסים", "Πρὸς Κολοσσαεῖς", "Epistula ad Colossenses", "Послание к Колоссянам", "Épître aux Colossiens", "Carta a los Colosenses", "Kolosserbrief"]
 totalChapters: 4
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["supremacy of Christ", "fullness", "cosmic Christ", "new self", "household codes"]

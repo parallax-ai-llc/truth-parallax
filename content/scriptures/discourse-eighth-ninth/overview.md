@@ -2,7 +2,7 @@
 title: "Discourse on the Eighth and Ninth"
 slug: "discourse-eighth-ninth"
 religion: "gnosticism"
-aliases: ["제8과 제9에 관한 담론", "Discourse on the Eighth and Ninth"]
+aliases: ["제8과 제9에 관한 담론", "Discourse on the Eighth and Ninth", "关于第八和第九的论述", "第八と第九についての論考", "Рассуждение о Восьмом и Девятом", "Discours sur l'Ogdoade et l'Ennéade", "Discurso sobre la Octava y la Novena", "Logos peri tēs Ogdoados kai Enneados"]
 totalChapters: 3
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Hermetic", "ascent", "mystical experience", "initiation"]

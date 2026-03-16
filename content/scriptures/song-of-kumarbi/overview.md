@@ -2,7 +2,7 @@
 title: "Song of Kumarbi"
 slug: "song-of-kumarbi"
 religion: "ancient-hittite"
-aliases: ["쿠마르비의 노래", "Kingship in Heaven", "Song of Kumarbi"]
+aliases: ["쿠마르비의 노래", "Kingship in Heaven", "Song of Kumarbi", "库马尔比之歌", "クマルビの歌", "Песнь Кумарби", "Chant de Kumarbi", "Lied des Kumarbi", "Canción de Kumarbi"]
 totalChapters: 5
 traditions: ["academic", "comparative", "theological", "literary", "archaeological", "interfaith"]
 tags: ["Kumarbi", "Teshub", "succession", "theogony", "kingship in heaven"]

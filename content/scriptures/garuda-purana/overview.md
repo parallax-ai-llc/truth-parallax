@@ -2,7 +2,7 @@
 title: "Garuda Purana"
 slug: "garuda-purana"
 religion: "hinduism"
-aliases: ['가루다 푸라나', 'Garuḍa Purāṇa']
+aliases: ['가루다 푸라나', 'Garuḍa Purāṇa', 'गरुड पुराण', '迦楼罗往世书', 'ガルダ・プラーナ', 'Гаруда-пурана', 'Garuda Purana', 'Le Garuda Purana']
 totalChapters: 3
 traditions: ['vaishnavism', 'shaivism', 'advaita', 'dvaita', 'academic', 'comparative']
 tags: ['Garuda', 'death', 'afterlife', 'funeral rites', 'gemology']

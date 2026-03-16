@@ -2,7 +2,7 @@
 title: "Vendidad"
 slug: "vendidad"
 religion: "zoroastrianism"
-aliases: ["벤디다드", "Vidēvdād"]
+aliases: ["벤디다드", "Vidēvdād", "وندیداد", "驱魔书", "ヴェンディダード", "Вендидад", "Vendidad", "Videvdat", "Loi contre les démons"]
 totalChapters: 22
 traditions: ["zoroastrian", "academic", "comparative", "protestant", "jewish", "islamic"]
 tags: ["purity law", "demons", "ritual cleansing", "cosmogony"]

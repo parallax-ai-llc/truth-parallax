@@ -2,7 +2,7 @@
 title: "Gospel of Judas"
 slug: "gospel-of-judas"
 religion: "gnosticism"
-aliases: ["유다 복음서", "Gospel of Judas"]
+aliases: ["유다 복음서", "Gospel of Judas", "犹大福音", "ユダの福音書", "Εὐαγγέλιον Ἰούδα", "Evangelium Iudae", "Евангелие Иуды", "Évangile de Judas", "Evangelio de Judas", "Judasevangelium"]
 totalChapters: 4
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Judas", "Sethian", "cosmology", "betrayal", "liberation"]

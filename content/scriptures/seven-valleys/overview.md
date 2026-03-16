@@ -2,7 +2,7 @@
 title: "Seven Valleys"
 slug: "seven-valleys"
 religion: "bahai"
-aliases: ["일곱 골짜기", "Seven Valleys", "Haft-Vádí"]
+aliases: ["일곱 골짜기", "Seven Valleys", "Haft-Vádí", "هفت وادی", "七谷", "七つの谷", "Семь долин", "Les Sept Vallées", "Die Sieben Täler", "Los Siete Valles"]
 totalChapters: 7
 traditions: ["bahai", "academic", "comparative", "islamic", "christian", "interfaith"]
 tags: ["Bahá'u'lláh", "mysticism", "spiritual journey", "Sufi influence"]

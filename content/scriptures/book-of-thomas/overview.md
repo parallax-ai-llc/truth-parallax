@@ -2,7 +2,7 @@
 title: "Book of Thomas the Contender"
 slug: "book-of-thomas"
 religion: "gnosticism"
-aliases: ["토마스의 서", "Book of Thomas the Contender"]
+aliases: ["토마스의 서", "Book of Thomas the Contender", "多马之书", "トマスの書", "ספר תומאס", "كتاب توما", "Thomasbuch", "Livre de Thomas", "Libro de Tomás", "Книга Фомы", "Liber Thomae"]
 totalChapters: 4
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Thomas", "asceticism", "fire", "hidden words"]

@@ -2,7 +2,7 @@
 title: "Jabala Upanishad"
 slug: "jabala-upanishad"
 religion: "hinduism"
-aliases: ["\uc790\ubc1c\ub77c \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Jabalopanishad"]
+aliases: ["자발라 우파니샤드", "Jabalopanishad", "जाबाल उपनिषद्", "जाबालोपनिषद्", "阇婆罗奥义书", "ジャーバーラ・ウパニシャッド", "Джабала Упанишада", "Jabala Upanishad", "Jabala-Upanishad"]
 totalChapters: 6
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["renunciation", "sannyasa", "Yajur Veda"]

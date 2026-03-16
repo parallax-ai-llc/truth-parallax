@@ -2,7 +2,7 @@
 title: "Rig Veda"
 slug: "rig-veda"
 religion: "hinduism"
-aliases: ["Rigveda", "리그베다"]
+aliases: ["Rigveda", "리그베다", "ऋग्वेद", "梨俱吠陀", "リグ・ヴェーダ", "Ригведа", "Rig-Veda", "Ṛgveda"]
 totalChapters: 10
 traditions: ["traditional", "advaita", "vaishnavism", "shaivism", "academic", "comparative"]
 tags: ["hymns", "Agni", "Indra", "Soma", "creation", "cosmic order", "rta"]

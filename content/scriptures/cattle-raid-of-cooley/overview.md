@@ -2,7 +2,7 @@
 title: "Táin Bó Cúailnge"
 slug: "cattle-raid-of-cooley"
 religion: "celtic"
-aliases: ["쿨리의 소 약탈", "Táin Bó Cúailnge"]
+aliases: ["쿨리의 소 약탈", "Táin Bó Cúailnge", "库利牛之劫", "クーリーの牛争い", "Похищение быка из Куальнге", "Le Raid de Cooley", "La Razzia del Ganado de Cooley", "Der Rinderraub von Cooley", "The Táin", "Cattle Raid of Cooley"]
 totalChapters: 17
 traditions: ["academic", "comparative", "philosophical", "literary", "archaeological", "interfaith"]
 tags: ["Cú Chulainn", "Ulster Cycle", "Medb", "heroic", "Táin"]

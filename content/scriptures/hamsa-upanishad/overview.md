@@ -2,7 +2,7 @@
 title: "Hamsa Upanishad"
 slug: "hamsa-upanishad"
 religion: "hinduism"
-aliases: ["\ud568\uc0ac \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Hamsopanishad"]
+aliases: ["함사 우파니샤드", "Hamsopanishad", "हंस उपनिषद्", "हंसोपनिषद्", "鹅氏奥义书", "ハンサ・ウパニシャッド", "Хамса Упанишада", "Hamsa Upanishad", "Hamsa-Upanishad"]
 totalChapters: 3
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["hamsa", "swan", "paramahamsa", "meditation"]

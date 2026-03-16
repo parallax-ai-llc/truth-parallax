@@ -2,7 +2,7 @@
 title: "Testament of Solomon"
 slug: "testament-of-solomon"
 religion: "christianity"
-aliases: ["솔로몬의 유언", "Testament of Solomon"]
+aliases: ["솔로몬의 유언", "Testament of Solomon", "Διαθήκη Σολομῶνος", "צוואת שלמה", "所罗门遗训", "ソロモンの遺訓", "Завещание Соломона", "Testament de Salomon", "Testament Salomos", "Testamento de Salomón"]
 totalChapters: 26
 traditions: ["academic", "comparative", "protestant", "catholic", "eastern-orthodox", "interfaith"]
 tags: ["Solomon", "demons", "magic", "temple", "exorcism"]

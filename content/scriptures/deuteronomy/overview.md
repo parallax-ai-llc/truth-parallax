@@ -2,7 +2,7 @@
 title: "Deuteronomy"
 slug: "deuteronomy"
 religion: "christianity"
-aliases: ["Devarim", "신명기"]
+aliases: ["Devarim", "신명기", "דְּבָרִים", "申命记", "申命記", "Δευτερονόμιον", "Deuteronomium", "Второзаконие", "Deutéronome", "Deuteronomio", "Deuteronomium", "تثنیه"]
 totalChapters: 34
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["covenant renewal", "law", "Moses farewell", "promised land", "Shema", "blessings and curses"]

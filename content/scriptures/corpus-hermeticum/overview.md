@@ -2,7 +2,7 @@
 title: "Corpus Hermeticum"
 slug: "corpus-hermeticum"
 religion: "hermeticism"
-aliases: ["헤르메스 문서", "Corpus Hermeticum"]
+aliases: ["헤르메스 문서", "Corpus Hermeticum", "赫尔墨斯文集", "ヘルメス文書", "Ερμητικό Σώμα", "Герметический корпус", "Le Corpus Hermétique", "El Corpus Hermeticum", "Das Corpus Hermeticum", "Hermetic Writings"]
 totalChapters: 18
 traditions: ["hermetic", "academic", "comparative", "gnostic", "philosophical", "interfaith"]
 tags: ["Hermes Trismegistus", "gnosis", "nous", "cosmology", "alchemy"]

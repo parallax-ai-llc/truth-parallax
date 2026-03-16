@@ -2,7 +2,7 @@
 title: "Testimony of Truth"
 slug: "testimony-of-truth"
 religion: "gnosticism"
-aliases: ["진리의 증언", "Testimony of Truth"]
+aliases: ["진리의 증언", "Testimony of Truth", "真理的证言", "真理の証言", "Свидетельство истины", "Le Témoignage de Vérité", "Das Zeugnis der Wahrheit", "El Testimonio de la Verdad", "ⲧⲙⲛⲧⲙⲛⲧⲣⲉ ⲛⲧⲙⲉ"]
 totalChapters: 3
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["truth", "baptism", "martyrdom", "anti-catholic"]

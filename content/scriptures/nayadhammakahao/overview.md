@@ -2,7 +2,7 @@
 title: "Nayadhammakahao"
 slug: "nayadhammakahao"
 religion: "jainism"
-aliases: ["나야담마카하오", "Nāyādhammakahāo", "Jñātṛdharmakathāḥ"]
+aliases: ["나야담마카하오", "Nāyādhammakahāo", "Jñātṛdharmakathāḥ", "知者法话", "ナーヤーダンマカハーオ", "Наядхаммакахао", "Gnatadharmakatha"]
 totalChapters: 10
 traditions: ["digambara", "shvetambara", "academic", "comparative", "philosophical", "interfaith"]
 tags: ["narratives", "monks", "renunciation", "karma"]

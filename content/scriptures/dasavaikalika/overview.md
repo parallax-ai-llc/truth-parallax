@@ -2,7 +2,7 @@
 title: "Dasavaikalika"
 slug: "dasavaikalika"
 religion: "jainism"
-aliases: ["다사바이칼리카", "Daśavaikālika Sūtra"]
+aliases: ["다사바이칼리카", "Daśavaikālika Sūtra", "दशवैकालिक सूत्र", "十时经", "ダシャヴァイカーリカ・スートラ", "Дашавайкалика-сутра", "Dasavaikalika Sutra"]
 totalChapters: 10
 traditions: ["digambara", "shvetambara", "academic", "comparative", "philosophical", "interfaith"]
 tags: ["monastic conduct", "asceticism", "discipline"]

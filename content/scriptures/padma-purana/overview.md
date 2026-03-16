@@ -2,7 +2,7 @@
 title: "Padma Purana"
 slug: "padma-purana"
 religion: "hinduism"
-aliases: ['파드마 푸라나', 'Padma Purāṇa']
+aliases: ["파드마 푸라나", "Padma Purāṇa", "पद्मपुराण", "莲花往世书", "パドマ・プラーナ", "Падма Пурана", "Padma Purana"]
 totalChapters: 6
 traditions: ['vaishnavism', 'shaivism', 'advaita', 'dvaita', 'academic', 'comparative']
 tags: ['Vishnu', 'lotus', 'festivals', 'pilgrimage']

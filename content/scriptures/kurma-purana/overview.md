@@ -2,7 +2,7 @@
 title: "Kurma Purana"
 slug: "kurma-purana"
 religion: "hinduism"
-aliases: ['쿠르마 푸라나', 'Kūrma Purāṇa']
+aliases: ["쿠르마 푸라나", "Kūrma Purāṇa", "कूर्म पुराण", "龟往世书", "クールマ・プラーナ", "Курма Пурана", "Kurma Purana", "Kurma-Purana"]
 totalChapters: 4
 traditions: ['vaishnavism', 'shaivism', 'advaita', 'dvaita', 'academic', 'comparative']
 tags: ['Kurma', 'tortoise avatar', 'Shiva', 'Vishnu']

@@ -2,7 +2,7 @@
 title: "Markandeya Purana"
 slug: "markandeya-purana"
 religion: "hinduism"
-aliases: ['마르칸데야 푸라나', 'Mārkaṇḍeya Purāṇa']
+aliases: ["마르칸데야 푸라나", "Mārkaṇḍeya Purāṇa", "मार्कण्डेयपुराण", "马根德耶往世书", "マールカンデーヤ・プラーナ", "Маркандея Пурана", "Markandeya Purana"]
 totalChapters: 9
 traditions: ['vaishnavism', 'shaivism', 'advaita', 'dvaita', 'academic', 'comparative']
 tags: ['Devi Mahatmya', 'Durga', 'goddess', 'creation']

@@ -2,7 +2,7 @@
 title: "Abhidhamma Pitaka"
 slug: "abhidhamma-pitaka"
 religion: "buddhism"
-aliases: ["논장", "論藏", "Abhidhamma Piṭaka"]
+aliases: ["논장", "論藏", "Abhidhamma Piṭaka", "阿毗达磨藏", "アビダンマ・ピタカ", "อภิธรรมปิฎก", "ཆོས་མངོན་པའི་སྡེ་སྣོད", "अभिधम्मपिटक", "Korb der Höheren Lehre", "Corbeille de la Doctrine Supérieure", "Canasta de la Doctrina Superior", "Абхидхамма-питака", "Higher Doctrine Basket"]
 totalChapters: 7
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["philosophy", "mind", "matter", "conditional relations"]

@@ -2,7 +2,7 @@
 title: "Kaushitaki Upanishad"
 slug: "kaushitaki-upanishad"
 religion: "hinduism"
-aliases: ["\uce74\uc6b0\uc2dc\ud0c0\ud0a4 \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Kaushitaki Brahmana Upanishad"]
+aliases: ["카우시타키 우파니샤드", "Kaushitaki Brahmana Upanishad", "कौषीतकि उपनिषद्", "कौषीतकिब्राह्मणोपनिषद्", "乔尸多基奥义书", "カウシータキー・ウパニシャッド", "Каушитаки Упанишада", "Kaushitaki-Upanishad"]
 totalChapters: 4
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["prana", "transmigration", "Indra", "Rig Veda"]

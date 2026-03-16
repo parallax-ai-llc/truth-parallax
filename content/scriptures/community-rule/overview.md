@@ -2,7 +2,7 @@
 title: "Community Rule"
 slug: "community-rule"
 religion: "judaism"
-aliases: ["1QS", "Serekh ha-Yahad", "공동체 규칙서"]
+aliases: ["1QS", "Serekh ha-Yahad", "공동체 규칙서", "סרך היחד", "共同体规则", "共同体の規則", "Устав общины", "Règle de la Communauté", "Regla de la Comunidad", "Gemeinderegel", "Manual of Discipline"]
 totalChapters: 6
 traditions: ["essene", "judaism", "protestantism", "catholicism", "eastern-orthodox", "academic"]
 tags: ["Essene", "covenant", "dualism", "purity", "community", "two spirits", "Qumran"]

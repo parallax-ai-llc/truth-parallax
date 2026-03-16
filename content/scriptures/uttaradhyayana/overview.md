@@ -2,7 +2,7 @@
 title: "Uttaradhyayana"
 slug: "uttaradhyayana"
 religion: "jainism"
-aliases: ["우타라댜야나", "Uttarādhyayana Sūtra"]
+aliases: ["우타라댜야나", "Uttarādhyayana Sūtra", "उत्तराध्ययन सूत्र", "上学经", "ウッタラーディヤヤナ・スートラ", "Уттарадхьяяна-сутра", "Uttaradhyayana Sutra"]
 totalChapters: 36
 traditions: ["digambara", "shvetambara", "academic", "comparative", "philosophical", "interfaith"]
 tags: ["Mahavira final teachings", "ethics", "stories", "liberation"]

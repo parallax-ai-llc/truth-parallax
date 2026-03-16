@@ -2,7 +2,7 @@
 title: "Acharanga Sutra"
 slug: "acharanga-sutra"
 religion: "jainism"
-aliases: ["아카랑가 수트라", "Ācārāṅga Sūtra"]
+aliases: ["아카랑가 수트라", "Ācārāṅga Sūtra", "阿含经", "アーチャーランガ・スートラ", "आचारांग सूत्र", "Acharanga Sutra", "Livre de la Bonne Conduite", "Libro de Buena Conducta", "Ачаранга-сутра", "Āyāraṅga Sutta"]
 totalChapters: 16
 traditions: ["digambara", "shvetambara", "academic", "comparative", "philosophical", "interfaith"]
 tags: ["ahimsa", "asceticism", "monastic conduct", "Mahavira"]

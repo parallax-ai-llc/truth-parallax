@@ -2,7 +2,7 @@
 title: "Philemon"
 slug: "philemon"
 religion: "christianity"
-aliases: ["Pros Philemona", "빌레몬서"]
+aliases: ["Pros Philemona", "빌레몬서", "腓利门书", "フィレモンへの手紙", "אגרת אל פילימון", "رسالة فليمون", "Πρὸς Φιλήμονα", "Epistula ad Philemonem", "Philemonbrief", "Épître à Philémon", "Epístola a Filemón", "Послание к Филимону", "Epistle to Philemon"]
 totalChapters: 1
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["forgiveness", "reconciliation", "slavery", "brotherhood", "appeal"]

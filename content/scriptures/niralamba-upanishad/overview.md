@@ -2,7 +2,7 @@
 title: "Niralamba Upanishad"
 slug: "niralamba-upanishad"
 religion: "hinduism"
-aliases: ["\ub2c8\ub784\ub78c\ubc14 \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Niralambopanishad"]
+aliases: ["니랄람바 우파니샤드", "Niralambopanishad", "निरालम्बोपनिषद्", "无依奥义书", "ニラーランバ・ウパニシャッド", "Нираламба Упанишад", "Nirālamba Upaniṣad"]
 totalChapters: 3
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["independence", "self-knowledge", "liberation"]

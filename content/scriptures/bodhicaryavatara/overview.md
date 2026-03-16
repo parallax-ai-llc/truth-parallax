@@ -2,7 +2,7 @@
 title: "Bodhicaryavatara"
 slug: "bodhicaryavatara"
 religion: "buddhism"
-aliases: ["보살행론","入菩薩行論","Guide to the Bodhisattva's Way of Life"]
+aliases: ["보살행론", "入菩薩行論", "Guide to the Bodhisattva\u0027s Way of Life", "入菩萨行论", "ボーディチャリヤーヴァターラ", "โพธิจรรยาวตาร", "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ", "बोधिचर्यावतार", "Bodhicaryāvatāra", "Introduction à la Pratique des Bodhisattvas", "Guía del Modo de Vida del Bodhisattva", "Бодхичарья-аватара", "Eintritt in den Weg zur Erleuchtung"]
 totalChapters: 10
 traditions: ["theravada","mahayana","zen","tibetan","academic","comparative"]
 tags: ["Shantideva","bodhisattva","compassion","patience","wisdom"]

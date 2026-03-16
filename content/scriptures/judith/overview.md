@@ -2,7 +2,7 @@
 title: "Judith"
 slug: "judith"
 religion: "christianity"
-aliases: ["Yehudit", "유딧"]
+aliases: ["Yehudit", "유딧", "יהודית", "يهوديت", "犹滴传", "ユディト記", "Ἰουδίθ", "Iudith", "Книга Иудифи", "Judith", "Judit"]
 totalChapters: 16
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["courage", "faith", "deliverance", "widow", "prayer", "holy war", "Holofernes"]

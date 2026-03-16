@@ -2,7 +2,7 @@
 title: "Treatise on the Resurrection"
 slug: "treatise-on-resurrection"
 religion: "gnosticism"
-aliases: ["부활론", "Treatise on the Resurrection"]
+aliases: ["부활론", "Treatise on the Resurrection", "Epistle to Rheginos", "论复活", "復活についての論考", "Трактат о воскресении", "Le Traité de la résurrection", "Die Abhandlung über die Auferstehung", "Tratado sobre la Resurrección"]
 totalChapters: 3
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["resurrection", "Valentinian", "spiritual body"]

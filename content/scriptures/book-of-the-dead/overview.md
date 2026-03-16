@@ -2,7 +2,7 @@
 title: "Book of the Dead"
 slug: "book-of-the-dead"
 religion: "ancient-egyptian"
-aliases: ["사자의 서", "Book of Coming Forth by Day", "Pert Em Hru"]
+aliases: ["사자의 서", "Book of Coming Forth by Day", "Pert Em Hru", "亡灵书", "死者の書", "كتاب الموتى", "Totenbuch", "Livre des Morts", "Libro de los Muertos", "Книга мёртвых", "Reu nu pert em hru"]
 totalChapters: 42
 traditions: ["academic", "comparative", "hermetic", "theological", "archaeological", "interfaith"]
 tags: ["afterlife", "judgment", "Osiris", "Ma'at", "funerary"]

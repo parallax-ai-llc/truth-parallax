@@ -2,7 +2,7 @@
 title: "Xunzi"
 slug: "xunzi"
 religion: "confucianism"
-aliases: ["순자", "荀子", "Xunzi"]
+aliases: ["순자", "荀子", "Xunzi", "じゅんし", "Сюнь-цзы", "Le Xunzi"]
 totalChapters: 32
 traditions: ["confucian", "neo-confucian", "daoist", "buddhist-chinese", "academic", "comparative"]
 tags: ["Xunzi", "human nature evil", "ritual", "education", "government"]

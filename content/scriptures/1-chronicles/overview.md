@@ -2,7 +2,7 @@
 title: "1 Chronicles"
 slug: "1-chronicles"
 religion: "christianity"
-aliases: ["Divrei HaYamim Aleph", "역대상"]
+aliases: ["Divrei HaYamim Aleph", "역대상", "历代志上", "歴代誌上", "דברי הימים א", "أخبار الأيام الأول", "1. Chronik", "1 Chroniques", "1 Crónicas", "1 Паралипоменон", "Πρώτο Χρονικών", "Liber I Paralipomenon", "First Chronicles", "1 Chr"]
 totalChapters: 29
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["genealogy", "temple", "David", "worship", "Levites", "covenant", "priestly order"]

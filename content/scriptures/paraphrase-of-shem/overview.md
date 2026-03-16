@@ -2,7 +2,7 @@
 title: "Paraphrase of Shem"
 slug: "paraphrase-of-shem"
 religion: "gnosticism"
-aliases: ["셈의 해석", "Paraphrase of Shem"]
+aliases: ["셈의 해석", "Paraphrase of Shem", "闪的释义", "セムの解釈", "Парафраз Сима", "Paraphrase de Sem", "Paráfrasis de Sem"]
 totalChapters: 7
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Shem", "cosmogony", "three roots", "light darkness"]

@@ -2,7 +2,7 @@
 title: "Han Feizi"
 slug: "han-feizi"
 religion: "chinese-philosophy"
-aliases: ["한비자", "韓非子", "Han Feizi"]
+aliases: ["한비자", "韓非子", "Han Feizi", "韩非子", "かんぴし", "Хань Фэй-цзы", "Han Fei Zi", "Han Feizi le légiste", "Han Fei Tzu"]
 totalChapters: 20
 traditions: ["confucian", "neo-confucian", "daoist", "buddhist-chinese", "academic", "comparative"]
 tags: ["Han Fei", "legalism", "power", "law", "statecraft"]

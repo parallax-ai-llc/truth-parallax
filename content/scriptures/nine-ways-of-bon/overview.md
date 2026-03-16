@@ -2,7 +2,7 @@
 title: "Nine Ways of Bon"
 slug: "nine-ways-of-bon"
 religion: "bon"
-aliases: ["본교 구도", "Nine Ways of Bon"]
+aliases: ["본교 구도", "Nine Ways of Bon", "苯教九乘", "ボン教九つの道", "བོན་གྱི་ཐེག་པ་རིམ་དགུ", "Девять путей Бон", "Les neuf voies du Bön", "Die neun Wege des Bön"]
 totalChapters: 9
 traditions: ["bon", "academic", "comparative", "tibetan", "philosophical", "interfaith"]
 tags: ["Tonpa Shenrab", "Zhang Zhung", "cosmology", "ritual"]

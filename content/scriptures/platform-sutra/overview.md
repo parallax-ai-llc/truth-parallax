@@ -2,7 +2,7 @@
 title: "Platform Sutra"
 slug: "platform-sutra"
 religion: "buddhism"
-aliases: ["Liuzu Tanjing", "육조단경"]
+aliases: ["Liuzu Tanjing", "육조단경", "六祖坛经", "六祖壇經", "ろくそだんきょう", "พระสูตรแห่งหกสังฆปรินายก", "Сутра помоста", "Plateforme Soutra", "Plattform-Sutra", "Sutra de la Plataforma", "Platform Sutra of the Sixth Patriarch"]
 totalChapters: 10
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["sudden enlightenment", "buddha-nature", "Huineng", "Chan/Zen", "meditation"]

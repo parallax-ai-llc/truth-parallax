@@ -1,7 +1,7 @@
 ---
 title: "Song of Solomon"
 slug: "song-of-solomon"
-aliases: ["Shir HaShirim", "아가"]
+aliases: ["Shir HaShirim", "아가", "שִׁיר הַשִּׁירִים", "雅歌", "雅歌", "ᾎσμα ᾀσμάτων", "Canticum Canticorum", "Песнь песней Соломона", "Le Cantique des Cantiques", "Das Hohelied", "Cantar de los Cantares", "Song of Songs"]
 totalChapters: 8
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["love", "allegory", "mysticism", "bride", "beloved"]

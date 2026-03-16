@@ -2,7 +2,7 @@
 title: "Lebor Gabála Érenn"
 slug: "book-of-invasions"
 religion: "celtic"
-aliases: ["침략의 서", "Lebor Gabála Érenn", "Book of Invasions"]
+aliases: ["침략의 서", "Lebor Gabála Érenn", "Book of Invasions", "入侵之书", "侵入の書", "Buch der Invasionen", "Livre des Invasions", "Libro de las Invasiones", "Книга вторжений", "Leabhar Gabhála Éireann"]
 totalChapters: 8
 traditions: ["academic", "comparative", "philosophical", "literary", "archaeological", "interfaith"]
 tags: ["Irish", "Tuatha Dé Danann", "Fomorians", "mythological history"]

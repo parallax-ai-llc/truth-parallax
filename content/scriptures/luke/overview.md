@@ -2,7 +2,7 @@
 title: "Luke"
 slug: "luke"
 religion: "christianity"
-aliases: ["Loukas", "누가복음"]
+aliases: ["Loukas", "누가복음", "Εὐαγγέλιον κατὰ Λουκᾶν", "لوقا", "路加福音", "ルカによる福音書", "Evangelium secundum Lucam", "Евангелие от Луки", "Évangile selon Luc", "Lukasevangelium", "Evangelio según Lucas"]
 totalChapters: 24
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["Son of Man", "outcasts", "prayer", "Holy Spirit", "parables", "salvation history", "women"]

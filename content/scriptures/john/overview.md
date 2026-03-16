@@ -2,7 +2,7 @@
 title: "John"
 slug: "john"
 religion: "christianity"
-aliases: ["Yochanan", "요한복음"]
+aliases: ["Yochanan", "요한복음", "Εὐαγγέλιον κατὰ Ἰωάννην", "יוחנן", "إنجيل يوحنا", "约翰福音", "ヨハネによる福音書", "Evangelium secundum Ioannem", "Евангелие от Иоанна", "Évangile selon Jean", "Johannesevangelium", "Evangelio según Juan"]
 totalChapters: 21
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["Logos", "signs", "I AM sayings", "eternal life", "incarnation", "glory", "Paraclete"]

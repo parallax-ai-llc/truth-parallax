@@ -2,7 +2,7 @@
 title: "Sandilya Upanishad"
 slug: "sandilya-upanishad"
 religion: "hinduism"
-aliases: ["\uc0b0\ub51c\uc57c \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Sandilyopanishad"]
+aliases: ["산딜야 우파니샤드", "Sandilyopanishad", "शाण्डिल्य उपनिषद्", "尚迪利亚奥义书", "シャーンディリヤ・ウパニシャッド", "Śāṇḍilya Upaniṣad", "Шандилья-упанишада", "Sandilya Upanishad"]
 totalChapters: 3
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["yoga", "eight limbs", "nadis", "Sandilya"]

@@ -2,7 +2,7 @@
 title: "Dhammapada"
 slug: "dhammapada"
 religion: "buddhism"
-aliases: ["법구경", "Path of Dhamma"]
+aliases: ["법구경", "Path of Dhamma", "धम्मपद", "法句经", "ダンマパダ", "ธรรมบท", "Дхаммапада", "Le Dhammapada", "El Dhammapada", "Dhammapada", "Verses of Truth", "ཆོས་ཀྱི་ཚིགས་སུ་བཅད་པ"]
 totalChapters: 26
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["ethics", "mindfulness", "impermanence", "suffering", "nirvana", "Buddha's words"]

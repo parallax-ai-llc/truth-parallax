@@ -2,7 +2,7 @@
 title: "Brahmanda Purana"
 slug: "brahmanda-purana"
 religion: "hinduism"
-aliases: ['브라흐만다 푸라나', 'Brahmāṇḍa Purāṇa']
+aliases: ["브라흐만다 푸라나", "Brahmāṇḍa Purāṇa", "梵卵往世书", "ブラフマーンダ・プラーナ", "ब्रह्माण्डपुराण", "بهرماندا پوران", "Brahmanda Purana", "Brahmanda Purâna", "Brahmanda Purana", "Брахманда-пурана"]
 totalChapters: 4
 traditions: ['vaishnavism', 'shaivism', 'advaita', 'dvaita', 'academic', 'comparative']
 tags: ['cosmic egg', 'Lalita Sahasranama', 'goddess', 'cosmology']

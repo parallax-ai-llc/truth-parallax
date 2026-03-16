@@ -2,7 +2,7 @@
 title: "Pesher Habakkuk"
 slug: "pesher-habakkuk"
 religion: "judaism"
-aliases: ["1QpHab", "하박국 해석서"]
+aliases: ["1QpHab", "하박국 해석서", "哈巴谷书注释", "ハバクク書注解", "פשר חבקוק", "Пешер Аввакума", "Commentaire d'Habacuc", "Pesher Habakkuk"]
 totalChapters: 3
 traditions: ["essene", "judaism", "protestantism", "catholicism", "eastern-orthodox", "academic"]
 tags: ["pesher interpretation", "Teacher of Righteousness", "Wicked Priest", "Romans", "prophecy", "Qumran"]

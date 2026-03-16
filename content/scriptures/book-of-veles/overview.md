@@ -2,7 +2,7 @@
 title: "Book of Veles"
 slug: "book-of-veles"
 religion: "slavic"
-aliases: ["벨레스의 서", "Велесова книга", "Book of Veles"]
+aliases: ["벨레스의 서", "Велесова книга", "Book of Veles", "维列斯之书", "ヴェレスの書", "Книга Велеса", "Velesbuch", "Livre de Veles", "Libro de Veles", "Влесова книга", "Veles Book"]
 totalChapters: 9
 traditions: ["academic", "comparative", "philosophical", "literary", "archaeological", "interfaith"]
 tags: ["Slavic gods", "Svarog", "Perun", "Veles", "cosmology"]

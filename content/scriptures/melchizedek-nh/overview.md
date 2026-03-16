@@ -2,7 +2,7 @@
 title: "Melchizedek"
 slug: "melchizedek-nh"
 religion: "gnosticism"
-aliases: ["멜기세덱(나그함마디)", "Melchizedek"]
+aliases: ["멜기세덱(나그함마디)", "Melchizedek", "麦基洗德", "メルキゼデク", "מלכי־צדק", "ملكي صادق", "Μελχισεδέκ", "Мелхиседек"]
 totalChapters: 3
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Melchizedek", "priest", "Jesus", "Sethian"]

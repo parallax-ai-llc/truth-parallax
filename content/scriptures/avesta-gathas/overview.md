@@ -2,7 +2,7 @@
 title: "Avesta Gathas"
 slug: "avesta-gathas"
 religion: "zoroastrianism"
-aliases: ["Gathas of Zarathustra", "아베스타 가타"]
+aliases: ["Gathas of Zarathustra", "아베스타 가타", "阿维斯塔迦陀", "アヴェスター・ガーサー", "گاتاهای زرتشت", "غاثا الأفستا", "Gathas des Zarathustra", "Gâthâs de Zarathoustra", "Gathas de Zaratustra", "Гаты Заратуштры", "Gāθās"]
 totalChapters: 17
 traditions: ["zoroastrian", "academic", "comparative", "protestant", "jewish", "islamic"]
 tags: ["Ahura Mazda", "asha", "good and evil", "fire", "Zarathustra", "cosmic dualism"]

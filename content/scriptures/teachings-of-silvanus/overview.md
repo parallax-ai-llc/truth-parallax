@@ -2,7 +2,7 @@
 title: "Teachings of Silvanus"
 slug: "teachings-of-silvanus"
 religion: "gnosticism"
-aliases: ["실바누스의 가르침", "Teachings of Silvanus"]
+aliases: ["실바누스의 가르침", "Teachings of Silvanus", "西尔瓦努斯的教导", "シルウァヌスの教え", "Учения Силуана", "Les Enseignements de Silvanus", "Die Lehren des Silvanus", "Las Enseñanzas de Silvano", "ⲛⲥⲃⲱ ⲛⲥⲓⲗⲟⲩⲁⲛⲟⲥ"]
 totalChapters: 6
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["wisdom", "ethics", "soul", "Silvanus"]

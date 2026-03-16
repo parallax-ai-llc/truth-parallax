@@ -2,7 +2,7 @@
 title: "Varaha Purana"
 slug: "varaha-purana"
 religion: "hinduism"
-aliases: ['바라하 푸라나', 'Varāha Purāṇa']
+aliases: ["바라하 푸라나", "Varāha Purāṇa", "वराह पुराण", "野猪往世书", "ヴァラーハ・プラーナ", "Вараха-пурана", "Varaha Purana"]
 totalChapters: 6
 traditions: ['vaishnavism', 'shaivism', 'advaita', 'dvaita', 'academic', 'comparative']
 tags: ['Varaha', 'boar avatar', 'Vishnu', 'earth']

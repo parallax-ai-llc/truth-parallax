@@ -2,7 +2,7 @@
 title: "Kalevala"
 slug: "kalevala"
 religion: "finnish"
-aliases: ["\uce7c\ub808\ubc1c\ub77c", "Kalevala"]
+aliases: ["칼레발라", "Kalevala", "卡勒瓦拉", "カレワラ", "Калевала", "Le Kalevala", "Das Kalevala", "El Kalevala"]
 totalChapters: 50
 traditions: ["academic", "comparative", "philosophical", "literary", "archaeological", "interfaith"]
 tags: ["V\u00e4in\u00e4m\u00f6inen", "Sampo", "creation", "magic", "L\u00f6nnrot"]

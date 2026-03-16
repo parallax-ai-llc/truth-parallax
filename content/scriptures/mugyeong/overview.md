@@ -2,7 +2,7 @@
 title: "Mugyeong"
 slug: "mugyeong"
 religion: "korean-shamanism"
-aliases: ["\ubb34\uacbd", "\u5deb\u7d93", "Shaman Scriptures"]
+aliases: ["무경", "巫經", "Shaman Scriptures", "シャーマン経典", "Муген", "Mu-gyeong", "Shamanistic Scriptures"]
 totalChapters: 12
 traditions: ["shamanic", "academic", "comparative", "confucian", "buddhist-korean", "interfaith"]
 tags: ["gut", "shaman", "spirits", "healing", "ritual"]

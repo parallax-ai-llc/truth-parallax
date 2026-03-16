@@ -2,7 +2,7 @@
 title: "Poetic Edda"
 slug: "poetic-edda"
 religion: "norse"
-aliases: ["시적 에다", "Poetic Edda", "Elder Edda"]
+aliases: ["시적 에다", "Poetic Edda", "Elder Edda", "诗体埃达", "詩のエッダ", "Старшая Эдда", "Poetische Edda", "Edda poétique", "Edda poética", "Edda Sæmundar"]
 totalChapters: 29
 traditions: ["academic", "comparative", "philosophical", "literary", "archaeological", "interfaith"]
 tags: ["Odin", "Thor", "Ragnarok", "Völuspá", "mythology"]

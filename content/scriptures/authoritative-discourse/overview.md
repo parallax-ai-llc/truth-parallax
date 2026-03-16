@@ -2,7 +2,7 @@
 title: "Authoritative Discourse"
 slug: "authoritative-discourse"
 religion: "gnosticism"
-aliases: ["권위 있는 담론", "Authoritative Discourse"]
+aliases: ["권위 있는 담론", "Authoritative Discourse", "权威话语", "権威ある言説", "השיח הסמכותי", "الخطاب الموثوق", "Autoritative Rede", "Discours Autoritaire", "Discurso Autorizado", "Авторитетный дискурс", "Authentikos Logos"]
 totalChapters: 4
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["soul", "merchants", "spiritual warfare"]

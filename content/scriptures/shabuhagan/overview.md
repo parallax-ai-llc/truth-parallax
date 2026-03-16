@@ -2,7 +2,7 @@
 title: "Shabuhagan"
 slug: "shabuhagan"
 religion: "manichaeism"
-aliases: ["샤부라간", "Shābuhragān"]
+aliases: ["샤부라간", "Shābuhragān", "شاپورگان", "沙卜拉干", "シャーブフラガーン", "Шабухраган", "Shabuhagan", "Šābuhragān"]
 totalChapters: 8
 traditions: ["manichaean", "academic", "comparative", "gnostic", "christian", "interfaith"]
 tags: ["Mani", "eschatology", "cosmology", "Shapur"]

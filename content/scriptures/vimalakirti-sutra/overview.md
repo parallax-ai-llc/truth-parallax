@@ -2,7 +2,7 @@
 title: "Vimalakirti Sutra"
 slug: "vimalakirti-sutra"
 religion: "buddhism"
-aliases: ["Vimalakīrtinirdeśa", "유마경"]
+aliases: ["Vimalakīrtinirdeśa", "유마경", "維摩詰所說經", "維摩経", "ゆいまきょう", "สูตรวิมลกีรติ", "Сутра Вималакирти", "Sūtra de Vimalakīrti", "Vimalakirti Sutra"]
 totalChapters: 14
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["non-duality", "laity", "emptiness", "skillful means", "silence"]

@@ -2,7 +2,7 @@
 title: "Mahaparinibbana Sutta"
 slug: "mahaparinibbana-sutta"
 religion: "buddhism"
-aliases: ["Mahāparinibbāna Sutta", "대반열반경"]
+aliases: ["Mahāparinibbāna Sutta", "대반열반경", "大般涅槃経", "大般涅槃经", "महापरिनिब्बान सुत्त", "มหาปรินิพพานสูตร", "Махапариниббана сутта", "Le Mahaparinibbana Sutta", "Mahaparinibbana-Sutta"]
 totalChapters: 6
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["Buddha's death", "final teachings", "impermanence", "relics"]

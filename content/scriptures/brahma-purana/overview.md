@@ -2,7 +2,7 @@
 title: "Brahma Purana"
 slug: "brahma-purana"
 religion: "hinduism"
-aliases: ['브라흐마 푸라나', 'Brahma Purāṇa']
+aliases: ["브라흐마 푸라나", "Brahma Purāṇa", "梵天往世书", "ブラフマ・プラーナ", "ब्रह्मपुराण", "بهرما پوران", "Brahma Purana", "Brahma Purâna", "Brahma Purana", "Брахма-пурана"]
 totalChapters: 10
 traditions: ['vaishnavism', 'shaivism', 'advaita', 'dvaita', 'academic', 'comparative']
 tags: ['Brahma', 'creation', 'pilgrimage', 'Konark']

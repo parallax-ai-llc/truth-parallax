@@ -2,7 +2,7 @@
 title: "Sutrakritanga"
 slug: "sutrakritanga"
 religion: "jainism"
-aliases: ["수트라크리탕가", "Sūtrakṛtāṅga"]
+aliases: ["수트라크리탕가", "Sūtrakṛtāṅga", "सूत्रकृतांग", "经造支", "スートラクリターンガ", "Сутракританга", "Sutrakritanga"]
 totalChapters: 16
 traditions: ["digambara", "shvetambara", "academic", "comparative", "philosophical", "interfaith"]
 tags: ["heresy", "non-violence", "asceticism", "philosophy"]

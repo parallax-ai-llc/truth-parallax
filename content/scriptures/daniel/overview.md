@@ -2,7 +2,7 @@
 title: "Daniel"
 slug: "daniel"
 religion: "christianity"
-aliases: ["Daniyyel", "다니엘"]
+aliases: ["Daniyyel", "다니엘", "דָּנִיֵּאל", "但以理书", "ダニエル書", "Δανιήλ", "Liber Danielis", "Книга Даниила", "Livre de Daniel", "Libro de Daniel", "Buch Daniel", "دانیال"]
 totalChapters: 12
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["apocalyptic", "prophecy", "faithfulness", "kingdoms", "Son of Man", "exile"]

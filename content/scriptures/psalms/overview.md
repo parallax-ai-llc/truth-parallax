@@ -2,7 +2,7 @@
 title: "Psalms"
 slug: "psalms"
 religion: "christianity"
-aliases: ["Tehillim", "시편"]
+aliases: ["Tehillim", "시편", "诗篇", "詩篇", "תהלים", "سفر المزامير", "Ψαλμοί", "Psalmi", "Psalmen", "Psaumes", "Salmos", "Псалтирь", "Book of Psalms"]
 totalChapters: 150
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["prayer", "worship", "lament", "praise", "Messiah", "wisdom"]

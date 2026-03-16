@@ -2,7 +2,7 @@
 title: "Dhammapada Atthakatha"
 slug: "dhammapada-atthakatha"
 religion: "buddhism"
-aliases: ["법구경 주석서","Dhammapada Commentary"]
+aliases: ["법구경 주석서", "Dhammapada Commentary", "法句经注释", "ダンマパダ・アッタカター", "ธรรมบท อรรถกถา", "Дхаммапада Аттхакатха", "Commentaire du Dhammapada", "Dhammapada Atthakatha"]
 totalChapters: 26
 traditions: ["theravada","mahayana","zen","tibetan","academic","comparative"]
 tags: ["commentary","stories","ethics","Buddhaghosa"]

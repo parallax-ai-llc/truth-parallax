@@ -2,7 +2,7 @@
 title: "2 Enoch"
 slug: "2-enoch"
 religion: "christianity"
-aliases: ["2에녹서", "Slavonic Enoch", "Secrets of Enoch"]
+aliases: ["2에녹서", "Slavonic Enoch", "Secrets of Enoch", "以诺二书", "エノク書二", "ספר חנוך ב", "سفر أخنوخ الثاني", "2. Henoch", "2 Hénoch", "2 Enoc", "2-я Еноха", "Liber Enoch Slavonicus", "Книга тайн Еноха"]
 totalChapters: 23
 traditions: ["academic", "comparative", "protestant", "catholic", "eastern-orthodox", "interfaith"]
 tags: ["Slavonic Enoch", "heavenly ascent", "creation", "Melchizedek"]

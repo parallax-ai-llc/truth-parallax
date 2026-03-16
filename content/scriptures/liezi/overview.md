@@ -2,7 +2,7 @@
 title: "Liezi"
 slug: "liezi"
 religion: "taoism"
-aliases: ["\uc5f4\uc790", "\u5217\u5b50", "Liezi"]
+aliases: ["열자", "列子", "Liezi", "れっし", "Ле-цзы", "Le Liezi", "Das Liezi", "El Liezi", "Lie Zi"]
 totalChapters: 8
 traditions: ["philosophical", "religious", "academic", "confucian", "comparative", "zen"]
 tags: ["Lie Yukou", "emptiness", "fate", "relativism"]

@@ -2,7 +2,7 @@
 title: "Damascus Document"
 slug: "damascus-document"
 religion: "judaism"
-aliases: ["CD", "다마스쿠스 문서"]
+aliases: ["CD", "다마스쿠스 문서", "ברית דמשק", "大马士革文献", "ダマスカス文書", "Дамасский документ", "Document de Damas", "Documento de Damasco", "Damaskusschrift", "Damascus Document"]
 totalChapters: 4
 traditions: ["essene", "judaism", "protestantism", "catholicism", "eastern-orthodox", "academic"]
 tags: ["covenant", "Teacher of Righteousness", "Wicked Priest", "halakhah", "exile", "Qumran"]

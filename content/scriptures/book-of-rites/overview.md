@@ -2,7 +2,7 @@
 title: "Book of Rites"
 slug: "book-of-rites"
 religion: "confucianism"
-aliases: ["Liji", "예기"]
+aliases: ["Liji", "예기", "礼记", "禮記", "らいき", "Livre des Rites", "Libro de los Ritos", "Buch der Riten", "Ли цзи", "Classic of Rites"]
 totalChapters: 49
 traditions: ["confucian", "neo-confucian", "daoist", "buddhist-chinese", "academic", "comparative"]
 tags: ["ritual", "propriety", "social order", "education", "mourning", "governance"]

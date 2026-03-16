@@ -2,7 +2,7 @@
 title: "Codex Borgia"
 slug: "codex-borgia"
 religion: "aztec"
-aliases: ["코덱스 보르지아", "Codex Borgia"]
+aliases: ["코덱스 보르지아", "Codex Borgia", "博尔贾手抄本", "ボルジア絵文書", "Кодекс Борджиа", "Codex Borgianus", "Codice Borgia", "Códice Borgia", "Tonalamatl"]
 totalChapters: 13
 traditions: ["indigenous", "academic", "comparative", "theological", "archaeological", "interfaith"]
 tags: ["divination", "tonalpohualli", "ritual calendar", "cosmology", "deities"]

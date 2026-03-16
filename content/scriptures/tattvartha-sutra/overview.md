@@ -2,7 +2,7 @@
 title: "Tattvartha Sutra"
 slug: "tattvartha-sutra"
 religion: "jainism"
-aliases: ["Tattvarthadhigama Sutra", "타뜨바르타 수뜨라"]
+aliases: ["Tattvarthadhigama Sutra", "타뜨바르타 수뜨라", "तत्त्वार्थसूत्र", "谛义证得经", "タットヴァールタ・スートラ", "Таттвартха-сутра", "Tattvārtha Sūtra", "Tattvartha Sutra"]
 totalChapters: 10
 traditions: ["digambara", "shvetambara", "academic", "comparative", "philosophical", "interfaith"]
 tags: ["jiva", "ajiva", "karma", "moksha", "ahimsa", "anekantavada"]

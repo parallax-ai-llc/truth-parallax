@@ -2,7 +2,7 @@
 title: "Khuddaka Nikaya"
 slug: "khuddaka-nikaya"
 religion: "buddhism"
-aliases: ["소부", "小部", "Khuddaka Nikāya"]
+aliases: ["소부", "小部", "Khuddaka Nikāya", "ขุททกนิกาย", "クッダカ・ニカーヤ", "Кхуддака Никая", "Khuddaka Nikaya", "Minor Collection"]
 totalChapters: 18
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["minor collection", "Jataka", "Theragatha", "Therigatha"]

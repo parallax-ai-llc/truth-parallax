@@ -2,7 +2,7 @@
 title: "Sophia of Jesus Christ"
 slug: "sophia-of-jesus-christ"
 religion: "gnosticism"
-aliases: ["예수 그리스도의 소피아", "Sophia of Jesus Christ"]
+aliases: ["예수 그리스도의 소피아", "Sophia of Jesus Christ", "耶稣基督的智慧", "イエス・キリストのソフィア", "София Иисуса Христа", "La Sagesse de Jésus-Christ", "Die Sophia Jesu Christi", "La Sofía de Jesucristo", "ⲧⲥⲟⲫⲓⲁ ⲛⲓⲥ ⲡⲉⲭⲥ"]
 totalChapters: 5
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["revelation dialogue", "Sophia", "cosmology"]

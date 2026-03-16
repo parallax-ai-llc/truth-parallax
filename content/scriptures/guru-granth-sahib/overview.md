@@ -2,7 +2,7 @@
 title: "Guru Granth Sahib"
 slug: "guru-granth-sahib"
 religion: "sikhism"
-aliases: ["Adi Granth", "구루 그란트 사히브"]
+aliases: ["Adi Granth", "구루 그란트 사히브", "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ", "गुरु ग्रंथ साहिब", "古鲁格兰特萨希布", "グル・グラント・サーヒブ", "Гуру Грантх Сахиб", "Le Guru Granth Sahib", "Guru Granth Sahib"]
 totalChapters: 5
 traditions: ["sikh", "academic", "comparative", "sufi", "bhakti", "interfaith"]
 tags: ["Waheguru", "naam", "equality", "devotion", "service", "oneness", "Sikh scripture"]

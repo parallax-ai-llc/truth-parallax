@@ -2,7 +2,7 @@
 title: "Thanksgiving Hymns"
 slug: "thanksgiving-hymns"
 religion: "judaism"
-aliases: ["1QH", "Hodayot", "감사 찬가"]
+aliases: ["1QH", "Hodayot", "감사 찬가", "הודיות", "感恩赞美诗", "感謝の賛歌", "Благодарственные гимны", "Hymnes d'action de grâces", "Dankeshymnen", "Himnos de Acción de Gracias", "Thanksgiving Hymns"]
 totalChapters: 5
 traditions: ["essene", "judaism", "protestantism", "catholicism", "eastern-orthodox", "academic"]
 tags: ["praise", "suffering", "knowledge", "election", "Teacher of Righteousness", "Qumran"]

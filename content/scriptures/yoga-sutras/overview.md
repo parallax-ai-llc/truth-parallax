@@ -2,7 +2,7 @@
 title: "Yoga Sutras of Patanjali"
 slug: "yoga-sutras"
 religion: "hinduism"
-aliases: ["Yogasūtra", "요가 수트라"]
+aliases: ["Yogasūtra", "요가 수트라", "योगसूत्र", "瑜伽经", "ヨーガ・スートラ", "Йога-сутры Патанджали", "Les Yoga-Sūtras de Patañjali", "Die Yoga-Sutras des Patanjali", "Los Yoga Sutras de Patanjali", "Yoga Sutras of Patanjali"]
 totalChapters: 4
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["yoga", "samadhi", "practice", "powers", "liberation", "eight limbs"]

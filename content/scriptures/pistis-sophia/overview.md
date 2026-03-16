@@ -2,7 +2,7 @@
 title: "Pistis Sophia"
 slug: "pistis-sophia"
 religion: "christianity"
-aliases: ["Faith Wisdom", "피스티스 소피아"]
+aliases: ["Faith Wisdom", "피스티스 소피아", "信仰智慧", "ピスティス・ソフィア", "Πίστις Σοφία", "Пистис София", "Pistis Sophia"]
 totalChapters: 6
 traditions: ["gnosticism", "protestantism", "catholicism", "eastern-orthodox", "judaism", "academic"]
 tags: ["Sophia myth", "repentance", "light", "mysteries", "post-resurrection", "aeons"]

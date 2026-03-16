@@ -2,7 +2,7 @@
 title: "Maori Creation"
 slug: "maori-creation"
 religion: "polynesian"
-aliases: ["마오리 창조신화", "Te Orokohanga"]
+aliases: ["마오리 창조신화", "Te Orokohanga", "毛利创世神话", "マオリ創世神話", "Maori Creation Story", "Мифы творения маори", "Maori-Schöpfungsgeschichte", "Mythe de création maori", "Mito de creación maorí"]
 totalChapters: 6
 traditions: ["indigenous", "academic", "comparative", "theological", "anthropological", "interfaith"]
 tags: ["Rangi", "Papa", "Maui", "whakapapa", "Io"]

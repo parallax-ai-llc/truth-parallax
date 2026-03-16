@@ -2,7 +2,7 @@
 title: "Advaya Taraka Upanishad"
 slug: "advaya-taraka-upanishad"
 religion: "hinduism"
-aliases: ["\uc544\ub4dc\ubc14\uc57c \ud0c0\ub77c\uce74 \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Advayatarakopanishad"]
+aliases: ["아드바야 타라카 우파니샤드", "Advayatarakopanishad", "不二救度奥义书", "アドヴァヤ・ターラカ・ウパニシャッド", "अद्वयतारकोपनिषद्", "Advaya-Tāraka-Upaniṣad", "Advaya Taraka Upanischad", "Upanishad de l\u0027Étoile Non-Duelle", "Адвая-тарака-упанишада"]
 totalChapters: 3
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["non-duality", "taraka yoga", "liberation"]

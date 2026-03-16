@@ -2,7 +2,7 @@
 title: "Dhammacakkappavattana Sutta"
 slug: "dhammacakkappavattana-sutta"
 religion: "buddhism"
-aliases: ["Setting in Motion the Wheel of Dharma", "초전법륜경"]
+aliases: ["Setting in Motion the Wheel of Dharma", "초전법륜경", "धम्मचक्कपवत्तन सुत्त", "转法轮经", "転法輪経", "ธัมมจักกัปปวัตตนสูตร", "Дхаммачаккаппаваттана-сутта", "Soutra de la mise en mouvement de la roue du Dharma", "Dhammacakkappavattana Sutta", "འཁོར་ལོ་བསྐོར་བའི་མདོ"]
 totalChapters: 1
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["Four Noble Truths", "Middle Way", "first sermon", "Deer Park"]

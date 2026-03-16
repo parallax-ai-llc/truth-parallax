@@ -2,7 +2,7 @@
 title: "Exodus"
 slug: "exodus"
 religion: "christianity"
-aliases: ["Shemot", "출애굽기"]
+aliases: ["Shemot", "출애굽기", "שְׁמוֹת", "出埃及记", "出エジプト記", "Ἔξοδος", "Exodus", "Исход", "L'Exode", "Éxodo", "Das Buch Exodus", "سفر خروج"]
 totalChapters: 40
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["liberation", "covenant", "law", "tabernacle", "Passover", "Moses", "Sinai"]

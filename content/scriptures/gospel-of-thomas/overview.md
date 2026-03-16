@@ -2,7 +2,7 @@
 title: "Gospel of Thomas"
 slug: "gospel-of-thomas"
 religion: "christianity"
-aliases: ["Evangelion kata Thomas", "도마복음"]
+aliases: ["Evangelion kata Thomas", "도마복음", "多马福音", "トマスによる福音書", "Εὐαγγέλιον κατὰ Θωμᾶν", "Evangelium Thomae", "Евангелие от Фомы", "Évangile de Thomas", "Evangelio de Tomás", "Thomasevangelium"]
 totalChapters: 12
 traditions: ["gnosticism", "protestantism", "catholicism", "eastern-orthodox", "judaism", "academic"]
 tags: ["sayings gospel", "secret knowledge", "kingdom within", "Nag Hammadi", "logia", "twin"]

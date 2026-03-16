@@ -2,7 +2,7 @@
 title: "Atrahasis"
 slug: "atrahasis"
 religion: "ancient-mesopotamian"
-aliases: ["\uc544\ud2b8\ub77c\ud558\uc2dc\uc2a4", "Atrahasis", "Atra-\u1e2aas\u012bs"]
+aliases: ["아트라하시스", "Atrahasis", "Atra-Ḫasīs", "阿特拉哈西斯", "アトラ・ハシース", "أتراحاسيس", "Atramchasis", "Atrahasis", "Атрахасис", "Supersage"]
 totalChapters: 3
 traditions: ["academic", "comparative", "theological", "literary", "archaeological", "interfaith"]
 tags: ["flood", "creation", "Enlil", "overpopulation", "humanity"]

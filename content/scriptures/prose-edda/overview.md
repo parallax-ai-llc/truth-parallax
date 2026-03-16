@@ -2,7 +2,7 @@
 title: "Prose Edda"
 slug: "prose-edda"
 religion: "norse"
-aliases: ["산문 에다", "Prose Edda", "Younger Edda"]
+aliases: ["산문 에다", "Prose Edda", "Younger Edda", "散文埃达", "散文のエッダ", "Младшая Эдда", "Prosa-Edda", "Edda en prose", "Edda menor", "Snorra Edda"]
 totalChapters: 4
 traditions: ["academic", "comparative", "philosophical", "literary", "archaeological", "interfaith"]
 tags: ["Snorri Sturluson", "mythology", "kennings", "cosmology"]

@@ -2,7 +2,7 @@
 title: "Interpretation of Knowledge"
 slug: "interpretation-of-knowledge"
 religion: "gnosticism"
-aliases: ["지식의 해석", "Interpretation of Knowledge"]
+aliases: ["지식의 해석", "Interpretation of Knowledge", "知识的诠释", "知識の解釈", "Толкование знания", "L'Interprétation de la Connaissance", "Die Auslegung der Erkenntnis", "La Interpretación del Conocimiento"]
 totalChapters: 3
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["church", "spiritual gifts", "body of Christ"]

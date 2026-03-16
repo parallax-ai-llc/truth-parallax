@@ -2,7 +2,7 @@
 title: "Malachi"
 slug: "malachi"
 religion: "christianity"
-aliases: ["Malakhi", "말라기"]
+aliases: ["Malakhi", "말라기", "玛拉基书", "マラキ書", "מלאכי", "ملاخي", "Μαλαχίας", "Malachias", "Maleachi", "Malachie", "Malaquías", "Малахия", "Book of Malachi"]
 totalChapters: 4
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["covenant faithfulness", "tithing", "messenger", "Sun of Righteousness", "Elijah"]

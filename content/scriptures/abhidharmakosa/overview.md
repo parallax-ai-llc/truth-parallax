@@ -2,7 +2,7 @@
 title: "Abhidharmakosa"
 slug: "abhidharmakosa"
 religion: "buddhism"
-aliases: ["아비달마구사론", "俱舍論"]
+aliases: ["아비달마구사론", "俱舍論", "阿毗达磨俱舍论", "アビダルマコーシャ", "อภิธรรมโกศ", "ཆོས་མངོན་པའི་མཛོད", "अभिधर्मकोश", "Abhidharmakośa", "Trésor de l\u0027Abhidharma", "Tesoro del Abhidharma", "Абхидхармакоша", "Treasury of Abhidharma", "Abhidharmakośabhāṣya"]
 totalChapters: 9
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["Vasubandhu", "consciousness", "karma", "cosmology", "philosophy of mind"]

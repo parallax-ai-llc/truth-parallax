@@ -2,7 +2,7 @@
 title: "Ten Wings"
 slug: "ten-wings"
 religion: "confucianism"
-aliases: ["십익", "十翼", "Ten Wings"]
+aliases: ["십익", "十翼", "Ten Wings", "じゅうよく", "Десять крыльев", "Les Dix Ailes", "Die Zehn Flügel", "Shi Yi"]
 totalChapters: 10
 traditions: ['confucian', 'neo-confucian', 'daoist', 'buddhist-chinese', 'academic', 'comparative']
 tags: ["I Ching commentary", "Confucius", "Tuan", "Xiang", "Wenyan"]

@@ -2,7 +2,7 @@
 title: "Katha Upanishad"
 slug: "katha-upanishad"
 religion: "hinduism"
-aliases: ["카타 우파니샤드"]
+aliases: ["카타 우파니샤드", "कठोपनिषद्", "Kathopanishad", "迦陀奥义书", "カタ・ウパニシャッド", "Катха Упанишада", "Katha Upanishad", "Katha-Upanishad"]
 totalChapters: 6
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["death", "atman", "Nachiketa", "Yama", "self-knowledge", "immortality"]

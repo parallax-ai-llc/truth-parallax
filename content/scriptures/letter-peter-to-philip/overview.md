@@ -2,7 +2,7 @@
 title: "Letter of Peter to Philip"
 slug: "letter-peter-to-philip"
 religion: "gnosticism"
-aliases: ["베드로가 빌립에게 보낸 편지", "Letter of Peter to Philip"]
+aliases: ["베드로가 빌립에게 보낸 편지", "Letter of Peter to Philip", "彼得致腓力书信", "ペトロのフィリポへの手紙", "Послание Петра Филиппу", "La Lettre de Pierre à Philippe", "Der Brief des Petrus an Philippus", "La Carta de Pedro a Felipe"]
 totalChapters: 3
 traditions: ["gnostic", "academic", "comparative", "christian", "jewish", "interfaith"]
 tags: ["Peter", "Philip", "suffering", "fullness"]

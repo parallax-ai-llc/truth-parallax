@@ -2,7 +2,7 @@
 title: "Jonah"
 slug: "jonah"
 religion: "christianity"
-aliases: ["Yonah", "요나"]
+aliases: ["Yonah", "요나", "יוֹנָה", "يونس", "约拿书", "ヨナ書", "Ἰωνᾶς", "Ionas", "Книга пророка Ионы", "Jonas", "Jona", "Jonás"]
 totalChapters: 4
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["reluctant prophet", "Nineveh", "repentance", "mercy", "great fish"]

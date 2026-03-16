@@ -2,7 +2,7 @@
 title: "Visperad"
 slug: "visperad"
 religion: "zoroastrianism"
-aliases: ["비스파라드", "Visperad"]
+aliases: ["비스파라드", "Visperad", "ویسپرد", "诸主祈祷", "ヴィースパラド", "Виспарад", "Visparad"]
 totalChapters: 24
 traditions: ["zoroastrian", "academic", "comparative", "protestant", "jewish", "islamic"]
 tags: ["liturgy", "festivals", "seasonal rites"]

@@ -2,7 +2,7 @@
 title: "Russian Primary Chronicle"
 slug: "russian-primary-chronicle"
 religion: "slavic"
-aliases: ["원초 연대기", "Повесть временных лет", "Tale of Bygone Years"]
+aliases: ["원초 연대기", "Повесть временных лет", "Tale of Bygone Years", "俄罗斯原初编年史", "ロシア原初年代記", "Первичная летопись", "Nestorchronik", "Chronique de Nestor", "Crónica de Néstor", "Primary Chronicle"]
 totalChapters: 12
 traditions: ["academic", "comparative", "philosophical", "literary", "archaeological", "interfaith"]
 tags: ["Nestor", "Kievan Rus", "Christianization", "Varangians", "history"]

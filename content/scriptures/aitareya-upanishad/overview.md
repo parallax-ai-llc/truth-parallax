@@ -2,7 +2,7 @@
 title: "Aitareya Upanishad"
 slug: "aitareya-upanishad"
 religion: "hinduism"
-aliases: ["\uc544\uc774\ud0c0\ub808\uc57c \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Aitareyopanishad"]
+aliases: ["아이타레야 우파니샤드", "Aitareyopanishad", "爱多利耶奥义书", "アイタレーヤ・ウパニシャッド", "ऐतरेयोपनिषद्", "Aitareya Upaniṣad", "Aitareya Upanischad", "Upanishad d\u0027Aitareya", "Аитарея-упанишада"]
 totalChapters: 3
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["consciousness", "creation", "Atman", "Rig Veda"]

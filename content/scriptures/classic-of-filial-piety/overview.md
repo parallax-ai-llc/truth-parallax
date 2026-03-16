@@ -2,7 +2,7 @@
 title: "Classic of Filial Piety"
 slug: "classic-of-filial-piety"
 religion: "confucianism"
-aliases: ["효경","孝經","Xiaojing"]
+aliases: ["효경", "孝經", "Xiaojing", "孝経", "こうきょう", "Сяо цзин", "Classique de la piété filiale", "Clásico de la piedad filial", "Klassiker der Kindespflicht", "Xiào Jīng", "Book of Filial Piety"]
 totalChapters: 18
 traditions: ["confucian","neo-confucian","daoist","buddhist-chinese","academic","comparative"]
 tags: ["filial piety","ethics","family","virtue","Confucius"]

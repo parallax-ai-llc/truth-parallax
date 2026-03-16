@@ -2,7 +2,7 @@
 title: "Secret Doctrine"
 slug: "secret-doctrine"
 religion: "theosophy"
-aliases: ["비밀 교리", "Secret Doctrine"]
+aliases: ["비밀 교리", "Secret Doctrine", "The Secret Doctrine", "秘密教义", "シークレット・ドクトリン", "Тайная доктрина", "La Doctrine secrète", "Die Geheimlehre", "La Doctrina Secreta"]
 totalChapters: 7
 traditions: ['theosophical', 'academic', 'comparative', 'hindu', 'buddhist', 'interfaith']
 tags: ["Blavatsky", "cosmogenesis", "anthropogenesis", "occult", "evolution"]

@@ -2,7 +2,7 @@
 title: "Hosea"
 slug: "hosea"
 religion: "christianity"
-aliases: ["Hoshea", "호세아"]
+aliases: ["Hoshea", "호세아", "הוֹשֵׁעַ", "هوشع", "何西阿书", "ホセア書", "Ωσηέ", "Osee", "Книга пророка Осии", "Osée", "Hosea", "Oseas"]
 totalChapters: 14
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["unfaithful wife", "covenant love", "judgment", "restoration", "divine marriage"]

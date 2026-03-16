@@ -2,7 +2,7 @@
 title: "Engishiki"
 slug: "engishiki"
 religion: "shinto"
-aliases: ["엔기시키", "延喜式"]
+aliases: ["엔기시키", "延喜式", "えんぎしき", "延喜式典", "Энгисики", "Engishiki", "Procedures of the Engi Era"]
 totalChapters: 50
 traditions: ["philosophical", "religious", "academic", "confucian", "comparative", "zen"]
 tags: ["ritual", "norito", "shrine regulations", "Heian period"]

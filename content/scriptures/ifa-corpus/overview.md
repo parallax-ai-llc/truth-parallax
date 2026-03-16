@@ -2,7 +2,7 @@
 title: "Ifa Corpus"
 slug: "ifa-corpus"
 religion: "yoruba"
-aliases: ["\uc774\ud30c \ucf54\ud37c\uc2a4", "If\u00e1", "Odu If\u00e1"]
+aliases: ["이파 코퍼스", "Ifá", "Odu Ifá", "伊法神谕集", "イファ神託集", "Корпус Ифа", "Corpus d'Ifa", "Ifa-Korpus", "Corpus de Ifá", "Ọ̀rúnmìlà"]
 totalChapters: 16
 traditions: ["academic", "comparative", "yoruba", "diasporic", "theological", "interfaith"]
 tags: ["divination", "Orunmila", "Odu", "wisdom", "destiny"]

@@ -2,7 +2,7 @@
 title: "Narayana Upanishad"
 slug: "narayana-upanishad"
 religion: "hinduism"
-aliases: ["\ub098\ub77c\uc57c\ub098 \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Narayanopanishad"]
+aliases: ["나라야나 우파니샤드", "Narayanopanishad", "नारायणोपनिषद्", "那罗延奥义书", "ナーラーヤナ・ウパニシャッド", "Нараяна Упанишад", "Nārāyaṇa Upaniṣad"]
 totalChapters: 2
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["Narayana", "Vishnu", "devotion"]

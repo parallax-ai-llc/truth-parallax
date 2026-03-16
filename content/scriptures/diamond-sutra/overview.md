@@ -2,7 +2,7 @@
 title: "Diamond Sutra"
 slug: "diamond-sutra"
 religion: "buddhism"
-aliases: ["Vajracchedika Prajnaparamita", "금강경"]
+aliases: ["Vajracchedika Prajnaparamita", "금강경", "वज्रच्छेदिका प्रज्ञापारमिता", "金剛般若波羅蜜經", "金剛般若経", "こんごうはんにゃきょう", "ธรรมเพชร", "Алмазная сутра", "Soutra du diamant", "Sutra del diamante", "Diamant-Sutra", "རྡོ་རྗེ་གཅོད་པ"]
 totalChapters: 32
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["emptiness", "non-attachment", "prajna", "merit", "bodhisattva path", "diamond cutter"]

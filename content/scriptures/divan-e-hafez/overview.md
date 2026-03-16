@@ -2,7 +2,7 @@
 title: "Divan-e-Hafez"
 slug: "divan-e-hafez"
 religion: "islam"
-aliases: ["하페즈 디반", "Dīvān-e-Ḥāfeẓ"]
+aliases: ["하페즈 디반", "Dīvān-e-Ḥāfeẓ", "دیوان حافظ", "哈菲兹诗集", "ハーフェズ詩集", "Диван Хафиза", "Le Divan de Hafez", "El Diván de Hafez", "Der Diwan des Hafis", "Divan of Hafez"]
 totalChapters: 15
 traditions: ['sufi', 'sunni', 'shia', 'academic', 'comparative', 'interfaith']
 tags: ["Hafez", "ghazal", "wine", "divine love", "mysticism"]

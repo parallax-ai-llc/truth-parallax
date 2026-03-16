@@ -2,7 +2,7 @@
 title: "Bustan"
 slug: "bustan"
 religion: "islam"
-aliases: ['부스탄', 'Bustan', 'The Orchard']
+aliases: ['부스탄', 'Bustan', 'The Orchard', 'بوستان', '果園', 'ブースターン', 'Бустан', 'Le Verger', 'El Huerto', 'Der Obstgarten', 'Bostān', 'باغ']
 totalChapters: 10
 traditions: ['sufi', 'sunni', 'shia', 'academic', 'comparative', 'interfaith']
 tags: ["Sa'di", 'ethics', 'mysticism', 'justice', 'poetry']

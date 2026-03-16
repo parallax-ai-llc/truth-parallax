@@ -2,7 +2,7 @@
 title: "Pirkei Avot"
 slug: "pirkei-avot"
 religion: "judaism"
-aliases: ["Ethics of the Fathers", "선조들의 어록"]
+aliases: ["Ethics of the Fathers", "선조들의 어록", "皮尔克·阿沃特", "ピルケイ・アヴォート", "פרקי אבות", "أخلاق الآباء", "Пиркей Авот", "Sprüche der Väter", "Éthique des Pères", "Ética de los Padres"]
 totalChapters: 6
 traditions: ["orthodox-judaism", "reform-judaism", "conservative-judaism", "academic", "comparative", "kabbalistic"]
 tags: ["ethics", "wisdom", "Torah study", "middot", "oral tradition", "rabbinic"]

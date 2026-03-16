@@ -2,7 +2,7 @@
 title: "Habakkuk"
 slug: "habakkuk"
 religion: "christianity"
-aliases: ["Chavakkuk", "하박국"]
+aliases: ["Chavakkuk", "하박국", "חֲבַקּוּק", "哈巴谷书", "ハバクク書", "Ἀμβακούμ", "Habacuc", "Аввакум", "Livre d'Habacuc", "Libro de Habacuc", "Buch Habakuk"]
 totalChapters: 3
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["theodicy", "faith", "justice", "Babylonian judgment", "prayer"]

@@ -2,7 +2,7 @@
 title: "Rehatnama"
 slug: "rehatnama"
 religion: "sikhism"
-aliases: ["레핫나마", "ਰਹਿਤਨਾਮਾ"]
+aliases: ["레핫나마", "ਰਹਿਤਨਾਮਾ", "行为准则", "レハトナーマー", "Рехатнама", "Code of Conduct", "Rehatnama"]
 totalChapters: 8
 traditions: ["sikh", "academic", "comparative", "sufi", "bhakti", "interfaith"]
 tags: ["Khalsa code", "ethics", "conduct", "Guru Gobind Singh"]

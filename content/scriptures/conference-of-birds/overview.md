@@ -2,7 +2,7 @@
 title: "Conference of the Birds"
 slug: "conference-of-birds"
 religion: "islam"
-aliases: ["새들의 회의", "Mantiq al-Tayr", "Conference of the Birds"]
+aliases: ["새들의 회의", "Mantiq al-Tayr", "Conference of the Birds", "منطق الطیر", "鸟的会议", "鳥の会議", "Совещание птиц", "Le Cantique des oiseaux", "El Lenguaje de los pájaros", "Die Konferenz der Vögel", "Manṭiq uṭ-Ṭayr"]
 totalChapters: 9
 traditions: ["sufi", "sunni", "shia", "academic", "comparative", "interfaith"]
 tags: ["Attar", "Sufi", "Simurgh", "spiritual journey", "allegory"]

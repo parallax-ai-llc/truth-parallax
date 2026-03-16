@@ -2,7 +2,7 @@
 title: "Sahih al-Bukhari"
 slug: "hadith-bukhari"
 religion: "islam"
-aliases: ["Sahih Bukhari", "부하리 하디스"]
+aliases: ["Sahih Bukhari", "부하리 하디스", "صحيح البخاري", "布哈里圣训实录", "サヒーフ・アル＝ブハーリー", "Сахих аль-Бухари", "Sahih al-Bukhari", "Le Sahih d'al-Boukhârî", "Sahih al-Buchari", "Sahih de Bujari"]
 totalChapters: 8
 traditions: ["sunni", "shia", "sufi", "salafi", "academic", "comparative"]
 tags: ["hadith", "Sunnah", "Prophet Muhammad", "isnad", "fiqh", "authentic"]

@@ -2,7 +2,7 @@
 title: "Visuddhimagga"
 slug: "visuddhimagga"
 religion: "buddhism"
-aliases: ["청정도론","清淨道論","Path of Purification"]
+aliases: ["청정도론", "清淨道論", "Path of Purification", "Visuddhimagga", "清浄道論", "วิสุทธิมรรค", "Путь очищения", "Le Chemin de la purification", "Der Weg der Reinheit"]
 totalChapters: 23
 traditions: ["theravada","mahayana","zen","tibetan","academic","comparative"]
 tags: ["Buddhaghosa","purification","meditation","wisdom","Theravada"]

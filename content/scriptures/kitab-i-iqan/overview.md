@@ -2,7 +2,7 @@
 title: "Kitab-i-Iqan"
 slug: "kitab-i-iqan"
 religion: "bahai"
-aliases: ["Book of Certitude", "키타비 이칸"]
+aliases: ["Book of Certitude", "키타비 이칸", "كتاب ايقان", "确信之书", "キターブ・イ・イーカーン", "Китаб-и-Икан", "Le Livre de la Certitude", "Das Buch der Gewissheit", "El Libro de la Certeza"]
 totalChapters: 2
 traditions: ["bahai", "academic", "comparative", "islamic", "christian", "interfaith"]
 tags: ["progressive revelation", "symbolism", "scripture interpretation", "Baha'u'llah"]

@@ -2,7 +2,7 @@
 title: "Kebra Nagast"
 slug: "kebra-nagast"
 religion: "christianity"
-aliases: ["\ucf00\ube0c\ub77c \ub098\uac00\uc2a4\ud2b8", "Glory of Kings", "Kebra Nagast"]
+aliases: ["케브라 나가스트", "Glory of Kings", "Kebra Nagast", "كبرا نجست", "荣耀之书", "ケブラ・ナガスト", "Слава царей", "La Gloire des Rois", "Der Ruhm der Könige", "La Gloria de los Reyes", "ክብረ ነገሥት"]
 totalChapters: 14
 traditions: ["ethiopian-orthodox", "academic", "comparative", "protestant", "catholic", "interfaith"]
 tags: ["Solomon", "Sheba", "Ark of Covenant", "Ethiopian monarchy", "Solomonic dynasty"]

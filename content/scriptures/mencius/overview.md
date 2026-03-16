@@ -2,7 +2,7 @@
 title: "Mencius"
 slug: "mencius"
 religion: "confucianism"
-aliases: ["Mengzi", "맹자"]
+aliases: ["Mengzi", "맹자", "孟子", "孟子", "もうし", "Мэн-цзы", "Menzius", "Mencius", "Mencio"]
 totalChapters: 7
 traditions: ["confucian", "neo-confucian", "daoist", "buddhist-chinese", "academic", "comparative"]
 tags: ["human nature", "benevolence", "righteousness", "heaven's mandate", "moral cultivation"]

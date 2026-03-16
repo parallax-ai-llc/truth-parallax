@@ -2,7 +2,7 @@
 title: "Vishnu Purana"
 slug: "vishnu-purana"
 religion: "hinduism"
-aliases: ["비슈누 푸라나", "Visnupuranam"]
+aliases: ["비슈누 푸라나", "Visnupuranam", "विष्णु पुराण", "毗湿奴往世书", "ヴィシュヌ・プラーナ", "Вишну-пурана", "Viṣṇu Purāṇa", "Vishnu Purana"]
 totalChapters: 6
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["Vishnu", "cosmology", "avatars", "dharma"]

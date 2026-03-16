@@ -2,7 +2,7 @@
 title: "Muktika Upanishad"
 slug: "muktika-upanishad"
 religion: "hinduism"
-aliases: ["\ubb35\ud2f0\uce74 \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Muktikopanishad"]
+aliases: ["묵티카 우파니샤드", "Muktikopanishad", "मुक्तिकोपनिषद्", "解脱奥义书", "ムクティカー・ウパニシャッド", "Муктика Упанишад", "Muktikā Upaniṣad"]
 totalChapters: 2
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["liberation", "108 Upanishads", "Rama", "canon"]

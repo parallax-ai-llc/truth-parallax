@@ -2,7 +2,7 @@
 title: "Digha Nikaya"
 slug: "digha-nikaya"
 religion: "buddhism"
-aliases: ["장부", "長部", "Dīgha Nikāya"]
+aliases: ["장부", "長部", "Dīgha Nikāya", "दीघ निकाय", "长部", "ทีฆนิกาย", "Дигха-никая", "Recueil des longs discours", "Collection of Long Discourses", "རིང་པོའི་སྡེ"]
 totalChapters: 10
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["long discourses", "Buddha", "Theravada", "cosmology"]

@@ -2,7 +2,7 @@
 title: "2 Maccabees"
 slug: "2-maccabees"
 religion: "christianity"
-aliases: ["Makkabaion B", "마카베오하"]
+aliases: ["Makkabaion B", "마카베오하", "玛加伯下", "マカバイ記二", "ספר מקבים ב", "سفر المكابيين الثاني", "2. Makkabäer", "2 Maccabées", "2 Macabeos", "2-я Маккавейская", "Β΄ Μακκαβαίων", "Liber II Machabaeorum", "Second Maccabees"]
 totalChapters: 15
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["martyrdom", "resurrection", "prayer for dead", "temple", "Judas Maccabeus", "divine intervention"]

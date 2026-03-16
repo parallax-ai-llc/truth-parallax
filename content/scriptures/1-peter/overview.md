@@ -2,7 +2,7 @@
 title: "1 Peter"
 slug: "1-peter"
 religion: "christianity"
-aliases: ["Petrou A", "베드로전서"]
+aliases: ["Petrou A", "베드로전서", "彼得前书", "ペトロの手紙一", "הראשונה של פטרוס", "رسالة بطرس الأولى", "1. Petrus", "1 Pierre", "1 Pedro", "1-е Петра", "Α΄ Πέτρου", "Epistula I Petri", "First Peter"]
 totalChapters: 5
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["suffering", "hope", "holiness", "submission", "living stones"]

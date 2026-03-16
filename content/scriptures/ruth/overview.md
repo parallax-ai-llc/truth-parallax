@@ -2,7 +2,7 @@
 title: "Ruth"
 slug: "ruth"
 religion: "christianity"
-aliases: ["Rut", "룻기"]
+aliases: ["Rut", "룻기", "路得记", "ルツ記", "רות", "سفر راعوث", "Ῥούθ", "Liber Ruth", "Руфь", "Livre de Ruth", "Libro de Rut", "Book of Ruth"]
 totalChapters: 4
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["hesed", "redemption", "loyalty", "kinsman-redeemer", "Moabite", "David's ancestry"]

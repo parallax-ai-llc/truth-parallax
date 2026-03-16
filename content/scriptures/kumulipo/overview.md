@@ -2,7 +2,7 @@
 title: "Kumulipo"
 slug: "kumulipo"
 religion: "polynesian"
-aliases: ["쿠물리포", "Kumulipo", "Hawaiian Creation Chant"]
+aliases: ["쿠물리포", "Kumulipo", "Hawaiian Creation Chant", "库穆利波", "クムリポ", "Кумулипо", "Le Kumulipo", "Das Kumulipo", "El Kumulipo"]
 totalChapters: 16
 traditions: ["indigenous", "academic", "comparative", "theological", "anthropological", "interfaith"]
 tags: ["Hawaiian", "creation", "genealogy", "cosmogony", "chant"]

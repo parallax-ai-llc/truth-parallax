@@ -2,7 +2,7 @@
 title: "Acts of Thomas"
 slug: "acts-of-thomas"
 religion: "christianity"
-aliases: ["토마스 행전","Acts of Thomas"]
+aliases: ["토마스 행전", "Acts of Thomas", "多马行传", "トマス行伝", "מעשי תומאס", "أعمال توما", "Thomasakten", "Actes de Thomas", "Hechos de Tomás", "Деяния Фомы", "Πράξεις Θωμᾶ", "Acta Thomae"]
 totalChapters: 13
 traditions: ["academic","comparative","protestant","catholic","eastern-orthodox","interfaith"]
 tags: ["Thomas","India","Hymn of the Pearl","asceticism","Syriac"]

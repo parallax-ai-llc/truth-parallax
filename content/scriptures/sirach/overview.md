@@ -2,7 +2,7 @@
 title: "Sirach"
 slug: "sirach"
 religion: "christianity"
-aliases: ["Ecclesiasticus", "Ben Sira", "집회서"]
+aliases: ["Ecclesiasticus", "Ben Sira", "집회서", "סירא", "德训篇", "シラ書", "Σοφία Σειράχ", "Книга Премудрости Иисуса, сына Сирахова", "Siracide", "Jesus Sirach", "Eclesiástico"]
 totalChapters: 51
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["wisdom", "fear of the Lord", "ethics", "praise of ancestors", "Torah", "practical living"]

@@ -2,7 +2,7 @@
 title: "Drasha d-Yahia"
 slug: "drasha-d-yahia"
 religion: "mandaeism"
-aliases: ["드라샤 드 야히아", "Book of John"]
+aliases: ["드라샤 드 야히아", "Book of John", " דראשא דיהיא", "约翰之书", "ドラーシャ・ド・ヤヒヤ", "Драша д-Яхья", "Livre de Jean", "Libro de Juan", "Draša ḏ-Yahya", "Mandaean Book of John"]
 totalChapters: 12
 traditions: ["mandaean", "academic", "comparative", "gnostic", "jewish", "interfaith"]
 tags: ["John the Baptist", "baptism", "light", "cosmology"]

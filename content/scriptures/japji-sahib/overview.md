@@ -2,7 +2,7 @@
 title: "Japji Sahib"
 slug: "japji-sahib"
 religion: "sikhism"
-aliases: ["잡지 사히브", "ਜਪੁਜੀ ਸਾਹਿਬ"]
+aliases: ["잡지 사히브", "ਜਪੁਜੀ ਸਾਹਿਬ", "जपजी साहिब", "日本祈祷文", "ジャプジー・サーヒブ", "Джапджи Сахиб", "Japji Sahib", "Le Japji Sahib", "Japji Sahib Gebet"]
 totalChapters: 40
 traditions: ["sikh", "academic", "comparative", "sufi", "bhakti", "interfaith"]
 tags: ["Guru Nanak", "morning prayer", "Ik Onkar", "Nam"]

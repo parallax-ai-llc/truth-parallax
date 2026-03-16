@@ -2,7 +2,7 @@
 title: "James"
 slug: "james"
 religion: "christianity"
-aliases: ["Iakobos", "야고보서"]
+aliases: ["Iakobos", "야고보서", "Ἰάκωβος", "יעקב", "رسالة يعقوب", "雅各书", "ヤコブの手紙", "Iacobus", "Послание Иакова", "Épître de Jacques", "Jakobusbrief", "Epístola de Santiago"]
 totalChapters: 5
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["faith and works", "wisdom", "tongue", "patience", "prayer"]

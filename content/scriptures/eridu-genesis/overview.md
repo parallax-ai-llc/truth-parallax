@@ -2,7 +2,7 @@
 title: "Eridu Genesis"
 slug: "eridu-genesis"
 religion: "ancient-sumerian"
-aliases: ["에리두 창세기", "Sumerian Creation Myth"]
+aliases: ["에리두 창세기", "Sumerian Creation Myth", "埃利都创世记", "エリドゥ創世記", "Генезис Эриду", "Genèse d'Eridu", "Génesis de Eridu", "Eridu-Genesis", "Eridu Genesis"]
 totalChapters: 6
 traditions: ["academic", "comparative", "theological", "literary", "archaeological", "interfaith"]
 tags: ["creation", "flood", "Ziusudra", "antediluvian kings"]

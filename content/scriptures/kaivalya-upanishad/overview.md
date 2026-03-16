@@ -2,7 +2,7 @@
 title: "Kaivalya Upanishad"
 slug: "kaivalya-upanishad"
 religion: "hinduism"
-aliases: ["\uce74\uc774\ubc1c\uc57c \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Kaivalyopanishad"]
+aliases: ["카이발야 우파니샤드", "Kaivalyopanishad", "कैवल्य उपनिषद्", "कैवल्योपनिषद्", "独存奥义书", "カイヴァリヤ・ウパニシャッド", "Кайвалья Упанишада", "Kaivalya Upanishad", "Kaivalya-Upanishad"]
 totalChapters: 2
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["liberation", "Shiva", "non-duality"]

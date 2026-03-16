@@ -2,7 +2,7 @@
 title: "Micah"
 slug: "micah"
 religion: "christianity"
-aliases: ["Mikhah", "미가"]
+aliases: ["Mikhah", "미가", "弥迦书", "ミカ書", "מיכה", "ميخا", "Μιχαίας", "Michaeas", "Micha", "Michée", "Miqueas", "Михей", "Book of Micah"]
 totalChapters: 7
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["justice", "mercy", "Bethlehem prophecy", "covenant lawsuit", "remnant"]

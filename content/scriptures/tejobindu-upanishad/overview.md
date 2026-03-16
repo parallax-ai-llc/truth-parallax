@@ -2,7 +2,7 @@
 title: "Tejobindu Upanishad"
 slug: "tejobindu-upanishad"
 religion: "hinduism"
-aliases: ["\ud14c\uc870\ube48\ub450 \uc6b0\ud30c\ub2c8\uc0e4\ub4dc", "Tejobindupanishad"]
+aliases: ["테조빈두 우파니샤드", "Tejobindupanishad", "तेजोबिन्दु उपनिषद्", "光点奥义书", "テージョービンドゥ・ウパニシャッド", "Теджобинду-упанишада", "Tejobindu Upaniṣad", "Tejobindu Upanishad"]
 totalChapters: 6
 traditions: ["vaishnavism", "shaivism", "advaita", "dvaita", "academic", "comparative"]
 tags: ["meditation", "Brahman", "consciousness"]

@@ -2,7 +2,7 @@
 title: "3 Enoch"
 slug: "3-enoch"
 religion: "judaism"
-aliases: ["3에녹서", "Hebrew Enoch", "Sefer Hekhalot"]
+aliases: ["3에녹서", "Hebrew Enoch", "Sefer Hekhalot", "以诺三书", "エノク書三", "ספר היכלות", "سفر أخنوخ الثالث", "3. Henoch", "3 Hénoch", "3 Enoc", "3-я Еноха", "Liber Enoch Hebraicus", "Hebräisches Henochbuch"]
 totalChapters: 48
 traditions: ["academic", "comparative", "protestant", "catholic", "eastern-orthodox", "interfaith"]
 tags: ["Metatron", "hekhalot", "merkabah", "Rabbi Ishmael", "heavenly palace"]

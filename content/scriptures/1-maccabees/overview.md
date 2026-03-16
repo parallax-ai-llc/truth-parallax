@@ -2,7 +2,7 @@
 title: "1 Maccabees"
 slug: "1-maccabees"
 religion: "christianity"
-aliases: ["Makkabaion A", "마카베오상"]
+aliases: ["Makkabaion A", "마카베오상", "玛加伯上", "マカバイ記一", "ספר מקבים א", "سفر المكابيين الأول", "1. Makkabäer", "1 Maccabées", "1 Macabeos", "1-я Маккавейская", "Α΄ Μακκαβαίων", "Liber I Machabaeorum", "First Maccabees"]
 totalChapters: 16
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["revolt", "Hanukkah", "Hasmoneans", "religious freedom", "Antiochus", "temple rededication"]

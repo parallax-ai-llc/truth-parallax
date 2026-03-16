@@ -2,7 +2,7 @@
 title: "1 Timothy"
 slug: "1-timothy"
 religion: "christianity"
-aliases: ["Pros Timotheon A", "디모데전서"]
+aliases: ["Pros Timotheon A", "디모데전서", "提摩太前书", "テモテへの手紙一", "הראשונה אל טימותיאוס", "رسالة تيموثاوس الأولى", "1. Timotheus", "1 Timothée", "1 Timoteo", "1-е Тимофею", "Α΄ Τιμόθεον", "Epistula I ad Timotheum", "First Timothy"]
 totalChapters: 6
 traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
 tags: ["church order", "sound doctrine", "godliness", "pastoral care", "false teaching"]

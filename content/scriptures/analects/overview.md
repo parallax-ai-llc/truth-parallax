@@ -2,7 +2,7 @@
 title: "Analects of Confucius"
 slug: "analects"
 religion: "confucianism"
-aliases: ["Lunyu", "논어"]
+aliases: ["Lunyu", "논어", "论语", "論語", "ロンユー", "Les Entretiens", "Analectas", "Gespräche des Konfuzius", "Лунь юй", "Analects of Confucius"]
 totalChapters: 20
 traditions: ["confucian", "neo-confucian", "daoist", "buddhist-chinese", "academic", "comparative"]
 tags: ["ren", "li", "junzi", "virtue", "governance", "education", "filial piety"]

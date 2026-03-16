@@ -2,7 +2,7 @@
 title: "Genesis Apocryphon"
 slug: "genesis-apocryphon"
 religion: "judaism"
-aliases: ["창세기 외경", "Genesis Apocryphon", "1QapGen"]
+aliases: ["창세기 외경", "Genesis Apocryphon", "1QapGen", "创世记伪经", "創世記外典", "מגילת בראשית החיצונית", "Апокриф Книги Бытия", "Apocryphe de la Genèse", "Apócrifo del Génesis", "Genesis-Apokryphon"]
 totalChapters: 7
 traditions: ['essene', 'judaism', 'protestantism', 'catholicism', 'eastern-orthodox', 'academic']
 tags: ["Genesis retelling", "Abraham", "Lamech", "Aramaic"]

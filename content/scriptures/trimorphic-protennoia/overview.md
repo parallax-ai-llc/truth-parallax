@@ -2,7 +2,7 @@
 title: "Trimorphic Protennoia"
 slug: "trimorphic-protennoia"
 religion: "christianity"
-aliases: ["Three Forms of First Thought", "삼형태의 프로테노이아"]
+aliases: ["Three Forms of First Thought", "삼형태의 프로테노이아", "Trimorphic Protennoia", "三形态的原初思想", "三形態のプロテンノイア", "Триморфная Протенноя", "La Protennoia trimorphe", "Die dreigestaltige Protennoia", "Protenoia Trimórfica", "ⲡⲣⲱⲧⲉⲛⲛⲟⲓⲁ ⲛ̄ⲧⲣⲓⲙⲟⲣⲫⲟⲥ"]
 totalChapters: 3
 traditions: ["gnosticism", "protestantism", "catholicism", "eastern-orthodox", "judaism", "academic"]
 tags: ["Sethian", "descent", "Logos", "Barbelo", "baptism", "Nag Hammadi"]

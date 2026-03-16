@@ -2,7 +2,7 @@
 title: "Fusus al-Hikam"
 slug: "fusus-al-hikam"
 religion: "islam"
-aliases: ["지혜의 보석", "Fuṣūṣ al-Ḥikam", "Bezels of Wisdom"]
+aliases: ["지혜의 보석", "Fuṣūṣ al-Ḥikam", "Bezels of Wisdom", "فصوص الحکم", "智慧的珠玑", "叡智の宝石", "Геммы мудрости", "Les Chatons des sagesses", "Los Engarces de la sabiduría", "Die Fassungen der Weisheiten"]
 totalChapters: 27
 traditions: ["sufi", "sunni", "shia", "academic", "comparative", "interfaith"]
 tags: ["Ibn Arabi", "prophets", "wisdom", "wahdat al-wujud", "mysticism"]

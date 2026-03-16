@@ -2,7 +2,7 @@
 title: "Vinaya Pitaka"
 slug: "vinaya-pitaka"
 religion: "buddhism"
-aliases: ["율장", "律藏", "Vinaya Piṭaka"]
+aliases: ["율장", "律藏", "Vinaya Piṭaka", "ヴィナヤ・ピタカ", "りつぞう", "พระวินัยปิฎก", "འདུལ་བའི་སྡེ་སྣོད", "Виная-питака", "La Corbeille de la discipline", "Vinaya Pitaka"]
 totalChapters: 5
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["monastic rules", "Sangha", "discipline", "ordination"]

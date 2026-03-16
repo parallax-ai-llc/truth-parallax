@@ -2,7 +2,7 @@
 title: "Sutta Nipata"
 slug: "sutta-nipata"
 religion: "buddhism"
-aliases: ["경집", "Discourse Collection"]
+aliases: ["경집", "Discourse Collection", "Sutta Nipāta", "經集", "スッタニパータ", "สุตตนิบาต", "བསྡུས་པའི་མདོ", "Сутта-нипата", "Le Recueil des suttas", "Sutta Nipata"]
 totalChapters: 5
 traditions: ["theravada", "mahayana", "zen", "tibetan", "academic", "comparative"]
 tags: ["early Buddhism", "renunciation", "compassion", "ethics", "Metta Sutta", "Atthaka"]
