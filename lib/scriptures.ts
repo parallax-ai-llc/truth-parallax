@@ -122,10 +122,12 @@ function readFrontmatter(filePath: string): { data: Record<string, unknown>; con
   }
 }
 
+const RESERVED_DIRS = new Set(["source"]);
+
 function listDirectories(dirPath: string): string[] {
   try {
     return fs.readdirSync(dirPath, { withFileTypes: true })
-      .filter((d) => d.isDirectory())
+      .filter((d) => d.isDirectory() && !RESERVED_DIRS.has(d.name))
       .map((d) => d.name)
       .sort();
   } catch {
@@ -400,6 +402,27 @@ export async function getChapter(
     prevChapter,
     nextChapter,
   };
+}
+
+// ── Source Text ─────────────────────────────────────────────
+
+export async function getSourceText(
+  scriptureSlug: string,
+  chapterNum: number
+): Promise<{ content: string } | null> {
+  const sourcePath = path.join(
+    scripturesDirectory,
+    scriptureSlug,
+    "source",
+    `${chapterNum}.md`
+  );
+  const parsed = readFrontmatter(sourcePath);
+  if (!parsed) return null;
+
+  const { content } = parsed;
+  const { html: htmlContent } = await processMarkdown(content);
+
+  return { content: htmlContent };
 }
 
 // ── Search Index ────────────────────────────────────────────

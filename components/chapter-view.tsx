@@ -9,6 +9,7 @@ interface ChapterViewProps {
   traditionMeta: TraditionMeta;
   prevChapter: number | null;
   nextChapter: number | null;
+  sourceText?: string | null;
 }
 
 export function ChapterView({
@@ -18,6 +19,7 @@ export function ChapterView({
   traditionMeta,
   prevChapter,
   nextChapter,
+  sourceText,
 }: ChapterViewProps) {
   return (
     <article className="flex-1 min-w-0">
@@ -61,6 +63,18 @@ export function ChapterView({
           </div>
         )}
       </div>
+
+      {/* Source text */}
+      {sourceText && (
+        <details className="mb-8 rounded-lg border border-border">
+          <summary className="cursor-pointer px-5 py-4 text-sm font-medium hover:bg-accent transition-colors select-none">
+            원문 보기 (View Original Text)
+          </summary>
+          <div className="px-5 pb-5 pt-2 border-t border-border">
+            <div className="article-content prose-sm" dangerouslySetInnerHTML={{ __html: sourceText }} />
+          </div>
+        </details>
+      )}
 
       {/* Main content */}
       <div className="article-content" dangerouslySetInnerHTML={{ __html: content }} />

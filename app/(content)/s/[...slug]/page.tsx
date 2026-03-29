@@ -6,6 +6,7 @@ import {
   getAllScripturePaths,
   getScriptureMeta,
   getTraditionMeta,
+  getSourceText,
 } from "@/lib/scriptures";
 import { ScriptureOverview } from "@/components/scripture-overview";
 import { TraditionOverview } from "@/components/tradition-overview";
@@ -143,7 +144,10 @@ export default async function ScriptureCatchAllPage({ params }: PageProps) {
     const chapterNum = parseInt(slug[2], 10);
     if (isNaN(chapterNum)) notFound();
 
-    const data = await getChapter(slug[0], slug[1], chapterNum);
+    const [data, sourceText] = await Promise.all([
+      getChapter(slug[0], slug[1], chapterNum),
+      getSourceText(slug[0], chapterNum),
+    ]);
     if (!data) notFound();
 
     const breadcrumbs = [
@@ -184,6 +188,7 @@ export default async function ScriptureCatchAllPage({ params }: PageProps) {
             traditionMeta={data.traditionMeta}
             prevChapter={data.prevChapter}
             nextChapter={data.nextChapter}
+            sourceText={sourceText?.content ?? null}
           />
           <div className="mt-8 pt-4 border-t text-sm text-muted-foreground">
             <a
