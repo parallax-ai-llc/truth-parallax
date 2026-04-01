@@ -54,3 +54,7 @@ gen-*.json
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Data fetch scripts
+fetch_*.py
+retry_*.py
