@@ -5,6 +5,7 @@ import { Search, GitPullRequest } from "lucide-react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { ThemeToggle } from "@/components/theme-toggle";
+import { LanguageSwitcher } from "@/components/language-switcher";
 import { Button } from "@/components/ui/button";
 
 interface SiteHeaderProps {
@@ -68,6 +69,7 @@ export function SiteHeader({ onSearchClick }: SiteHeaderProps) {
               <span className="sr-only sm:not-sr-only">Contribute</span>
             </Link>
           )}
+          <LanguageSwitcher />
           <ThemeToggle />
         </nav>
       </div>

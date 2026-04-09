@@ -3,6 +3,7 @@
 import * as React from "react";
 import { Search, BookOpen } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
+import { LanguageSwitcher } from "@/components/language-switcher";
 import { Footer } from "@/components/footer";
 import { Button } from "@/components/ui/button";
 import { useRouter } from "next/navigation";
@@ -69,6 +70,7 @@ export function HomeClient({ scriptures, totalFiles }: HomeClientProps) {
   return (
     <div className="flex min-h-screen flex-col">
       <header className="absolute right-4 top-4 z-50 flex items-center gap-2">
+        <LanguageSwitcher />
         <ThemeToggle />
       </header>
 
