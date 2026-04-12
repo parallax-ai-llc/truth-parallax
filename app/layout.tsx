@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Script from "next/script";
 import { Cormorant_Garamond } from "next/font/google";
 import { ThemeProvider } from "@/components/theme-provider";
+import { LocaleProvider } from "@/lib/i18n";
 import "./globals.css";
 
 // Serif 폰트 (로고, 기사 제목 등)
@@ -89,9 +90,11 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <div id="main-content" role="main" tabIndex={-1}>
-            {children}
-          </div>
+          <LocaleProvider>
+            <div id="main-content" role="main" tabIndex={-1}>
+              {children}
+            </div>
+          </LocaleProvider>
         </ThemeProvider>
       </body>
     </html>

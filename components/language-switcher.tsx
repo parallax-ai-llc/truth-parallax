@@ -3,6 +3,7 @@
 import * as React from "react";
 import { Globe } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { useLocale } from "@/lib/i18n";
 
 const languages = [
   { code: "en", name: "English" },
@@ -17,21 +18,10 @@ const languages = [
   { code: "hi", name: "हिन्दी" },
 ] as const;
 
-const STORAGE_KEY = "preferred-locale";
-
 export function LanguageSwitcher() {
-  const [locale, setLocale] = React.useState<string>("en");
+  const { locale, setLocale, t } = useLocale();
   const [open, setOpen] = React.useState(false);
   const containerRef = React.useRef<HTMLDivElement>(null);
-
-  React.useEffect(() => {
-    try {
-      const stored = localStorage.getItem(STORAGE_KEY);
-      if (stored) setLocale(stored);
-    } catch {
-      /* ignore */
-    }
-  }, []);
 
   React.useEffect(() => {
     if (!open) return;
@@ -43,16 +33,6 @@ export function LanguageSwitcher() {
     document.addEventListener("mousedown", onClick);
     return () => document.removeEventListener("mousedown", onClick);
   }, [open]);
-
-  const handleSelect = (code: string) => {
-    setLocale(code);
-    try {
-      localStorage.setItem(STORAGE_KEY, code);
-    } catch {
-      /* ignore */
-    }
-    setOpen(false);
-  };
 
   return (
     <div className="relative" ref={containerRef}>
@@ -71,7 +51,10 @@ export function LanguageSwitcher() {
           {languages.map((lang) => (
             <button
               key={lang.code}
-              onClick={() => handleSelect(lang.code)}
+              onClick={() => {
+                setLocale(lang.code as typeof locale);
+                setOpen(false);
+              }}
               className={`flex w-full items-center justify-between gap-2 rounded-sm px-2 py-1.5 text-left text-sm hover:bg-accent hover:text-accent-foreground ${
                 locale === lang.code ? "bg-accent text-accent-foreground font-medium" : ""
               }`}
@@ -80,7 +63,7 @@ export function LanguageSwitcher() {
             </button>
           ))}
           <div className="mt-1 border-t px-2 py-1.5 text-[10px] text-muted-foreground/70">
-            Translations coming soon
+            {t("translationsComingSoon")}
           </div>
         </div>
       )}

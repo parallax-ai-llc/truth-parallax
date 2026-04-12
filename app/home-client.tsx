@@ -5,7 +5,7 @@ import { Search, BookOpen } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { LanguageSwitcher } from "@/components/language-switcher";
 import { Footer } from "@/components/footer";
-import { Button } from "@/components/ui/button";
+import { useLocale } from "@/lib/i18n";
 import { useRouter } from "next/navigation";
 import type { ScriptureMeta } from "@/lib/scripture-types";
 import { RELIGION_GROUPS } from "@/lib/scripture-constants";
@@ -17,6 +17,7 @@ interface HomeClientProps {
 }
 
 export function HomeClient({ scriptures, totalFiles }: HomeClientProps) {
+  const { t } = useLocale();
   const router = useRouter();
   const [search, setSearch] = React.useState("");
   const [focused, setFocused] = React.useState(false);
@@ -24,7 +25,6 @@ export function HomeClient({ scriptures, totalFiles }: HomeClientProps) {
 
   const totalDocs = scriptures.length;
 
-  // Filter scriptures by search query
   const filtered = React.useMemo(() => {
     if (!search.trim()) return [];
     const q = search.toLowerCase();
@@ -38,7 +38,6 @@ export function HomeClient({ scriptures, totalFiles }: HomeClientProps) {
     );
   }, [scriptures, search]);
 
-  // Group filtered results by religion
   const groupedResults = React.useMemo(() => {
     const grouped = filtered.reduce<Record<string, ScriptureMeta[]>>((acc, s) => {
       const key = s.religion;
@@ -53,7 +52,6 @@ export function HomeClient({ scriptures, totalFiles }: HomeClientProps) {
     });
   }, [filtered]);
 
-  // Ctrl+K shortcut
   React.useEffect(() => {
     const down = (e: KeyboardEvent) => {
       if (e.key === "k" && (e.metaKey || e.ctrlKey)) {
@@ -81,23 +79,22 @@ export function HomeClient({ scriptures, totalFiles }: HomeClientProps) {
               Truth Parallax
             </h1>
             <p className="text-muted-foreground text-sm md:text-base italic leading-relaxed">
-              &ldquo;One scripture, many parallax&rdquo;
+              &ldquo;{t("tagline")}&rdquo;
             </p>
             {totalDocs > 0 && (
               <p className="mt-2 text-xs text-muted-foreground/60">
-                {totalDocs.toLocaleString()} scriptures &middot; {totalFiles.toLocaleString()} interpretation documents
+                {t("scripturesCount", { count: totalDocs.toLocaleString() })} &middot; {t("docsCount", { files: totalFiles.toLocaleString() })}
               </p>
             )}
           </div>
 
-          {/* Inline search */}
           <div className="relative">
             <div className="relative">
               <Search className="absolute left-4 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" />
               <input
                 ref={inputRef}
                 type="text"
-                placeholder="Search scriptures..."
+                placeholder={t("searchPlaceholder")}
                 value={search}
                 onChange={(e) => setSearch(e.target.value)}
                 onFocus={() => setFocused(true)}
@@ -109,12 +106,11 @@ export function HomeClient({ scriptures, totalFiles }: HomeClientProps) {
               </kbd>
             </div>
 
-            {/* Search results dropdown */}
             {showResults && (
               <div className="absolute z-50 mt-2 w-full rounded-lg border bg-popover shadow-lg max-h-96 overflow-y-auto text-left">
                 {filtered.length === 0 ? (
                   <p className="px-4 py-8 text-center text-sm text-muted-foreground">
-                    No scriptures found for &ldquo;{search}&rdquo;
+                    {t("noResults", { query: search })}
                   </p>
                 ) : (
                   <div className="py-2">
@@ -145,7 +141,7 @@ export function HomeClient({ scriptures, totalFiles }: HomeClientProps) {
                       </div>
                     ))}
                     <p className="px-4 py-2 text-xs text-muted-foreground/50 text-center border-t">
-                      {filtered.length} result{filtered.length !== 1 ? "s" : ""}
+                      {t("results", { count: filtered.length })}
                     </p>
                   </div>
                 )}
@@ -153,14 +149,13 @@ export function HomeClient({ scriptures, totalFiles }: HomeClientProps) {
             )}
           </div>
 
-          {/* Browse link */}
           <div className="flex justify-center">
             <Link
               href="/s"
               className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors"
             >
               <BookOpen className="h-4 w-4" />
-              Browse all scriptures
+              {t("browseAll")}
             </Link>
           </div>
         </div>

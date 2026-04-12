@@ -1,11 +1,16 @@
+"use client";
+
 import Link from "next/link";
+import { useLocale } from "@/lib/i18n";
 
 export function Footer() {
+  const { t } = useLocale();
+
   return (
     <footer className="border-t border-border/40 py-6" role="contentinfo" aria-label="Site footer">
       <div className="container flex flex-col items-center justify-between gap-4 md:flex-row">
         <p className="text-sm text-muted-foreground">
-          Powered by{" "}
+          {t("poweredBy")}{" "}
           <Link
             href="https://parallax.kr"
             target="_blank"
@@ -48,13 +53,13 @@ export function Footer() {
             href="/terms-of-service"
             className="hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
           >
-            Terms of Service
+            {t("termsOfService")}
           </Link>
           <Link
             href="/privacy-policy"
             className="hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
           >
-            Privacy Policy
+            {t("privacyPolicy")}
           </Link>
         </nav>
       </div>
