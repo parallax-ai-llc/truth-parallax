@@ -15,8 +15,7 @@ import { ScriptureBreadcrumb } from "@/components/scripture-breadcrumb";
 import { TraditionTabs } from "@/components/tradition-tabs";
 import { SidebarToc } from "@/components/sidebar-toc";
 
-export const dynamicParams = true;
-export const revalidate = 3600; // ISR: revalidate every hour
+export const dynamic = "force-dynamic";
 
 const GITHUB_REPO = "https://github.com/parallax-ai-llc/truth-parallax";
 

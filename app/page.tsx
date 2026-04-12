@@ -1,7 +1,7 @@
 import { getAllScriptures, getTotalContentFiles } from "@/lib/scriptures";
 import { HomeClient } from "./home-client";
 
-export const revalidate = 3600;
+export const dynamic = "force-dynamic";
 
 export default function HomePage() {
   const scriptures = getAllScriptures();
