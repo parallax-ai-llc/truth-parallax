@@ -24,6 +24,9 @@ export default [
       ...nextPlugin.configs["core-web-vitals"].rules,
       "react/react-in-jsx-scope": "off",
       "@typescript-eslint/no-unused-vars": ["warn", { argsIgnorePattern: "^_" }],
+      // Over-aggressive for valid SSR mount/hydration patterns (e.g. setMounted(true),
+      // localStorage rehydration). Keep as warn for visibility without blocking builds.
+      "react-hooks/set-state-in-effect": "warn",
     },
     settings: {
       react: {
