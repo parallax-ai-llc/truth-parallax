@@ -210,11 +210,9 @@ Disallow: /
 
 User-Agent: *
 Allow: /
-Allow: /a/
 Disallow: /api/
 Disallow: /_next/
-Disallow: /contribute
 Crawl-delay: 10
 
-Host: https://historical.parallax.kr
-Sitemap: https://historical.parallax.kr/sitemap.xml
+Host: https://truth.parallax.kr
+Sitemap: https://truth.parallax.kr/sitemap.xml

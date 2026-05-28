@@ -1,6 +1,11 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  // Pin the workspace root so Turbopack (Next 16 default) doesn't misinfer it
+  turbopack: {
+    root: __dirname,
+  },
+
   // Core Web Vitals
   compress: true,
   poweredByHeader: false,

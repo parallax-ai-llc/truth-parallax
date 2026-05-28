@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
-import Script from "next/script";
 import { Cormorant_Garamond } from "next/font/google";
+import localFont from "next/font/local";
 import { ThemeProvider } from "@/components/theme-provider";
 import { LocaleProvider } from "@/lib/i18n";
 import "./globals.css";
@@ -13,6 +13,22 @@ const cormorant = Cormorant_Garamond({
   preload: true,
   fallback: ["Times New Roman", "serif"],
   adjustFontFallback: true,
+});
+
+// 본문 폰트 (Google Sans Flex) — Google Fonts 목록에 없어 self-host.
+// 렌더링 차단 외부 스타일시트를 제거하고 preload + fallback 메트릭 보정으로 CLS 감소.
+const googleSans = localFont({
+  src: [
+    { path: "./fonts/google-sans-flex-400.ttf", weight: "400", style: "normal" },
+    { path: "./fonts/google-sans-flex-500.ttf", weight: "500", style: "normal" },
+    { path: "./fonts/google-sans-flex-600.ttf", weight: "600", style: "normal" },
+    { path: "./fonts/google-sans-flex-700.ttf", weight: "700", style: "normal" },
+  ],
+  variable: "--font-sans",
+  display: "swap",
+  preload: true,
+  fallback: ["system-ui", "sans-serif"],
+  adjustFontFallback: "Arial",
 });
 
 export const metadata: Metadata = {
@@ -69,16 +85,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <head>
-        {/* LCP 최적화: 폰트 프리로드 */}
-        <link rel="preconnect" href="https://fonts.googleapis.com" crossOrigin="anonymous" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400;500;600;700&display=swap"
-          rel="stylesheet"
-        />
-      </head>
-      <body className={`${cormorant.variable} font-sans antialiased`}>
+      <body className={`${cormorant.variable} ${googleSans.variable} font-sans antialiased`}>
         {/* WCAG AAA: 스킵 네비게이션 링크 */}
         <a href="#main-content" className="skip-link">
           Skip to main content
