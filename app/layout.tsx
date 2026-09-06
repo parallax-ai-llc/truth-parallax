@@ -1,8 +1,10 @@
+import Script from "next/script";
 import type { Metadata } from "next";
 import { Cormorant_Garamond } from "next/font/google";
 import localFont from "next/font/local";
 import { ThemeProvider } from "@/components/theme-provider";
 import { LocaleProvider } from "@/lib/i18n";
+import { WebVitals } from "@/components/web-vitals";
 import "./globals.css";
 
 // Serif 폰트 (로고, 기사 제목 등)
@@ -85,7 +87,20 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        {/* Google Analytics (gtag.js) */}
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-W71QF2WLYQ" strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-W71QF2WLYQ');
+          `}
+        </Script>
+      </head>
       <body className={`${cormorant.variable} ${googleSans.variable} font-sans antialiased`}>
+        <WebVitals />
         {/* WCAG AAA: 스킵 네비게이션 링크 */}
         <a href="#main-content" className="skip-link">
           Skip to main content
