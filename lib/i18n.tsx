@@ -177,25 +177,44 @@ interface LocaleContextType {
 
 const LocaleContext = React.createContext<LocaleContextType | null>(null);
 
-export function LocaleProvider({ children }: { children: React.ReactNode }) {
-  const [locale, setLocaleState] = React.useState<Locale>("en");
+// localStorage-backed external store for the locale. Using useSyncExternalStore
+// (instead of useState + useEffect rehydration) keeps SSR/hydration on "en" and
+// switches to the stored locale without a setState-in-effect.
+const LOCALE_CHANGE_EVENT = "preferred-locale-change";
 
-  React.useEffect(() => {
-    try {
-      const stored = localStorage.getItem(STORAGE_KEY) as Locale | null;
-      if (stored && translations[stored]) setLocaleState(stored);
-    } catch {
-      /* ignore */
-    }
-  }, []);
+// In-memory fallback so switching still works when localStorage is unavailable.
+let memoryLocale: Locale = "en";
+
+function readStoredLocale(): Locale {
+  try {
+    const stored = localStorage.getItem(STORAGE_KEY) as Locale | null;
+    if (stored && translations[stored]) return stored;
+  } catch {
+    /* ignore */
+  }
+  return memoryLocale;
+}
+
+function subscribeToLocale(callback: () => void) {
+  window.addEventListener(LOCALE_CHANGE_EVENT, callback);
+  window.addEventListener("storage", callback);
+  return () => {
+    window.removeEventListener(LOCALE_CHANGE_EVENT, callback);
+    window.removeEventListener("storage", callback);
+  };
+}
+
+export function LocaleProvider({ children }: { children: React.ReactNode }) {
+  const locale = React.useSyncExternalStore<Locale>(subscribeToLocale, readStoredLocale, () => "en");
 
   const setLocale = React.useCallback((newLocale: Locale) => {
-    setLocaleState(newLocale);
+    memoryLocale = newLocale;
     try {
       localStorage.setItem(STORAGE_KEY, newLocale);
     } catch {
       /* ignore */
     }
+    window.dispatchEvent(new Event(LOCALE_CHANGE_EVENT));
   }, []);
 
   const t = React.useCallback(

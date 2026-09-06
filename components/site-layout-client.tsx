@@ -4,6 +4,7 @@ import * as React from "react";
 import { SiteHeader } from "@/components/site-header";
 import { SearchDialog, SearchItem } from "@/components/search-dialog";
 import { Footer } from "@/components/footer";
+import { useMounted } from "@/lib/use-mounted";
 
 interface SiteLayoutClientProps {
   searchIndex: SearchItem[];
@@ -11,12 +12,8 @@ interface SiteLayoutClientProps {
 }
 
 export function SiteLayoutClient({ searchIndex, children }: SiteLayoutClientProps) {
-  const [mounted, setMounted] = React.useState(false);
+  const mounted = useMounted();
   const [searchOpen, setSearchOpen] = React.useState(false);
-
-  React.useEffect(() => {
-    setMounted(true);
-  }, []);
 
   return (
     <div className="flex min-h-screen flex-col">

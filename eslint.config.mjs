@@ -6,7 +6,7 @@ import nextPlugin from "@next/eslint-plugin-next";
 
 export default [
   {
-    ignores: [".next/**", "out/**", "build/**", "node_modules/**"],
+    ignores: [".next/**", "out/**", "build/**", "node_modules/**", "next-env.d.ts"],
   },
   js.configs.recommended,
   ...tseslint.configs.recommended,

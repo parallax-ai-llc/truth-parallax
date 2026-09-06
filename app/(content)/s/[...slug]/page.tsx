@@ -3,7 +3,6 @@ import {
   getScriptureOverview,
   getTraditionOverview,
   getChapter,
-  getAllScripturePaths,
   getScriptureMeta,
   getTraditionMeta,
   getSourceText,
