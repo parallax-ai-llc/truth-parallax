@@ -73,7 +73,7 @@ export function HomeClient({ scriptures, totalFiles }: HomeClientProps) {
         <ThemeToggle />
       </header>
 
-      <main className="flex flex-1 flex-col items-center justify-center px-4">
+      <main className="flex min-h-[90vh] flex-1 flex-col items-center justify-center px-4">
         <div className="w-full max-w-xl space-y-6 text-center">
           <div>
             <h1 className="font-serif text-4xl font-bold tracking-tight md:text-5xl leading-[1.2] min-h-[1.2em] text-primary">
