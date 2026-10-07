@@ -208,6 +208,11 @@ Disallow: /
 User-Agent: Playwright
 Disallow: /
 
+# Parallel Web Systems search crawler (~98% of historical.parallax.kr origin
+# requests in 2026-10).
+User-Agent: ShapBot
+Disallow: /
+
 User-Agent: *
 Allow: /
 Disallow: /api/

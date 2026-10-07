@@ -14,7 +14,12 @@ import { ScriptureBreadcrumb } from "@/components/scripture-breadcrumb";
 import { TraditionTabs } from "@/components/tradition-tabs";
 import { SidebarToc } from "@/components/sidebar-toc";
 
-export const dynamic = "force-dynamic";
+// ISR: each page renders on its first visit and is then served from the cache.
+// force-dynamic (2026-04) was meant to avoid ISR write costs, but it ran a function
+// on every request (~29k/day, mostly crawlers). Vercel no longer bills a write when a
+// revalidation produces the same output, and this content only changes on deploy.
+export const revalidate = 86400;
+export const dynamicParams = true;
 
 const GITHUB_REPO = "https://github.com/parallax-ai-llc/truth-parallax";
 

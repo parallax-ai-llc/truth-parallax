@@ -3,7 +3,7 @@ import { BookOpen } from "lucide-react";
 import { getAllScriptures, RELIGION_GROUPS } from "@/lib/scriptures";
 import type { ScriptureMeta } from "@/lib/scriptures";
 
-export const dynamic = "force-dynamic";
+export const revalidate = 86400;
 
 export const metadata = {
   title: "Scriptures",
