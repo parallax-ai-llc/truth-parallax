@@ -4,7 +4,7 @@ slug: "nehemiah"
 religion: "christianity"
 aliases: ["Nechemyah", "느헤미야", "尼希米记", "ネヘミヤ記", "נחמיה", "نحميا", "Νεεμίας", "Nehemias", "Nehemia", "Néhémie", "Nehemías", "Неемия", "Book of Nehemiah"]
 totalChapters: 13
-traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism"]
+traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "history-archaeology"]
 tags: ["walls", "rebuilding", "covenant renewal", "reform"]
 lastUpdated: "2026-03-12"
 ---

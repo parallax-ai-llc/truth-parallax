@@ -4,7 +4,7 @@ slug: "1-kings"
 religion: "christianity"
 aliases: ["Melachim Aleph", "열왕기상", "列王纪上", "列王記上", "מלכים א", "سفر الملوك الأول", "1. Könige", "1 Rois", "1 Reyes", "3 Царств", "Α΄ Βασιλέων", "Liber I Regum", "First Kings"]
 totalChapters: 22
-traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
+traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism", "history-archaeology"]
 tags: ["Solomon", "temple", "kingdom divided", "Elijah", "wisdom", "apostasy"]
 lastUpdated: "2026-03-12"
 ---

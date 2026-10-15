@@ -4,7 +4,7 @@ slug: "genesis"
 religion: "christianity"
 aliases: ["Bereshit", "창세기", "בְּרֵאשִׁית", "创世记", "創世記", "Γένεσις", "Liber Genesis", "Бытие", "La Genèse", "Génesis", "Das Buch Genesis", "سفر پیدایش"]
 totalChapters: 50
-traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism"]
+traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "history-archaeology"]
 tags: ["creation", "patriarchs", "covenant", "fall", "flood"]
 lastUpdated: "2026-03-12"
 ---

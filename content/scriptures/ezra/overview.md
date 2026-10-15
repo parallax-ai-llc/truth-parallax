@@ -4,7 +4,7 @@ slug: "ezra"
 religion: "christianity"
 aliases: ["Ezra", "에스라", "עֶזְרָא", "以斯拉记", "エズラ記", "Ἔσδρας", "Liber Esdrae", "Книга Ездры", "Livre d'Esdras", "Libro de Esdras", "Buch Esra"]
 totalChapters: 10
-traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism"]
+traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "history-archaeology"]
 tags: ["return", "temple rebuilding", "Torah", "exile"]
 lastUpdated: "2026-03-12"
 ---

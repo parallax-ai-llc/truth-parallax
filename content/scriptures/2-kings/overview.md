@@ -4,7 +4,7 @@ slug: "2-kings"
 religion: "christianity"
 aliases: ["Melachim Bet", "열왕기하", "列王纪下", "列王記下", "מלכים ב", "سفر الملوك الثاني", "2. Könige", "2 Rois", "2 Reyes", "4 Царств", "Β΄ Βασιλέων", "Liber II Regum", "Second Kings"]
 totalChapters: 25
-traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
+traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism", "history-archaeology"]
 tags: ["Elisha", "fall of Israel", "fall of Judah", "exile", "prophets", "Josiah"]
 lastUpdated: "2026-03-12"
 ---
