@@ -4,7 +4,7 @@ slug: "isaiah"
 religion: "christianity"
 aliases: ["Yeshayahu", "이사야", "יְשַׁעְיָהוּ", "إشعياء", "以赛亚书", "イザヤ書", "Ἠσαΐας", "Isaias", "Книга пророка Исаии", "Isaïe", "Jesaja", "Isaías"]
 totalChapters: 66
-traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism"]
+traditions: ["protestantism", "catholicism", "eastern-orthodox", "judaism", "islam", "gnosticism", "history-archaeology"]
 tags: ["messianic prophecy", "suffering servant", "holy one of Israel", "judgment", "restoration", "new creation"]
 lastUpdated: "2026-03-12"
 ---

@@ -76,3 +76,13 @@ export const RELIGION_GROUPS: Record<string, { label: string; order: number }> =
   yoruba: { label: "Yoruba", order: 87 },
   "african-traditional": { label: "African Traditional", order: 88 },
 };
+
+// Non-confessional lens: what archaeology, extra-biblical texts and historical sources
+// say about a scripture. Lives alongside the traditions on disk but always sorts last.
+export const HISTORICAL_TRADITION = "history-archaeology";
+
+export function compareTraditions(a: string, b: string): number {
+  if (a === HISTORICAL_TRADITION) return b === HISTORICAL_TRADITION ? 0 : 1;
+  if (b === HISTORICAL_TRADITION) return -1;
+  return a.localeCompare(b);
+}
