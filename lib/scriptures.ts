@@ -51,7 +51,7 @@ export interface ChapterDetail {
 
 // ── Constants ───────────────────────────────────────────────
 
-import { RELIGION_GROUPS } from "./scripture-constants";
+import { RELIGION_GROUPS, compareTraditions } from "./scripture-constants";
 export { RELIGION_GROUPS };
 
 const scripturesDirectory = path.join(process.cwd(), "content/scriptures");
@@ -129,7 +129,7 @@ function listDirectories(dirPath: string): string[] {
     return fs.readdirSync(dirPath, { withFileTypes: true })
       .filter((d) => d.isDirectory() && !RESERVED_DIRS.has(d.name))
       .map((d) => d.name)
-      .sort();
+      .sort(compareTraditions);
   } catch {
     return [];
   }

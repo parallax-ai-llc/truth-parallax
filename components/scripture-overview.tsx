@@ -1,7 +1,9 @@
 import Link from "next/link";
-import { BookOpen } from "lucide-react";
+import { BookOpen, Landmark } from "lucide-react";
 import type { ScriptureMeta, TraditionMeta } from "@/lib/scriptures";
 import { RELIGION_GROUPS } from "@/lib/scriptures";
+import { HISTORICAL_TRADITION } from "@/lib/scripture-constants";
+import { cn } from "@/lib/utils";
 
 interface ScriptureOverviewProps {
   meta: ScriptureMeta;
@@ -59,27 +61,34 @@ export function ScriptureOverview({ meta, content, traditions }: ScriptureOvervi
             Interpretive Traditions
           </h2>
           <div className="grid gap-4 md:grid-cols-2">
-            {traditions.map((t) => (
-              <Link
-                key={t.tradition}
-                href={`/s/${meta.slug}/${t.tradition}`}
-                className="group rounded-lg border border-border p-5 transition-colors hover:bg-accent hover:border-border/80"
-              >
-                <div className="flex items-start gap-3">
-                  <BookOpen className="h-5 w-5 mt-0.5 text-muted-foreground group-hover:text-foreground transition-colors" />
-                  <div>
-                    <h3 className="font-medium text-foreground group-hover:text-foreground">
-                      {t.traditionDisplayName}
-                    </h3>
-                    {t.keyThemes.length > 0 && (
-                      <p className="mt-1 text-sm text-muted-foreground line-clamp-2">
-                        {t.keyThemes.join(" · ")}
-                      </p>
-                    )}
+            {traditions.map((t) => {
+              const historical = t.tradition === HISTORICAL_TRADITION;
+              const Icon = historical ? Landmark : BookOpen;
+              return (
+                <Link
+                  key={t.tradition}
+                  href={`/s/${meta.slug}/${t.tradition}`}
+                  className={cn(
+                    "group rounded-lg border p-5 transition-colors hover:bg-accent hover:border-border/80",
+                    historical ? "border-dashed border-primary/40 bg-primary/5" : "border-border"
+                  )}
+                >
+                  <div className="flex items-start gap-3">
+                    <Icon className="h-5 w-5 mt-0.5 text-muted-foreground group-hover:text-foreground transition-colors" />
+                    <div>
+                      <h3 className="font-medium text-foreground group-hover:text-foreground">
+                        {t.traditionDisplayName}
+                      </h3>
+                      {t.keyThemes.length > 0 && (
+                        <p className="mt-1 text-sm text-muted-foreground line-clamp-2">
+                          {t.keyThemes.join(" · ")}
+                        </p>
+                      )}
+                    </div>
                   </div>
-                </div>
-              </Link>
-            ))}
+                </Link>
+              );
+            })}
           </div>
         </section>
       )}
