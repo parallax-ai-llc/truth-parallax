@@ -33,6 +33,9 @@ const nextConfig: NextConfig = {
   outputFileTracingIncludes: {
     "/s/[...slug]": ["./content/scriptures/**/*"],
     "/api/search": ["./content/scriptures/**/*"],
+    // iOS app JSON (lib/app-api.ts)
+    "/api/app/overview": ["./content/scriptures/**/*"],
+    "/api/app/s/[...slug]": ["./content/scriptures/**/*"],
   },
 
   experimental: {
