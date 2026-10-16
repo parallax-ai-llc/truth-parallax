@@ -5,6 +5,7 @@ import localFont from "next/font/local";
 import { ThemeProvider } from "@/components/theme-provider";
 import { LocaleProvider } from "@/lib/i18n";
 import { WebVitals } from "@/components/web-vitals";
+import { AndroidAppBanner } from "@/components/android-app-banner";
 import "./globals.css";
 
 // Serif 폰트 (로고, 기사 제목 등)
@@ -117,6 +118,7 @@ export default function RootLayout({
             <div id="main-content" role="main" tabIndex={-1}>
               {children}
             </div>
+            <AndroidAppBanner />
           </LocaleProvider>
         </ThemeProvider>
       </body>
