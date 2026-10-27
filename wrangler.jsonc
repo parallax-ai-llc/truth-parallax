@@ -1,0 +1,11 @@
+{
+  // Static assets only (no Worker code): `pnpm build` writes the export to ./out.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "truth-parallax",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./out",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}

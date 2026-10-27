@@ -1,67 +1,25 @@
 import type { NextConfig } from "next";
 
+// Static export served as Cloudflare Workers static assets (wrangler.jsonc).
+// Content only changes on deploy, so every page is prerendered at build time;
+// response headers live in public/_headers.
 const nextConfig: NextConfig = {
+  output: "export",
+
   // Pin the workspace root so Turbopack (Next 16 default) doesn't misinfer it
   turbopack: {
     root: __dirname,
   },
 
-  // Core Web Vitals
-  compress: true,
   poweredByHeader: false,
 
+  // No image optimizer in a static export: images load from Wikimedia as-is.
   images: {
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "upload.wikimedia.org",
-        pathname: "/wikipedia/commons/**",
-      },
-      {
-        protocol: "https",
-        hostname: "commons.wikimedia.org",
-        pathname: "/**",
-      },
-    ],
-    formats: ["image/avif", "image/webp"],
-    deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
-    imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
-    minimumCacheTTL: 31536000,
-  },
-
-  // Ensure content files are bundled in serverless functions
-  outputFileTracingIncludes: {
-    "/s/[...slug]": ["./content/scriptures/**/*"],
-    "/api/search": ["./content/scriptures/**/*"],
-    // iOS app JSON (lib/app-api.ts)
-    "/api/app/overview": ["./content/scriptures/**/*"],
-    "/api/app/s/[...slug]": ["./content/scriptures/**/*"],
+    unoptimized: true,
   },
 
   experimental: {
     optimizePackageImports: ["lucide-react"],
-  },
-
-  async headers() {
-    return [
-      {
-        source: "/:path*",
-        headers: [
-          {
-            key: "X-DNS-Prefetch-Control",
-            value: "on",
-          },
-          {
-            key: "X-Content-Type-Options",
-            value: "nosniff",
-          },
-          {
-            key: "Referrer-Policy",
-            value: "strict-origin-when-cross-origin",
-          },
-        ],
-      },
-    ];
   },
 };
 

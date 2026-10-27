@@ -1,6 +1,8 @@
 import { MetadataRoute } from "next";
 import { getAllScripturePaths } from "@/lib/scriptures";
 
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://truth.parallax.kr";
 

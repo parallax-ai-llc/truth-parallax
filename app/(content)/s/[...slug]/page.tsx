@@ -6,6 +6,7 @@ import {
   getScriptureMeta,
   getTraditionMeta,
   getSourceText,
+  getAllScripturePaths,
 } from "@/lib/scriptures";
 import { ScriptureOverview } from "@/components/scripture-overview";
 import { TraditionOverview } from "@/components/tradition-overview";
@@ -14,13 +15,11 @@ import { ScriptureBreadcrumb } from "@/components/scripture-breadcrumb";
 import { TraditionTabs } from "@/components/tradition-tabs";
 import { SidebarToc } from "@/components/sidebar-toc";
 
-// ISR: each page renders on its first visit and is then served from the cache.
-// force-dynamic (2026-04) was meant to avoid ISR write costs, but it ran a function
-// on every request (~29k/day, mostly crawlers). A daily revalidate (2026-10) rewrote
-// every crawled page each day (17M write units/month). Content only changes on
-// deploy, so pages stay cached until the next deploy.
-export const revalidate = false;
-export const dynamicParams = true;
+// Every page is prerendered at build time (static export on Cloudflare assets).
+// force-dynamic (2026-04) ran a function on every request, and a daily ISR
+// revalidate (2026-10) rewrote every crawled page each day (17M write units/month).
+// Content only changes on deploy, so there is nothing to render at request time.
+export const dynamicParams = false;
 
 const GITHUB_REPO = "https://github.com/parallax-ai-llc/truth-parallax";
 
@@ -29,8 +28,7 @@ interface PageProps {
 }
 
 export async function generateStaticParams() {
-  // All pages generated on-demand via ISR — too many for build-time
-  return [];
+  return getAllScripturePaths().map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: PageProps) {

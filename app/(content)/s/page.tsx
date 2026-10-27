@@ -3,9 +3,6 @@ import { BookOpen } from "lucide-react";
 import { getAllScriptures, RELIGION_GROUPS } from "@/lib/scriptures";
 import type { ScriptureMeta } from "@/lib/scriptures";
 
-// Content only changes on deploy, so cache until the next deploy.
-export const revalidate = false;
-
 export const metadata = {
   title: "Scriptures",
   description: "Browse sacred texts across world religions and explore how different traditions interpret the same scriptures.",
