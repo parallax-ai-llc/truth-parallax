@@ -61,3 +61,6 @@ retry_*.py
 
 # local Claude Code project notes
 CLAUDE.md
+
+# wrangler
+/.wrangler/
