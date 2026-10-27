@@ -16,9 +16,10 @@ import { SidebarToc } from "@/components/sidebar-toc";
 
 // ISR: each page renders on its first visit and is then served from the cache.
 // force-dynamic (2026-04) was meant to avoid ISR write costs, but it ran a function
-// on every request (~29k/day, mostly crawlers). Vercel no longer bills a write when a
-// revalidation produces the same output, and this content only changes on deploy.
-export const revalidate = 86400;
+// on every request (~29k/day, mostly crawlers). A daily revalidate (2026-10) rewrote
+// every crawled page each day (17M write units/month). Content only changes on
+// deploy, so pages stay cached until the next deploy.
+export const revalidate = false;
 export const dynamicParams = true;
 
 const GITHUB_REPO = "https://github.com/parallax-ai-llc/truth-parallax";
