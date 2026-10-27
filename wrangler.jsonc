@@ -3,6 +3,8 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "truth-parallax",
   "compatibility_date": "2026-10-01",
+  // Rollback: remove this route and deploy; the host falls back to edge-router → Vercel.
+  "routes": [{ "pattern": "truth.parallax.kr/*", "zone_name": "parallax.kr" }],
   "assets": {
     "directory": "./out",
     "html_handling": "auto-trailing-slash",
