@@ -77,7 +77,7 @@ export default async function ScriptureCatchAllPage({ params }: PageProps) {
     const breadcrumbs = [{ label: data.meta.title }];
 
     return (
-      <div className="flex flex-1 py-8 px-4 md:px-6 lg:pl-96 2xl:pl-0">
+      <div className="flex flex-1 py-8 px-4 md:px-6 lg:pl-0">
         <SidebarToc items={data.toc} articleTitle={data.meta.title} />
         <div className="mx-auto w-full max-w-4xl">
           <ScriptureBreadcrumb items={breadcrumbs} />
@@ -109,7 +109,7 @@ export default async function ScriptureCatchAllPage({ params }: PageProps) {
     })) || [];
 
     return (
-      <div className="flex flex-1 py-8 px-4 md:px-6 lg:pl-96 2xl:pl-0">
+      <div className="flex flex-1 py-8 px-4 md:px-6 lg:pl-0">
         <SidebarToc items={data.toc} articleTitle={data.meta.title} />
         <div className="mx-auto w-full max-w-4xl">
           <ScriptureBreadcrumb items={breadcrumbs} />
@@ -171,7 +171,7 @@ export default async function ScriptureCatchAllPage({ params }: PageProps) {
       }));
 
     return (
-      <div className="flex flex-1 py-8 px-4 md:px-6 lg:pl-96 2xl:pl-0">
+      <div className="flex flex-1 py-8 px-4 md:px-6 lg:pl-0">
         <SidebarToc items={data.toc} articleTitle={data.meta.chapterLabel} />
         <div className="mx-auto w-full max-w-4xl">
           <ScriptureBreadcrumb items={breadcrumbs} />

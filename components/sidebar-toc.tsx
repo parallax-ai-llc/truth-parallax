@@ -56,7 +56,7 @@ export function SidebarToc({ items, activeId, articleTitle }: SidebarTocProps) {
 
   return (
     <aside
-      className="hidden fixed top-14 left-0 z-30 w-80 h-[calc(100vh-3.5rem)] bg-background/50 backdrop-blur-sm lg:block"
+      className="sticky top-14 -mt-8 mr-16 hidden h-[calc(100vh-3.5rem)] w-80 shrink-0 self-start bg-background/50 backdrop-blur-sm lg:block"
       aria-label="Table of contents"
     >
       <div className="h-full py-6 pl-6 pr-4">

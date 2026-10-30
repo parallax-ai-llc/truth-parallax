@@ -5,7 +5,6 @@ import { Search, BookOpen } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { LanguageSwitcher } from "@/components/language-switcher";
 import { Footer } from "@/components/footer";
-import { cn } from "@/lib/utils";
 import { useLocale } from "@/lib/i18n";
 import { useRouter } from "next/navigation";
 import type { ScriptureMeta } from "@/lib/scripture-types";
@@ -73,7 +72,7 @@ export function HomeClient({ scriptures, totalFiles }: HomeClientProps) {
         <ThemeToggle />
       </header>
 
-      <main className="flex min-h-[90vh] flex-1 flex-col items-center justify-center px-4">
+      <main className="flex min-h-[80vh] flex-1 flex-col items-center justify-center px-4">
         <div className="w-full max-w-xl space-y-6 text-center">
           <div>
             <h1 className="font-serif text-4xl font-bold tracking-tight md:text-5xl leading-[1.2] min-h-[1.2em] text-primary">
@@ -159,36 +158,6 @@ export function HomeClient({ scriptures, totalFiles }: HomeClientProps) {
               {t("browseAll")}
             </Link>
           </div>
-        </div>
-
-        <div className="mt-12 flex flex-wrap items-center justify-center gap-3">
-          <a
-            href="https://parallax.kr/?utm_source=truth-parallax&utm_medium=cta&utm_campaign=go-to-parallax"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Go to Parallax — multi-model AI chat"
-            className={cn(
-              "group inline-flex h-12 items-center gap-3 rounded-full border pl-2.5 pr-5 text-base leading-none",
-              "transition-all duration-200 focus-visible:outline-none focus-visible:ring-[3px] focus-visible:ring-ring/50",
-              "border-border bg-background text-foreground shadow-[0_8px_24px_-14px_rgba(11,13,18,0.45)]",
-              "hover:-translate-y-0.5 hover:bg-accent hover:shadow-[0_14px_28px_-14px_rgba(11,13,18,0.55)]",
-              "dark:shadow-[0_10px_30px_-16px_rgba(232,234,242,0.3)]"
-            )}
-          >
-            {/* Parallax app icon, from https://parallax.kr/logo/icon_64.png */}
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src="/parallax-icon.png"
-              alt=""
-              width={28}
-              height={28}
-              className="size-7 shrink-0 transition-transform duration-300 group-hover:scale-110"
-            />
-            <span className="flex items-baseline gap-1.5">
-              <span className="font-medium">Go to</span>
-              <span className="font-bold">Parallax</span>
-            </span>
-          </a>
         </div>
       </main>
 
