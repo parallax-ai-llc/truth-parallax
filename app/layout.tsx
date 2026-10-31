@@ -91,13 +91,13 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         {/* Google Analytics (gtag.js) */}
-        <Script src="https://www.googletagmanager.com/gtag/js?id=G-W71QF2WLYQ" strategy="afterInteractive" />
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-5SN32GV096" strategy="afterInteractive" />
         <Script id="google-analytics" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-W71QF2WLYQ');
+            gtag('config', 'G-5SN32GV096');
           `}
         </Script>
       </head>
